@@ -6,7 +6,6 @@
 
 ```
 .
-├── CMakeLists.txt              # C++ 项目构建文件 (示例)
 ├── hook_config/                # GDB Hook 配置文件目录
 ├── outputs/                    # 攻击结果输出目录
 ├── pre_attack_scripts/         # 攻击前准备脚本
@@ -33,11 +32,7 @@ bash scripts/install_dependencies.sh
 source .venv/bin/activate
 ```
 
-### 2. (可选) 构建 C++ 可执行文件
-
-`resources/execution_files/` 目录下已提供预编译文件。如需自行编译，可参考 `CMakeLists.txt` 添加新的编译目标，并将生成的可执行文件放入上述目录。
-
-### 3. 准备攻击目标列表 (关键步骤)
+### 2. 准备攻击目标列表 (关键步骤)
 
 攻击前，需要筛选出模型会“误判”的图像作为攻击起点。
 
@@ -50,7 +45,7 @@ source .venv/bin/activate
     ```
     生成的列表将位于 `resources/false_image_list/`。
 
-### 4. 运行自动化攻击
+### 3. 运行自动化攻击
 
 准备就绪后，运行主攻击脚本。它会自动匹配模型、Hook配置和目标列表。
 
