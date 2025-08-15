@@ -43,10 +43,11 @@ def get_executable_output(image_path_on_host, args):
     project_root = os.path.abspath(os.path.join(script_dir, '..', '..'))
     mnn_lib_path = os.path.join(project_root, 'third_party', 'mnn', 'lib')
     onnx_lib_path = os.path.join(project_root, 'third_party', 'onnxruntime', 'lib')
+    inspire_lib_path = os.path.join(project_root, 'third_party', 'InspireFace', 'lib')
     
     env = os.environ.copy()
     existing_ld_path = env.get('LD_LIBRARY_PATH', '')
-    env['LD_LIBRARY_PATH'] = f"{mnn_lib_path}:{onnx_lib_path}:{existing_ld_path}"
+    env['LD_LIBRARY_PATH'] = f"{mnn_lib_path}:{onnx_lib_path}:{inspire_lib_path}:{existing_ld_path}"
 
     try:
         result = subprocess.run(
@@ -82,10 +83,11 @@ def _run_executable_and_parse_hooks(image_path_on_host, args):
     project_root = os.path.abspath(os.path.join(script_dir, '..', '..'))
     mnn_lib_path = os.path.join(project_root, 'third_party', 'mnn', 'lib')
     onnx_lib_path = os.path.join(project_root, 'third_party', 'onnxruntime', 'lib')
+    inspire_lib_path = os.path.join(project_root, 'third_party', 'InspireFace', 'lib')
     
     env = os.environ.copy()
     existing_ld_path = env.get('LD_LIBRARY_PATH', '')
-    env['LD_LIBRARY_PATH'] = f"{mnn_lib_path}:{onnx_lib_path}:{existing_ld_path}"
+    env['LD_LIBRARY_PATH'] = f"{mnn_lib_path}:{onnx_lib_path}:{inspire_lib_path}:{existing_ld_path}"
 
     try:
         result = subprocess.run(command, check=True, capture_output=True, text=True, timeout=60, env=env)
