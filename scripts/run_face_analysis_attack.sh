@@ -135,7 +135,7 @@ while IFS= read -r image_path || [[ -n "$image_path" ]]; do
         --raw-args-template "$CURRENT_RAW_ARGS_TEMPLATE"
         --output-dir "$specific_output_dir"
         --iterations 400
-        --learning-rate 2.0
+        --learning-rate 1.0
         --l-inf-norm 16.0
         --lr-decay-rate 0.97
         --lr-decay-steps 50
