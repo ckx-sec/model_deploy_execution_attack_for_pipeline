@@ -60,9 +60,11 @@ class HookBreakpoint(gdb.Breakpoint):
                 else:
                     value = gdb.parse_and_eval(item)
                     print(f"HOOK_RESULT: offset={self.relative_addr_str} address={self.address_str} immediate={item} value={value}")
-            except gdb.error:
-                # Silently ignore if GDB cannot parse/evaluate the item.
-                pass
+            except gdb.error as e:
+                # Instead of a warning, print a machine-readable error.
+                # Sanitize the error message to remove quotes that could break parsing.
+                reason = str(e).replace('"', "'")
+                print(f'HOOK_ERROR: offset={self.relative_addr_str} register={item} reason="{reason}"')
         
         return False
 

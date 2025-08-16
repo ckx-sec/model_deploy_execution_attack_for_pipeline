@@ -14,6 +14,7 @@ import tempfile
 import glob
 import time
 from scipy import stats
+import shlex
 
 def write_multiple_files_to_host(files_data, dest_dir):
     for filename, data in files_data:
@@ -29,15 +30,24 @@ def remove_files_on_host_batch(file_pattern):
         print(f"Warning: Error while trying to batch remove '{file_pattern}': {e}")
 
 def get_executable_output(image_path_on_host, args):
-    executable_on_host = args.executable
-    # Use the processed list of model paths
-    model_paths_on_host = [os.path.abspath(p) for p in args.model_paths]
+    if args.raw_args_template:
+        # Replace placeholders for models and image
+        model_paths_str = ' '.join([os.path.abspath(p) for p in args.model_paths])
+        command_template = args.raw_args_template.replace('{MODEL_PATHS}', model_paths_str)
+        command_template = command_template.replace('{IMAGE_PATH}', os.path.abspath(image_path_on_host))
+        
+        command = shlex.split(command_template)
+        command[0] = os.path.abspath(command[0])
+    else:
+        executable_on_host = args.executable
+        # Use the processed list of model paths
+        model_paths_on_host = [os.path.abspath(p) for p in args.model_paths]
 
-    command = [
-        os.path.abspath(executable_on_host),
-        *model_paths_on_host,
-        os.path.abspath(image_path_on_host)
-    ]
+        command = [
+            os.path.abspath(executable_on_host),
+            *model_paths_on_host,
+            os.path.abspath(image_path_on_host)
+        ]
 
     script_dir = os.path.dirname(__file__)
     project_root = os.path.abspath(os.path.join(script_dir, '..', '..'))
@@ -66,18 +76,34 @@ def get_executable_output(image_path_on_host, args):
 def _run_executable_and_parse_hooks(image_path_on_host, args):
     script_path = os.path.join(os.path.dirname(__file__), "run_gdb_host.sh") 
     
-    executable_on_host = args.executable
-    # Use the processed list of model paths
-    model_paths_on_host = [os.path.abspath(p) for p in args.model_paths]
+    if args.raw_args_template:
+        # Replace placeholders for models and image
+        model_paths_str = ' '.join([os.path.abspath(p) for p in args.model_paths])
+        command_template = args.raw_args_template.replace('{MODEL_PATHS}', model_paths_str)
+        command_template = command_template.replace('{IMAGE_PATH}', os.path.abspath(image_path_on_host))
+        
+        executable_and_args = shlex.split(command_template)
+        executable_and_args[0] = os.path.abspath(executable_and_args[0])
+        
+        command = [
+            '/bin/bash',
+            script_path,
+            *executable_and_args,
+            os.path.abspath(args.hooks)
+        ]
+    else:
+        executable_on_host = args.executable
+        # Use the processed list of model paths
+        model_paths_on_host = [os.path.abspath(p) for p in args.model_paths]
 
-    command = [
-        '/bin/bash',
-        script_path,
-        os.path.abspath(executable_on_host),
-        *model_paths_on_host,
-        os.path.abspath(image_path_on_host),
-        os.path.abspath(args.hooks)
-    ]
+        command = [
+            '/bin/bash',
+            script_path,
+            os.path.abspath(executable_on_host),
+            *model_paths_on_host,
+            os.path.abspath(image_path_on_host),
+            os.path.abspath(args.hooks)
+        ]
 
     script_dir = os.path.dirname(__file__)
     project_root = os.path.abspath(os.path.join(script_dir, '..', '..'))
@@ -94,9 +120,10 @@ def _run_executable_and_parse_hooks(image_path_on_host, args):
     except (subprocess.CalledProcessError, subprocess.TimeoutExpired) as e:
         stderr = e.stderr if hasattr(e, 'stderr') else "Timeout or error during execution"
         print(f"Error running host executable for '{image_path_on_host}': {stderr}")
-        return False, {}
+        return False, {}, {}
 
     hooked_values = {}
+    hooked_errors = {}
     is_successful = False
     full_output = result.stdout + "\n" + result.stderr
     output_lines = full_output.splitlines()
@@ -124,13 +151,21 @@ def _run_executable_and_parse_hooks(image_path_on_host, args):
                         hooked_values[offset] = []
                     hooked_values[offset].append(value)
             except (ValueError, TypeError): pass
+        elif "HOOK_ERROR" in line:
+            match = re.search(r'offset=(0x[0-9a-fA-F]+)\s+register=([\w\d]+)\s+reason="(.*)"', line)
+            if not match: continue
+
+            offset, register, reason = match.groups()
+            if offset not in hooked_errors:
+                hooked_errors[offset] = []
+            hooked_errors[offset].append(f"Failed to read register '{register}': {reason}")
                 
-    return is_successful, hooked_values
+    return is_successful, hooked_values, hooked_errors
 
 def evaluate_mutation_on_host(task_args):
     image_path_on_host, hook_config, dynamic_weights, args = task_args
     
-    _, hooks = _run_executable_and_parse_hooks(image_path_on_host, args)
+    _, hooks, _ = _run_executable_and_parse_hooks(image_path_on_host, args)
     
     loss, _ = calculate_targetless_loss(hooks, hook_config, dynamic_weights, args.satisfaction_threshold, missing_hook_penalty=args.missing_hook_penalty)
     return loss
@@ -141,11 +176,11 @@ def run_attack_iteration(image_content, args, workdir, image_name_on_host):
     with open(image_path_on_host, 'wb') as f:
         f.write(image_content)
 
-    is_successful, hooked_values = _run_executable_and_parse_hooks(image_path_on_host, args)
+    is_successful, hooked_values, hooked_errors = _run_executable_and_parse_hooks(image_path_on_host, args)
 
     os.remove(image_path_on_host)
     
-    return is_successful, hooked_values
+    return is_successful, hooked_values, hooked_errors
 
 
 def calculate_targetless_loss(current_hooks, hook_config, dynamic_weights, satisfaction_threshold, margin=0.0, missing_hook_penalty=10.0, verbose=False):
@@ -410,7 +445,12 @@ def main(args):
     elif args.model:
         args.model_paths = args.model
     else:
-        raise ValueError("No model files provided. Use --model or --models.")
+        # It's okay if no model is provided when using raw_args_template, as long as the template doesn't need them.
+        if args.raw_args_template and '{MODEL_PATHS}' in args.raw_args_template:
+            raise ValueError("Raw args template contains '{MODEL_PATHS}' but no models were provided via --model or --models.")
+        if not args.raw_args_template:
+            raise ValueError("No model files provided. Use --model, --models, or --raw-args-template.")
+        args.model_paths = [] # Set to empty list to avoid errors
 
     temp_dir_base = "/dev/shm" if os.path.exists("/dev/shm") else None
     workdir = tempfile.mkdtemp(prefix="nes_host_attack_", dir=temp_dir_base)
@@ -443,7 +483,15 @@ def main(args):
 
         print("--- Preparing environment: Verifying local paths ---")
         # Use the processed list of model paths for verification
-        static_files = [args.executable, args.hooks] + args.model_paths
+        if args.raw_args_template:
+            # For raw args, we check the executable from the template and any models passed separately.
+            executable_path = shlex.split(args.raw_args_template)[0]
+            static_files = [executable_path, args.hooks] + args.model_paths
+            if not os.path.isabs(executable_path):
+                 print(f"--- Warning: Executable path '{executable_path}' in raw template is not absolute. Assuming it's in PATH or relative to CWD. ---")
+        else:
+            static_files = [args.executable, args.hooks] + args.model_paths
+        
         gdb_script_path = os.path.join(os.path.dirname(__file__), "gdb_script_host.py")
         static_files.append(gdb_script_path)
         
@@ -507,7 +555,7 @@ def main(args):
             raise RuntimeError("Failed to encode original image for initial analysis.")
         
         dynamic_weights = {addr: state["dynamic_weight"] for addr, state in hooks_attack_state.items()}
-        _, initial_hooks = run_attack_iteration(encoded_original_image.tobytes(), args, workdir, "initial_image_check.png")
+        _, initial_hooks, _ = run_attack_iteration(encoded_original_image.tobytes(), args, workdir, "initial_image_check.png")
         total_queries += 1
         
         _, _ = calculate_targetless_loss(initial_hooks, hook_config, dynamic_weights, args.satisfaction_threshold, margin=args.margin, missing_hook_penalty=args.missing_hook_penalty, verbose=True)
@@ -580,7 +628,7 @@ def main(args):
                 print("Warning: Failed to encode attack image for verification.")
                 is_successful, current_hooks, loss, hook_diagnostics = False, {}, float('inf'), {}
             else:
-                is_successful, current_hooks = run_attack_iteration(encoded_image.tobytes(), args, workdir, "temp_attack_image.png")
+                is_successful, current_hooks, hooked_errors = run_attack_iteration(encoded_image.tobytes(), args, workdir, "temp_attack_image.png")
                 total_queries += 1
                 loss, hook_diagnostics = calculate_targetless_loss(current_hooks, hook_config, dynamic_weights, args.satisfaction_threshold, margin=args.margin, missing_hook_penalty=args.missing_hook_penalty)
             
@@ -605,7 +653,7 @@ def main(args):
                 print("Execution Output on Current Best Image:")
                 print(best_image_output)
 
-                _, best_hooks = _run_executable_and_parse_hooks(best_image_path, args)
+                _, best_hooks, _ = _run_executable_and_parse_hooks(best_image_path, args)
                 print("GDB Hook Info on Current Best Image (JSON):")
                 print(json.dumps(best_hooks, indent=4))
 
@@ -624,6 +672,9 @@ def main(args):
 
                     print("GDB Hook Info on Current Attack Image (Scouting Mode):")
                     print(json.dumps(current_hooks, indent=4))
+                    if hooked_errors:
+                        print("GDB Hook Errors on Current Attack Image (Scouting Mode):")
+                        print(json.dumps(hooked_errors, indent=4))
 
                     print("  - Scouting loss changes this iteration:")
                     changed_hooks_count = 0
@@ -710,6 +761,9 @@ def main(args):
                 elif attack_mode == "focused_fire":
                     print("GDB Hook Info on Current Attack Image (Focused Fire Mode):")
                     print(json.dumps(current_hooks, indent=4))
+                    if hooked_errors:
+                        print("GDB Hook Errors on Current Attack Image (Focused Fire Mode):")
+                        print(json.dumps(hooked_errors, indent=4))
 
                     # New logic for target retirement
                     print("--- Updating hook weights and checking targets within FOCUSED_FIRE mode ---")
@@ -792,7 +846,7 @@ def main(args):
                 else:
                     print("--- Verification FAILED: Direct execution does not confirm success. The attack may be incomplete. ---")
 
-                _, final_hooks = _run_executable_and_parse_hooks(successful_image_path, args)
+                _, final_hooks, _ = _run_executable_and_parse_hooks(successful_image_path, args)
                 print("GDB Hook Info on Successful Image (JSON):")
                 print(json.dumps(final_hooks, indent=4))
                 
@@ -815,7 +869,8 @@ def main(args):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="A grey-box adversarial attack using NES (Targetless Host Version).")
-    parser.add_argument("--executable", required=True, help="Local path to the target executable.")
+    # Make executable optional at the argparse level; we'll validate it manually.
+    parser.add_argument("--executable", help="Local path to the target executable. Required if not using --raw-args-template.")
     parser.add_argument("--image", required=True, help="Local path to the initial image to be attacked.")
     parser.add_argument("--hooks", required=True, help="Local path to the JSON file defining hook points and loss conditions.")
     parser.add_argument("--model", nargs='+', help="One or more local paths to model files. Use for one model or when paths don't contain commas.")
@@ -850,10 +905,18 @@ if __name__ == "__main__":
     dynamic_focus_group.add_argument("--non-target-weight", type=float, default=1.0, help="[Dynamic Focus] Baseline weight for non-focused hooks.")
     dynamic_focus_group.add_argument("--satisfied-weight", type=float, default=3.0, help="[Dynamic Focus] Weight for satisfied, non-focused hooks to maintain their state.")
     dynamic_focus_group.add_argument("--satisfaction-threshold", type=float, default=0.01, help="[Dynamic Focus] Loss threshold below which a hook is considered 'satisfied'.")
-    dynamic_focus_group.add_argument("--satisfaction-patience", type=int, default=5, help="[Dynamic Focus] Iterations a target must be satisfied consecutively before being retired.")
+    dynamic_focus_group.add_argument("--satisfaction-patience", type=int, default=3, help="[Dynamic Focus] Iterations a target must be satisfied consecutively before being retired.")
+
+    custom_command_group = parser.add_argument_group("Custom Command Execution")
+    custom_command_group.add_argument("--raw-args-template", type=str, help="A raw command line template for executables with complex arguments. Use {IMAGE_PATH} as a placeholder for the attack image and {MODEL_PATHS} for models provided via --model(s). E.g., './face_analysis_cli {MODEL_PATHS} analyze {IMAGE_PATH} out.bin'. This overrides --executable.")
 
     parser.add_argument("--workers", type=int, default=os.cpu_count(), help="Number of parallel processes for evaluation.")
     parser.add_argument("--output-dir", type=str, default="attack_outputs_nes_host", help="Directory to save output images and logs.")
     
     cli_args = parser.parse_args()
+    
+    # --- Manual Validation for Executable ---
+    if not cli_args.raw_args_template and not cli_args.executable:
+        parser.error("Either --executable or --raw-args-template must be provided.")
+
     main(cli_args) 
