@@ -1,0 +1,2638 @@
+Brand,SubBrand,Arcsoft SDK,Face++ SDK,SenseTime SDK,Biometric SensorTech SDK,System Face App
+10or,e,,,,,system/app/FaceLock/FaceLock.apk
+8849,tank3,,,vendor/lib64/libstfaceunlock.so; vendor/lib/libstfaceunlock.so,,
+8849,tank_mini_1,,,vendor/lib64/libstfaceunlock.so; vendor/lib/libstfaceunlock.so,,
+KDDI,imnj,,,,,system/app/FaceLock.apk
+KDDI,joan,,,,,
+KDDI,scv31,,,,,system/priv-app/FaceService/FaceService.apk; system/priv-app/smartfaceservice/smartfaceservice.apk
+KDDI,scv38,,,,,system/system/priv-app/BioFaceService/BioFaceService.apk; system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+KDDI,shooting,,,,,
+KDDI,sov41,,,,,system/system/app/FaceLock/FaceLock.apk
+ace,as0618,,,,,system/app/FaceLock/FaceLock.apk; system/priv-app/QK_FaceUnlockEx/QK_FaceUnlockEx.apk
+acer,acer_barricadewifi,,,,,system/app/FaceLock/FaceLock.apk
+acer,acer_c01,,,,,
+acer,acerone8t482l,,,,,
+adt-3,adt3,,,,,
+agm,hs8939qc,,,,,
+aidata,adt1061,,,,,
+ajnaxr,ajnaxr,,,,,
+ajnaxr,kona,,,,,
+aligator,aligator_s6500,,,,,system/system/priv-app/FaceUnlock/FaceUnlock.apk
+allcall,allcall_s1_x,,,,,
+allwinner,apollo_lybox,,,,,
+allwinner,ceres-b6,,,,,
+allwinner,kylin-p2,,,,,system/app/FaceLock/FaceLock.apk
+allwinner,virgo-perf1,,,,,
+alps,8227l_demo,,,,,
+alps,ac8257_demo_1g_32,,,,,
+alps,aiv8167sm3_bsp,,,,,
+alps,android,,,,,
+alps,aqua_glam,,,,,system/app/FaceLock/FaceLock.apk
+alps,co2,,,,,
+alps,es2,,,,,
+alps,f202_f22_p10,,,,,system/priv-app/FaceLockThird/FaceLockThird.apk
+alps,frt,,,,,
+alps,h2s,,,,,
+alps,h55_mt8163_60_n,,,,,
+alps,hinoki,,,,,system/app/FaceLock/FaceLock.apk
+alps,i14_pro_max,,,,,system/priv-app/FaceUnlock/FaceUnlock.apk
+alps,k63v1us_64_bsp,,,,,
+alps,k63v2_64_bsp,,,,,
+alps,k65v1_64_bsp,,,,,
+alps,k6789v1_64,,,,,
+alps,kw_c7s_auo,,,,,
+alps,ld_c15_tft_lflt,,,,,product/app/FaceUnlockLauncher/FaceUnlockLauncher.apk; system/system/priv-app/WearHeilsFaceUnlock/WearHeilsFaceUnlock.apk
+alps,lw_c15_tft_lflt,,,,,system/system/priv-app/WearHeilsFaceUnlock/WearHeilsFaceUnlock.apk
+alps,mgvi_64_armv82,,,vendor/lib64/libstfaceunlockppl.so; vendor/lib/libstfaceunlockppl.so,,system_ext/app/FaceID/FaceID.apk
+alps,mgvi_64_nfc_armv82,,,vendor/lib64/libstfaceunlockppl.so; vendor/lib/libstfaceunlockppl.so,,system_ext/app/FaceID/FaceID.apk
+alps,mgvi_t_64_armv82,,,vendor/lib64/libstfaceunlock.so; vendor/lib/libstfaceunlock.so,,
+alps,mgvi_t_64_wifi_armv82,,,,,
+alps,mihal,,,,,
+alps,ne1,,,,,system/app/FaceLock/FaceLock.apk
+alps,op5303,,,odm/lib/libstfaceunlockppl.so,,
+alps,ranger,,,,,system/app/FaceLock/FaceLock.apk
+alps,sanstar77_jb,,,,,system/app/FaceLock.apk
+alps,sm34,,,,,system/system/app/FaceLock/FaceLock.apk
+alps,spm8666p1_64_bsp,,system/priv-app/Camera_FIH/lib/arm64/libMegviiUnlock.so; system/priv-app/CarAccount/lib/arm64/libMegviiUnlock.so,,,
+alps,stone,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockppl.so; system/system/lib64/libstfaceunlockppl.so,,
+alps,tb8768p1_64_a32,,odm/lib/libMegviiUnlock.so,,,system/system/app/HwSecurityServer/HwLocalFaceIdAuth.apk
+alps,tb8797p1_64_k419,,,,,
+alps,wt6580_we_n,,,,,
+alps,xy_d09_tft_lflt,,,,,product/app/FaceUnlockLauncher/FaceUnlockLauncher.apk; system/system/priv-app/WearHeilsFaceUnlock/WearHeilsFaceUnlock.apk
+alps,z703_32,,,,,system/app/FaceLock/FaceLock.apk
+amazfit,msm8909w,,,,,
+amazon,ariel,,,,,
+amazon,austin,,,,,
+amazon,bueller,,,,,
+amazon,cupcake,,,,,
+amazon,douglas,,,,,
+amazon,ford,,,,,
+amazon,gazelle,,,,,
+amazon,giza,,,,,
+amazon,kara,,,,,
+amazon,karnak,,,,,
+amazon,kayak,,,,,
+amazon,mantis,,,,,
+amazon,maverick,,,,,
+amazon,mustang,,,,,
+amazon,needle,,,,,
+amazon,onyx,,,,,
+amazon,quartz,,,,,
+amazon,raspite,,,,,
+amazon,raven,,,,,
+amazon,sheldon,,,,,
+amazon,sheldonp,,,,,
+amazon,sloane,,,,,
+amazon,stark,,,,,
+amazon,suez,,,,,
+amazon,sunstone,,,,,
+amazon,tank,,,,,
+amazon,thebes,,,,,
+amazon,trona,,,,,
+amazon,tungsten,,,,,
+amlogic,anning,,,,,
+amlogic,aster,,,,,
+amlogic,franklin,,,,,
+amlogic,newton,,,,,
+amlogic,ohm,,,,,
+amlogic,ohmcas,,,,,
+android,aosp_arm64,,,,,
+android,fih_msm8937_32go,,,,,
+android,generic,,,,,
+android,generic_arm64,,,,,
+android,generic_arm64_ab,,,,,
+android,generic_riscv64,,,,,
+android,generic_x86_64,,,,,
+android,glass_v3,,,,,
+android,hs8916qc,,,,,
+android,maestro7872,,,,,
+android,marlin,,,,,
+android,msm8953_64,,,,,
+android,msm8994,,,,,
+android,phhgsi_arm64_ab,,,,,
+android,sdm845,,,,,system/system/app/FaceLock/FaceLock.apk
+android,smdk7270,,,,,
+android,taimen,,,,,
+android,uapro_g3,,,,,
+apple,apple,,,,,
+archos,ac57as4g,,,,,
+archos,ac70dti,,,,,
+ascom,sh4-1,,,,,system/system/priv-app/ApeFaceUnlock/ApeFaceUnlock.apk
+askey,deadpool,,,,,
+asus,52,,,,,
+asus,ZS620KL,,,,,
+asus,asus_a001d_2,,system/app/AsusFaceUnlockService/lib/arm64/libMegviiUnlock.so,,,system/app/AsusFaceUnlockService/AsusFaceUnlockService.apk
+asus,asus_a002,,,,,
+asus,asus_a002_2,,,,,
+asus,asus_ai2201,,,,,system/system/app/AsusFaceUnlockService/AsusFaceUnlockService.apk
+asus,asus_ai2202,,,,,system/system/app/AsusFaceUnlockService/AsusFaceUnlockService.apk
+asus,asus_ai2203,,,,,system/system/app/AsusFaceUnlockService/AsusFaceUnlockService.apk
+asus,asus_ai2205,,,,,system/system/app/AsusFaceUnlockService/AsusFaceUnlockService.apk
+asus,asus_ai2302,,,,,system/system/app/AsusFaceUnlockService/AsusFaceUnlockService.apk
+asus,asus_ai2401,,,,,system/system/app/AsusFaceUnlockService/AsusFaceUnlockService.apk
+asus,asus_i001_1,,system/system/app/AsusFaceUnlockService/lib/arm64/libMegviiUnlock.so; system/system/priv-app/SmartReading/lib/arm64/libMegviiUnlock.so,,,system/system/app/AsusFaceUnlockService/AsusFaceUnlockService.apk
+asus,asus_i002d,,system/system/app/AsusFaceUnlockService/lib/arm64/libMegviiUnlock.so,,,system/system/app/AsusFaceUnlockService/AsusFaceUnlockService.apk
+asus,asus_i003_1,,system/system/app/AsusFaceUnlockService/lib/arm64/libMegviiUnlock.so; system/system/priv-app/SmartReading/lib/arm64/libMegviiUnlock.so,,,system/system/app/AsusFaceUnlockService/AsusFaceUnlockService.apk
+asus,asus_i004d,,,,,system/system/app/AsusFaceUnlockService/AsusFaceUnlockService.apk
+asus,asus_i005_1,,,,,system/system/app/AsusFaceUnlockService/AsusFaceUnlockService.apk
+asus,asus_i006d,,,,,system/system/app/AsusFaceUnlockService/AsusFaceUnlockService.apk
+asus,asus_i007_1,,system/system/app/AsusFaceUnlockService/lib/arm64/libMegviiUnlock.so,,,system/system/app/AsusFaceUnlockService/AsusFaceUnlockService.apk
+asus,asus_i01wd,,system/system/app/AsusFaceUnlockService/lib/arm64/libMegviiUnlock.so,,,system/system/app/AsusFaceUnlockService/AsusFaceUnlockService.apk
+asus,asus_p00j,,,,,
+asus,asus_x00hd,,,,,
+asus,asus_x00id,,,,,
+asus,asus_x00ld_1,,,,,
+asus,asus_x00pd,,system/system/app/AsusFaceUnlockService/lib/arm64/libMegviiUnlock.so,,,system/system/app/AsusFaceUnlockService/AsusFaceUnlockService.apk
+asus,asus_x00qd,,system/app/AsusFaceUnlockService/lib/arm64/libMegviiUnlock.so; system/priv-app/SmartReading/lib/arm64/libMegviiUnlock.so,,,system/app/AsusFaceUnlockService/AsusFaceUnlockService.apk
+asus,asus_x00rd,,system/system/app/AsusFaceUnlockService/lib/arm64/libMegviiUnlock.so,,,system/system/app/AsusFaceUnlockService/AsusFaceUnlockService.apk
+asus,asus_x00td,,system/system/app/AsusFaceUnlockService/lib/arm64/libMegviiUnlock.so,,,system/system/app/AsusFaceUnlockService/AsusFaceUnlockService.apk
+asus,asus_x01a_1,,system/system/app/AsusFaceUnlockService/lib/arm64/libMegviiUnlock.so,,,system/system/app/AsusFaceUnlockService/AsusFaceUnlockService.apk
+asus,asus_x01bd,,system/system/app/AsusFaceUnlockService/lib/arm64/libMegviiUnlock.so,,,system/system/app/AsusFaceUnlockService/AsusFaceUnlockService.apk
+asus,asus_z00e_2,,,,,
+asus,asus_z01h_1,,,,,
+asus,asus_z01kd_1,,,,,
+asus,asus_z01m_1,,,,,
+asus,asus_z01qd_1,,system/system/app/AsusFaceUnlockService/lib/arm64/libMegviiUnlock.so; system/system/priv-app/SmartReading/lib/arm64/libMegviiUnlock.so,,,system/system/app/AsusFaceUnlockService/AsusFaceUnlockService.apk
+asus,asus_z01r_1,,system/system/app/AsusFaceUnlockService/lib/arm64/libMegviiUnlock.so; system/system/priv-app/SmartReading/lib/arm64/libMegviiUnlock.so,,,system/system/app/AsusFaceUnlockService/AsusFaceUnlockService.apk
+asus,asusai2501,,,,,system/system/app/AsusFaceUnlockService/AsusFaceUnlockService.apk
+asus,i001_1,,system/system/app/AsusFaceUnlockService/lib/arm64/libMegviiUnlock.so; system/system/priv-app/SmartReading/lib/arm64/libMegviiUnlock.so,,,system/system/app/AsusFaceUnlockService/AsusFaceUnlockService.apk
+asus,i01wd,,system/system/app/AsusFaceUnlockService/lib/arm64/libMegviiUnlock.so,,,system/system/app/AsusFaceUnlockService/AsusFaceUnlockService.apk
+asus,kona,,system/system/app/AsusFaceUnlockService/lib/arm64/libMegviiUnlock.so,,,system/system/app/AsusFaceUnlockService/AsusFaceUnlockService.apk
+asus,msm8953_64,,system/system/app/AsusFaceUnlockService/lib/arm64/libMegviiUnlock.so,,,system/system/app/AsusFaceUnlockService/AsusFaceUnlockService.apk
+asus,p00c_2,,,,,
+asus,qssi,,,,,
+asus,ww_i005d,,,,,system/system/app/AsusFaceUnlockService/AsusFaceUnlockService.apk
+asus,ww_i007d,,system/system/app/AsusFaceUnlockService/lib/arm64/libMegviiUnlock.so,,,system/system/app/AsusFaceUnlockService/AsusFaceUnlockService.apk
+asus,ww_i01wd,,system/system/app/AsusFaceUnlockService/lib/arm64/libMegviiUnlock.so,,,system/system/app/AsusFaceUnlockService/AsusFaceUnlockService.apk
+asus,ww_x00pd,,system/app/AsusFaceUnlockService/lib/arm64/libMegviiUnlock.so,,,system/app/AsusFaceUnlockService/AsusFaceUnlockService.apk
+asus,ww_x00rd,,system/app/AsusFaceUnlockService/lib/arm64/libMegviiUnlock.so,,,system/app/AsusFaceUnlockService/AsusFaceUnlockService.apk
+asus,x00hd_4,,,,,
+asus,x00qd,,system/app/AsusFaceUnlockService/lib/arm64/libMegviiUnlock.so; system/priv-app/SmartReading/lib/arm64/libMegviiUnlock.so,,,system/app/AsusFaceUnlockService/AsusFaceUnlockService.apk
+asus,x00td,,system/system/app/AsusFaceUnlockService/lib/arm64/libMegviiUnlock.so,,,system/system/app/AsusFaceUnlockService/AsusFaceUnlockService.apk
+asus,x017d_2,,system/app/AsusFaceUnlockService/lib/arm64/libMegviiUnlock.so,,,system/app/AsusFaceUnlockService/AsusFaceUnlockService.apk
+asus,x01a_1,,system/lib/libMegviiUnlock.so; system/lib64/libMegviiUnlock.so,,,system/app/AsusFaceUnlockService/AsusFaceUnlockService.apk
+asus,x01bd,,system/system/app/AsusFaceUnlockService/lib/arm64/libMegviiUnlock.so,,,system/system/app/AsusFaceUnlockService/AsusFaceUnlockService.apk
+asus,z010,,,,,
+asus,z01kd_1,,,,,
+asus,z01qd_1,,system/system/app/AsusFaceUnlockService/lib/arm64/libMegviiUnlock.so; system/system/priv-app/SmartReading/lib/arm64/libMegviiUnlock.so,,,system/system/app/AsusFaceUnlockService/AsusFaceUnlockService.apk
+asus,z01r_1,,system/system/app/AsusFaceUnlockService/lib/arm64/libMegviiUnlock.so; system/system/priv-app/SmartReading/lib/arm64/libMegviiUnlock.so,,,system/system/app/AsusFaceUnlockService/AsusFaceUnlockService.apk
+asus,za550kl,,system/app/AsusFaceUnlockService/lib/arm64/libMegviiUnlock.so,,,system/app/AsusFaceUnlockService/AsusFaceUnlockService.apk
+asus,zb555kl,,system/app/AsusFaceUnlockService/lib/arm64/libMegviiUnlock.so,,,system/app/AsusFaceUnlockService/AsusFaceUnlockService.apk
+att,ea211005,,,,,
+att,u202aa,,,,,
+att,u304aa,,,,,
+att,u318aa,,,,,
+att,u325ac,,,,,
+att,u705aa,,,,,
+blackberry,unknown,,,,,system/app/FaceLock/FaceLock.apk
+blackshark,darklighter,,,system/system/lib64/libstfaceunlockocl.so,,
+blackshark,katyusha,,system/system/lib64/libMegviiUnlock.so,,,
+blackshark,klein,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; system/system/lib64/libstfaceunlockocl.so,,
+blackshark,missi,,system/system/app/MiuiBiometric/lib/arm64/libMegviiUnlock.so; system/system/lib64/libMegviiUnlock.so,,,
+blackshark,mobius,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; system/system/lib64/libstfaceunlockocl.so,,
+blackshark,penrose,,system/system/app/MiuiBiometric/lib/arm64/libMegviiUnlock.so; system/system/lib64/libMegviiUnlock.so,,,
+blackshark,qssi,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; system/system/lib64/libstfaceunlockocl.so,,
+blackshark,shark,,,system/system/lib64/libstfaceunlockocl.so,,
+blackshark,skywalker,,,system/system/lib64/libstfaceunlockocl.so,,
+blackview,a200pro,,,,,system/system/priv-app/AW_FaceIdService/AW_FaceIdService.apk
+blackview,a80pro,,,,,system/system/priv-app/FaceUnlock/FaceUnlock.apk
+blackview,blackview,,,,,system/system/priv-app/FaceUnlock/FaceUnlock.apk
+blackview,bv8900,,,vendor/lib64/libstfaceunlock.so; vendor/lib/libstfaceunlock.so,,
+blackview,bv9200,,,vendor/lib64/libstfaceunlock.so; vendor/lib/libstfaceunlock.so,,
+blackview,bv9600,,,,,system/system/priv-app/FaceUnlock/FaceUnlock.apk
+blackview,bv9900,,,,,system/system/priv-app/FaceUnlock/FaceUnlock.apk
+blackview,bv9900pro,,,,,system/system/priv-app/FaceUnlock/FaceUnlock.apk
+blackview,tab_15_neu,,,,,
+blocks,sombrero,,,,,
+blu,advance_4_0_l3,,,,,
+blu,c090p,,,,,
+blu,g0090,,,,,
+blu,g0170,,,,,
+blu,g0190,,,,,
+blu,g0230ww,,,system/system/lib/libstfaceunlock.so; system/system/lib64/libstfaceunlock.so,,system/system/app/TFaceServiceApp/TFaceServiceApp.apk; system/system/priv-app/FaceUnlock/FaceUnlock.apk
+blu,g0310ww,,,system/system/lib64/libstfaceunlock.so; system/system/lib/libstfaceunlock.so,,system/system/app/TFaceServiceApp/TFaceServiceApp.apk; system/system/priv-app/FaceUnlock/FaceUnlock.apk
+blu,m030p,,,,,
+blu,n0030ww,,,,,
+blu,n0050uu,,,system/system/lib64/libstfaceunlock.so; system/system/lib/libstfaceunlock.so,,system/system/app/TFaceServiceApp/TFaceServiceApp.apk; system/system/priv-app/FaceUnlock/FaceUnlock.apk
+blu,v0310ww,,,,,system/system/priv-app/Cyee_FaceLock/Cyee_FaceLock.apk
+blu,v0350ww,,vendor/lib/libMegviiUnlock.so,,,system/priv-app/Cyee_FaceLock/Cyee_FaceLock.apk
+bodun,turing,,,,,
+bpi,m5_mbox,,,,,
+bpi,m5_tablet,,,,,
+bq,bardock,,,,,system/app/FaceLock/FaceLock.apk
+bq,bardock-pro,,,,,system/app/FaceLock/FaceLock.apk
+bq,jeice,,,,,system/app/FaceLock/FaceLock.apk
+bq,nappa_s,,,,,system/app/FaceLock/FaceLock.apk
+bq,raditz,,,,,system/app/FaceLock/FaceLock.apk
+bq,raditz_s,,,,,system/app/FaceLock/FaceLock.apk
+bq,yamcha,,,,,system/app/FaceLock/FaceLock.apk
+bq,zangya_sprout,,,,,
+bq,zangyapro_sprout,,,,,
+bqru,bqru-5730l,,,,,system/system/app/FaceLock/FaceLock.apk
+braun,yk919_lwctg61_32,,,,,
+bravis,n1_550_cruiser,,,,,
+camfone,hero_12,,,,,system/app/FaceLockSetting/FaceLockSetting.apk
+camfone,hero_13,,,system/app/TFaceServiceApp/lib/arm/libstfaceunlock.so,,system/app/TFaceServiceApp/TFaceServiceApp.apk
+camfone,hero_h5_plus,,,,,
+camfone,hero_h9,,,,,system/app/FaceLock/FaceLock.apk
+camfone,hero_se2,,,system/app/TFaceServiceApp/lib/arm/libstfaceunlock.so,,system/app/TFaceServiceApp/TFaceServiceApp.apk
+camfone,hero_se3_max,,,system/lib/libstfaceunlock.so,,system/app/PrizeFaceUnlock/PrizeFaceUnlock.apk
+casio,ayu,,,,,
+cat,cats60,,,,,system/app/FaceLock/FaceLock.apk
+cat,cats61,,,,,system/system/app/FaceLock/FaceLock.apk
+cat,s22flip,,,,,
+cat,s62,,,,,
+cat,s62pro,,,,,
+chuwi,hi9pro,,,,,
+claro,l530,,,,,
+clearcellular,clearphone_220,,,system/system/lib64/libstfaceunlock.so; system/system/lib/libstfaceunlock.so,,system/system/app/TFaceServiceApp/TFaceServiceApp.apk; system/system/priv-app/FaceUnlock/FaceUnlock.apk
+clearcellular,clearphone_420,,,system/system/lib64/libstfaceunlock.so; system/system/lib/libstfaceunlock.so,,system/system/app/TFaceServiceApp/TFaceServiceApp.apk; system/system/priv-app/FaceUnlock/FaceUnlock.apk
+clearcellular,clearphone_620,,,system/system/lib64/libstfaceunlock.so; system/system/lib/libstfaceunlock.so,,system/system/app/TFaceServiceApp/TFaceServiceApp.apk; system/system/priv-app/FaceUnlock/FaceUnlock.apk
+colorfly,shift7,,,,,
+condor,allure_m3,,,,,system/priv-app/Cyee_FaceLock/Cyee_FaceLock.apk
+condor,allure_m3_lite,,,,,system/app/FaceLock/FaceLock.apk
+condor,griffe_t5,,,,,
+condor,griffe_t6,,,,,
+condor,griffe_t7,,,,,
+condor,griffe_t8,,,,,
+condor,griffe_t9,,,,,system/system/app/FaceLock/FaceLock.apk
+condor,griffe_t9_plus,,,,,system/system/app/FaceLock/FaceLock.apk
+condor,plume_l1_plus,,,,,
+condor,plume_l3,,,,,system/app/FaceLock/FaceLock.apk
+coolpad,c558,,,,,
+coolpad,coolpad,,,,,
+coolpad,coolpad_1803,,,,,system/priv-app/CP_FaceID/CP_FaceID.apk
+coolpad,le_ares,,,,,
+coolpad,n3_mini,,,,,
+coolpad,roadie,,,,,
+creator,b01,,,,,
+cricket,u304ac,,,,,
+cricket,u325ac,,,,,
+cricket,u705ac,,,,,
+ctyon,ct06,,,,,
+cubot,cubot_j3,,,,,system/priv-app/FaceUnlock/FaceUnlock.apk
+cubot,kingkong_8,,,,,
+cubot,kingkong_mini,,,,,system/system/priv-app/FaceUnlock/FaceUnlock.apk
+cubot,p60,,,vendor/lib64/libstfaceunlock.so; vendor/lib/libstfaceunlock.so,,
+cubot,p80,,,,,
+cubot,quest_lite,,,,,system/system/priv-app/FaceUnlock/FaceUnlock.apk
+cubot,r15_pro,,,,,system/system/priv-app/FaceUnlock/FaceUnlock.apk
+cubot,r19,,,,,system/system/priv-app/FaceUnlock/FaceUnlock.apk
+cubot,x30,,,,,system/system/priv-app/FaceUnlock/FaceUnlock.apk
+cubot,x50,,,vendor/lib64/libstfaceunlock.so; vendor/lib/libstfaceunlock.so,,
+custom,vega,,,,,
+daria,zahedan,,,,vendor/lib64/libbstFaceUnlock.so; vendor/lib/libbstFaceUnlock.so,
+dell,lw,,,,,system/app/FaceLock.apk
+dell,saltbay,,,,,system/app/FaceLock.apk
+dell,yellowtail,,,,,system/app/FaceLock.apk
+deutschetelekom,cheetah,,,,vendor/lib64/libbstFaceUnlock.so; vendor/lib/libbstFaceUnlock.so,
+deutschetelekom,jaguar,,,,vendor/lib64/libbstFaceUnlock.so; vendor/lib/libbstFaceUnlock.so,system/system/priv-app/FaceService/FaceService.apk
+deutschetelekom,leopard,,,,vendor/lib64/libbstFaceUnlock.so; vendor/lib/libbstFaceUnlock.so,system/system/priv-app/FaceService/FaceService.apk
+deutschetelekom,lion,,,,vendor/lib64/libbstFaceUnlock.so; vendor/lib/libbstFaceUnlock.so,system/system/priv-app/FaceService/FaceService.apk
+deutschetelekom,puma,,,,vendor/lib64/libbstFaceUnlock.so; vendor/lib/libbstFaceUnlock.so,
+deutschetelekom,tiger,,,,vendor/lib64/libbstFaceUnlock.so; vendor/lib/libbstFaceUnlock.so,system/system/priv-app/FaceService/FaceService.apk
+dexp,al240,,,,,
+dexp,b245,,,,,
+dexp,b340,,,,,
+dexp,n210,,,,,system/app/FaceLock/FaceLock.apk
+dexp,n310,,,,,system/app/FaceLock/FaceLock.apk
+dexp,n370,,,,,
+dexp,n570,,,,,system/app/FaceLock/FaceLock.apk
+dexp,p380i,,,,,
+dexp,p410,,,,,
+dexp,s280,,,,,
+dexp,s380,,,,,system/app/FaceLock/FaceLock.apk
+dexp,va110,,,,,
+dexp,va210,,,,,
+diamond,turbo_b2,,,,,
+digma,cs1194mg,,,,,system/app/FaceLock/FaceLock.apk
+digma,cs1195mg,,,,,system/app/FaceLock/FaceLock.apk
+digma,cs1196ml,,,,,system/app/FaceLock/FaceLock.apk
+digma,cs1219pl,,,,,
+digma,cs3001ml,,,,,system/app/FaceLock/FaceLock.apk
+digma,cs6062ml,,,system/system/lib/libstfaceunlock.so; system/system/lib64/libstfaceunlock.so,,system/system/app/TFaceServiceApp/TFaceServiceApp.apk; system/system/priv-app/FaceUnlock/FaceUnlock.apk
+digma,cs7193mg,,,,,system/app/FaceLock/FaceLock.apk
+digma,cs8209mg,,,,,system/system/app/FaceLock/FaceLock.apk
+digma,ls4050mg,,,,,
+digma,ls4051mg,,,,,system/app/FaceLock/FaceLock.apk
+digma,ls5040pl,,,,,system/app/FaceLock/FaceLock.apk
+digma,ls5041pl,,,,,system/app/FaceLock/FaceLock.apk
+digma,ls5053ml,,,,,system/app/FaceLock/FaceLock.apk
+digma,lt4047mg,,,,,
+digma,lt5048mg,,,,,
+digma,lt5052ml,,,,,
+digma,ns1800ml,,,,,
+digma,ps1187mg,,,,,system/app/FaceLock/FaceLock.apk
+digma,ps1202pl,,,,,
+digma,ps8163pl,,,,,
+digma,ps8199ml,,,,,
+digma,ps8212pg,,,,,
+digma,ts7203mg,,,,,
+digma,ts8211pg,,,,,
+digma,vt4055mg,,,,,
+dji,rc331,,,,,
+dji,rm330,,,,,
+dji,rm500,,,,,
+dji,rm510,,,,,
+dji,rm700,,,,,
+doogee,m23,,,vendor/lib64/libstfaceunlock.so; vendor/lib/libstfaceunlock.so,,
+doogee,m23u,,,vendor/lib64/libstfaceunlock.so; vendor/lib/libstfaceunlock.so,,
+doogee,s68pro,,,,,system/system/priv-app/FaceUnlock/FaceUnlock.apk
+doogee,s80,,,,,system/priv-app/FaceUnlock/FaceUnlock.apk
+doogee,v10,,,vendor/lib64/libstfaceunlock.so; vendor/lib/libstfaceunlock.so,,
+doogee,x90,,,,,system/priv-app/FaceUnlock/FaceUnlock.apk
+doogee,x90l,,,,,system/system/priv-app/FaceUnlock/FaceUnlock.apk
+doogee,y7,,,,,
+doogee,y8,,,,,system/system/priv-app/FaceUnlock/FaceUnlock.apk
+doro,dsb0230,,,,,
+doro,qcm6125,,,,,
+dragon_touch,k10,,,,,
+droidlogic,galilei,,,,,
+droidlogic,ohm,,,,,
+droidlogic,rutherford,,,,,
+droidlogic,t963_ak301,,,,,
+droidlogic,w400,,,,,
+dynalink,sti6130d350,,,,,
+elephone,u_pro,,,,,system/system/app/FaceLock/FaceLock.apk; system/system/priv-app/FaceUnlock/FaceUnlock.apk
+elevate,g55_lite,,,,,system/app/FaceLock/FaceLock.apk; system/priv-app/QK_FaceUnlockEx/QK_FaceUnlockEx.apk
+energy_sistem,aine,,,,,system/app/FaceLock/FaceLock.apk
+ergo,v551_aura,,,,,
+essential,gem,,,,,
+essential,mata,,,,,system/system/product/app/FaceLock/FaceLock.apk
+estream4k,sei400tv,,,,,
+estream4k,sei500abb,,,,,
+evercoss,evercoss_m55,,,,,
+evercoss,evercoss_m55_pro,,,,,
+evercoss,evercoss_u6a,,,,,
+evercoss,m55b,,,,,
+evercoss,s45_plus,,,,,
+evercoss,s45a,,,,,
+evercoss,s45b,,,,,
+evoforce1,sei800rcn,,,,,
+facebook,aloha,,,,,
+facebook,atlas,,,,,
+facebook,cipher,,,,,
+facebook,omni,,,,,
+facebook,ripley,,,,,
+facebook,terry,,,,,
+fairphone,fp2,,,,,
+fairphone,fp3,,,,,
+fairphone,fp4,,,,,
+fairphone,fp5,,system_ext/lib64/libanc_faceid.so,,,
+fairphone,fp6,,system_ext/lib64/libanc_faceid.so,,,
+fake,asus_ai2302,,,,,system/system/app/AsusFaceUnlockService/AsusFaceUnlockService.apk
+ffkj,ff-5000,,,,,system/app/FaceLock/FaceLock.apk
+fih,d1c,,,,,
+fih,e1m,,,,,system/app/FaceLock/FaceLock.apk
+fih,e2m,,,,,
+fih,gsi_co2_sprout,,,,,system/system/app/FaceLock/FaceLock.apk
+fih,gsi_ctl_sprout,,,,,system/system/app/FaceLock/FaceLock.apk
+fih,gsi_pda_sprout,,,,,system/system/app/FaceLock/FaceLock.apk
+fih,gsi_pl2_sprout,,,,,system/system/app/FaceLock/FaceLock.apk
+fih,gsi_roo_sprout,,,,,system/system/app/FaceLock/FaceLock.apk
+fih,hrp,,,,,system/app/FaceLock/FaceLock.apk
+fih,lfc,,,,,
+fih,nd1,,,,,system/system/app/FaceLock/FaceLock.apk
+fih,ple,,,,,system/system/app/FaceLock/FaceLock.apk
+fih_gsi,fih_sdm660_64,,,,,system/system/app/FaceLock/FaceLock.apk
+fih_gsi,pda_sprout,,,,,system/system/app/FaceLock/FaceLock.apk
+firefly,rk3588_firefly_itx_3588j,,,,,
+fly,lifeace,,,,,
+fly,lifejet,,,,,
+fly,viewmax,,,,,
+fossil,bluegill,,,,,
+fossil,darter,,,,,
+fossil,shiner,,,,,
+fossil,triggerfish,,,,,
+freebox,fbx8am,,,,,
+fx_tec_pro1x,qx1050,,,,,
+fxtec,qx1000,,,,,system/system/app/FaceLock/FaceLock.apk
+general_luxe,shahin_iii,,,system/system/lib64/libstfaceunlock.so; system/system/lib/libstfaceunlock.so,,system/system/app/TFaceServiceApp/TFaceServiceApp.apk; system/system/priv-app/FaceUnlock/FaceUnlock.apk
+generalmobile,etab5,,,,,
+getac,zx10,,,,,
+getac,zx70,,,,,
+getac,zx70g2,,,,,
+gigaset,gs290,,,system/system/lib64/libstfaceunlock.so; system/system/lib/libstfaceunlock.so,,system/system/app/TFaceServiceApp/TFaceServiceApp.apk; system/system/priv-app/FaceUnlock/FaceUnlock.apk
+gigaset,gs3,,,,,system/system/priv-app/FaceUnlock/FaceUnlock.apk
+gigaset,gs5,,,,vendor/lib64/libbstFaceUnlock.so; vendor/lib/libbstFaceUnlock.so,
+gigaset,gx4_pro,,,,vendor/lib64/libbstFaceUnlock.so; vendor/lib/libbstFaceUnlock.so,
+gigi,gigi_u1,,,,,
+gionee,f10,,,,,system/system/priv-app/PM_FaceUnlockEx/PM_FaceUnlockEx.apk
+gionee,f10_plus,,,,,
+gionee,gionee_bj17g06,,,,,system/app/Amigo_FaceRecog/Amigo_FaceRecog.apk
+gionee,gionee_sw17g12,,,,,system/app/Amigo_FaceRecog/Amigo_FaceRecog.apk
+gionee,gionee_wbw5617,,,,,system/app/FaceLock/FaceLock.apk
+gm,g501,,,system/system/lib64/libstfaceunlock.so; system/system/lib/libstfaceunlock.so,,system/system/app/TFaceServiceApp/TFaceServiceApp.apk; system/system/priv-app/FaceUnlock/FaceUnlock.apk
+gm,gm8,,,,,
+gm,gm8_d_sprout,,,,,system/system/app/FaceLock/FaceLock.apk
+gm,gm8_sprout,,,,,system/system/app/FaceLock/FaceLock.apk
+gm,gm9plus_s,,,,,system/system/app/FaceLock/FaceLock.apk
+gm,gm9pro,,,,,
+gm,gm9pro_sprout,,,,,system/system/app/FaceLock/FaceLock.apk
+gm,shamrock,,,,,system/app/FaceLock/FaceLock.apk
+go1006,sp9832e_fs097_go,,,,,
+gomobile,go505,,,,,
+google,adt2,,,,,
+google,akita,,,,,
+google,angler,,84239b02e7257ba6e627a2a80c1091d1bedce73b/system/system/app/FaceID/lib/arm/libMegviiUnlock.so; 84239b02e7257ba6e627a2a80c1091d1bedce73b/system/system/lib/libMegviiUnlock.so; miui_MI8SE_9.7.25_92a3fadbc8_9.0/system/app/MiuiBiometric/lib/arm64/libMegviiUnlock.so; miui_MI8SE_9.7.25_92a3fadbc8_9.0/system/lib64/libMegviiUnlock.so; miui_MIMIX2_9.7.25_f2c77fc810_9.0/system/app/MiuiBiometric/lib/arm64/libMegviiUnlock.so; miui_MIMIX2_9.7.25_f2c77fc810_9.0/system/lib64/libMegviiUnlock.so; miui_MIMIX2Global_V10.4.1.0.PDEMIXM_3580d2ac05_9.0/system/app/MiuiBiometric/lib/arm64/libMegviiUnlock.so; miui_MIMIX2Global_V10.4.1.0.PDEMIXM_3580d2ac05_9.0/system/lib64/libMegviiUnlock.so; miui_MINote3_9.7.25_ea8f152b55_9.0/system/app/MiuiBiometric/lib/arm64/libMegviiUnlock.so; miui_MINote3_9.7.25_ea8f152b55_9.0/system/lib64/libMegviiUnlock.so; NX611J-update/system/app/NubiaFaceId/lib/arm64/libMegviiUnlock.so; NX619J-update/system/system/app/NubiaFaceId/lib/arm64/libMegviiUnlock.so; NX629J-update/system/system/app/NubiaFaceId/lib/arm64/libMegviiUnlock.so; UL-WW_Z01QD_1-WW-15.1616.1809.48-1.1.12-user/system/system/app/AsusFaceUnlockService/lib/arm64/libMegviiUnlock.so,CPH1861EX_11_A.39_OTA_0390_all_201907081744/vendor/lib64/libstfaceunlockocl.so; CPH1861EX_11_A.39_OTA_0390_all_201907081744/vendor/lib/libstfaceunlockocl.so; miui_DAVINCIGlobal_V10.3.9.0.PFJMIXM_1b6f5bc7ca_9.0/system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; miui_DAVINCIGlobal_V10.3.9.0.PFJMIXM_1b6f5bc7ca_9.0/system/system/lib64/libstfaceunlockocl.so; miui_HM6A_V10.4.3.0.PCBCNXM_9a4aa642d2_9.0/system/system/app/MiuiBiometric/lib/arm/libstfaceunlockppl.so; miui_HM6A_V10.4.3.0.PCBCNXM_9a4aa642d2_9.0/system/system/lib/libstfaceunlockppl.so; miui_HM6_V10.4.2.0.PCGCNXM_2748275372_9.0/system/system/app/MiuiBiometric/lib/arm/libstfaceunlockppl.so; miui_HM6_V10.4.2.0.PCGCNXM_2748275372_9.0/system/system/lib/libstfaceunlockppl.so; miui_PINEEEAGlobal_V10.2.3.0.PCMEUXM_2f66f8d068_9.0/system/system/app/MiuiBiometric/lib/arm/libstfaceunlockocl.so; miui_PINEEEAGlobal_V10.2.3.0.PCMEUXM_2f66f8d068_9.0/system/system/lib/libstfaceunlockocl.so; miui_PYXIS_9.7.25_f4c853eef1_9.0/system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; miui_PYXIS_9.7.25_f4c853eef1_9.0/system/system/lib64/libstfaceunlockocl.so; miui_VELA_9.7.25_482be0faee_9.0/system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; miui_VELA_9.7.25_482be0faee_9.0/system/system/lib64/libstfaceunlockocl.so,,67f2dd18465b81679a35c4307c299237ec723ea3/system/app/FaceLock/FaceLock.apk; 84239b02e7257ba6e627a2a80c1091d1bedce73b/system/system/app/FaceID/FaceID.apk; a3fdf9a7be3548459a79e62f3726edc6bf94cbe4/system/system/app/FaceLock/FaceLock.apk; ALBUS_OPSS27.76-12-25-23_cid50_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml/system/app/FaceLock/FaceLock.apk; ALJETER_PPP29.55-35-12_cid50_subsidy-DEFAULT_regulatory-DEFAULT_MODEM_Z_CFC.xml/system/app/FaceLock/FaceLock.apk; angler-opm7.181205.001-factory-b75ce068/system/app/FaceLock/FaceLock.apk; BECKHAM_PPW29.183-29-1_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml/system/system/priv-app/MotoFaceUnlock/MotoFaceUnlock.apk; BECKHAM_PPW29.183-29-1_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml/system/system/priv-app/MotoFaceUnlockTA/MotoFaceUnlockTA.apk; c2ac98a054a940b7c344d74e8dcd608e869b0a00/system/system/priv-app/WosFaceService/WosFaceService.apk; c496f9e78493f7ddc75ef1044c4de81dfd18b2ef/system/system/app/FaceLock/FaceLock.apk; HANNAH_SPRINT_OCPS27.91-32-15-2_cid50_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml/system/app/FaceLock/FaceLock.apk; HARPIA_VF_NPIS26.48-43-2_cid50_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml/system/app/FaceLock/FaceLock.apk; KANE_PSA29.137-19_subsidy-DEFAULT_regulatory-XT1970-2-CHINA_CFC.xml/system/system/priv-app/MotoFaceUnlock/MotoFaceUnlock.apk; KANE_PSA29.137-19_subsidy-DEFAULT_regulatory-XT1970-2-CHINA_CFC.xml/system/system/priv-app/MotoFaceUnlockTA/MotoFaceUnlockTA.apk; MONTANA_RETAIL_8.1.0_OPPS28.65-37-7-6_cid50_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml/system/app/FaceLock/FaceLock.apk; MONTANA_RETLOCK_OPPS28.65-37-7-6_cid51_subsidy-TRUETH_regulatory-DEFAULT_CFC.xml/system/app/FaceLock/FaceLock.apk; NX611J-update/system/app/NubiaFaceId/NubiaFaceId.apk; NX619J-update/system/system/app/NubiaFaceId/NubiaFaceId.apk; NX629J-update/system/system/app/NubiaFaceId/NubiaFaceId.apk; occam-lmy48t-factory-c43c7cfd/system/app/FaceLock/FaceLock.apk; OnePlus5TOxygen_43_OTA_050_all_1907181455_07c3fb83259d4547/system/priv-app/OPFaceUnlock/OPFaceUnlock.apk; OnePlus6Oxygen_22_OTA_050_all_1907162300_959b78/system/system/priv-app/OPFaceUnlock/OPFaceUnlock.apk; OnePlus7Oxygen_14.O.13_OTA_013_all_1907122308_3dc791b99b844b82/system/system/priv-app/OPFaceUnlock/OPFaceUnlock.apk; OnePlus7ProOxygen_21.E.15_OTA_015_all_1907281610_ce0f1a6b7c8/system/system/priv-app/OPFaceUnlock/OPFaceUnlock.apk; PAYTON_PPWS29.69-39-2-1_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml/system/system/app/FaceLock/FaceLock.apk; RIVER_PPO29.114-134_cid50_subsidy-DEFAULT_regulatory-XT1962-4-SUTEL-DS_CFC.xml/system/system/priv-app/MotoFaceUnlock/MotoFaceUnlock.apk; RIVER_PPO29.114-134_cid50_subsidy-DEFAULT_regulatory-XT1962-4-SUTEL-DS_CFC.xml/system/system/priv-app/MotoFaceUnlockTA/MotoFaceUnlockTA.apk; SURFNA_PPB29.73-52_cid50_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml/system/system/app/FaceLock/FaceLock.apk; system/app/FaceLock/FaceLock.apk; tissot_images_7.8.23_20170823.0000.00_7.1_61cf97d794/system/system/app/FaceLock/FaceLock.apk; troika_oem_user_9_PSA29.120_6e42_release-keys_oem.xml/system/system/priv-app/MotoFaceUnlock/MotoFaceUnlock.apk; troika_oem_user_9_PSA29.120_6e42_release-keys_oem.xml/system/system/priv-app/MotoFaceUnlockTA/MotoFaceUnlockTA.apk; UL-WW_Z01QD_1-WW-15.1616.1809.48-1.1.12-user/system/system/app/AsusFaceUnlockService/AsusFaceUnlockService.apk; XT1929-3_BECKHAM_SPRINT_9.0_PCW29.85-36_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml/system/system/priv-app/MotoFaceUnlock/MotoFaceUnlock.apk; XT1929-3_BECKHAM_SPRINT_9.0_PCW29.85-36_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml/system/system/priv-app/MotoFaceUnlockTA/MotoFaceUnlockTA.apk; XT1942-1_CHEF_CMCC_8.1.0_OCT28.67-54_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml/system/system/app/FaceLock/FaceLock.apk
+google,atom,,,,,
+google,aurora,,,,,
+google,baracus,,,,,
+google,barbet,,,,,
+google,bluejay,,,,,
+google,blueline,,,,,
+google,bonito,,,,,
+google,boreal,,,,,
+google,bramble,,,,,
+google,bullhead,,,,,system/app/FaceLock/FaceLock.apk
+google,caiman,,,,,
+google,cheetah,,,,,
+google,comet,,,,,
+google,coral,,,,,
+google,crespo,,,,,
+google,crosshatch,,,,,
+google,deb,,,,,system/app/FaceLock/FaceLock.apk
+google,dragon,,,,,system/app/FaceLock/FaceLock.apk
+google,emu64a,,,,,
+google,emulator64_arm64,,,,,
+google,emulator_arm64,,,,,
+google,eos,,,,,
+google,felix,,,,,
+google,flame,,,,,
+google,flo,,,,,system/app/FaceLock/FaceLock.apk
+google,flounder,,,,,system/app/FaceLock/FaceLock.apk
+google,flounder_lte,,,,,system/app/FaceLock/FaceLock.apk
+google,fugu,,,,,
+google,generic,,,,,
+google,generic_arm64_ab,,,,,
+google,generic_x86_64,,,,,
+google,generic_x86_64_arm64,,,,,
+google,glass-1,,,,,
+google,glass-2,,,,,
+google,glass_v3,,,,,
+google,grouper,,,,,system/app/FaceLock/FaceLock.apk
+google,gsi_arm64,,,,,
+google,hammerhead,,,,,system/app/FaceLock.apk
+google,helios,,,,,
+google,husky,,,,,
+google,kirkwood,,,,,
+google,kiyomi,,,,,
+google,komodo,,,,,
+google,kukui_cheets,,,,,
+google,luna,,,,,
+google,lynx,,,,,
+google,mako,,,,,system/app/FaceLock/FaceLock.apk
+google,marlin,,,,,system/system/app/FaceLock/FaceLock.apk
+google,molly,,,,,
+google,oriole,,,,,
+google,panther,,,,,
+google,phantasm,,,,,
+google,qssi,,,,,
+google,r11,,,,,
+google,r11btwifi,,,,,
+google,raven,,,,,
+google,redfin,,,,,
+google,sabrina,,,,,
+google,sailfish,,,,,system/system/app/FaceLock/FaceLock.apk
+google,sargo,,,,,
+google,seed,,,,,system/app/FaceLock/FaceLock.apk
+google,shamu,,,,,system/app/FaceLock/FaceLock.apk
+google,shiba,,,,,
+google,sunfish,,,,,
+google,taimen,,,,,system/system/app/FaceLock/FaceLock.apk
+google,tangorpro,,,,,
+google,tegu,,,,,
+google,tilapia,,,,,system/app/FaceLock/FaceLock.apk
+google,tokay,,,,,
+google,vsoc_kiwi_x86_64,,,,,
+google,walleye,,,,,system/system/app/FaceLock/FaceLock.apk
+google,yellowstone,,,,,system/app/FaceLock.apk
+gopro,buckhorn,,,,,
+gopro,karma-controller,,,,,
+gpd,xp,,,,,
+haier,a1,,,,,
+haier,a3_lite,,,,,
+hesc,sl8541e_1h10,,,,,system/priv-app/HeilsFaceUnlock/HeilsFaceUnlock.apk
+hi6250,hi6250,,,,,
+hiby,rs6,,,,,
+hiby,rs8,,,,,
+hipstreet-lyf,ls-5013,,,,,system/app/FaceLock/FaceLock.apk
+hisense,hamamatsucho,,,,,
+hisense,hlte202n,,,system/system/app/Vision_FaceUnLockApp/lib/arm64/libstfaceunlockppl.so,,system/system/app/Vision_FaceUnLockApp/Vision_FaceUnLockApp.apk
+hisense,sc9832e,,,system/system/lib/libstfaceunlockppl.so; system/system/priv-app/SystemUI/lib/arm/libstfaceunlockppl.so,,
+hmd,lgd,,system_ext/priv-app/HMDFaceService/lib/arm64/libanc_faceid.so,,,system_ext/priv-app/HMDFaceService/HMDFaceService.apk
+hmd,nhk,,system_ext/priv-app/HMDFaceService/lib/arm64/libanc_faceid.so,,,system_ext/priv-app/HMDFaceService/HMDFaceService.apk
+hmd,nighthawk,,system_ext/priv-app/HMDFaceService/lib/arm64/libanc_faceid.so,,,system_ext/priv-app/HMDFaceService/HMDFaceService.apk
+hmd,nyx,,system_ext/priv-app/HMDFaceService/lib/arm64/libanc_faceid.so; system_ext/priv-app/HMDFaceService/lib/arm/libanc_faceid.so,,,system_ext/priv-app/HMDFaceService/HMDFaceService.apk
+hmd,shk,,,,,
+hmd,tct,,system_ext/priv-app/HMDFaceService/lib/arm64/libanc_faceid.so,,,system_ext/priv-app/HMDFaceService/HMDFaceService.apk
+homtom,c8,,,,,system/priv-app/FaceUnlock/FaceUnlock.apk
+honeywell,ct47,,,,,
+honeywell,eda10a,,,,,
+honeywell,eda52,,,,,
+honeywell,hon4290,,,,,
+honeywell,hon660,,,,,
+honor,eli,,,,,system_ext/app/HnSecurityServer/HnLocalFaceIdAuth.apk
+honor,elp,,,,,system_ext/app/HnSecurityServer/HnLocalFaceIdAuth.apk
+honor,hnelp,,,,,system_ext/app/HnSecurityServer/HnLocalFaceIdAuth.apk
+honor,hnnth,,,,,system_ext/app/HnSecurityServer/HnLocalFaceIdAuth.apk
+honor,hnrky-m1,,,,,system_ext/app/HnSecurityServer/HnLocalFaceIdAuth.apk
+honor,hnver,,,,,system_ext/app/HnSecurityServer/HnLocalFaceIdAuth.apk
+honor,parrot,,,,,system_ext/app/HnSecurityServer/HnLocalFaceIdAuth.apk
+honor,ptp,,,,,system_ext/app/HnSecurityServer/HnLocalFaceIdAuth.apk
+honor,rea,,,,,system_ext/app/HnSecurityServer/HnLocalFaceIdAuth.apk
+honor,sun,,,,,system_ext/app/HnSecurityServer/HnLocalFaceIdAuth.apk
+honor,ver,,,,,system_ext/app/HnSecurityServer/HnLocalFaceIdAuth.apk
+hp,butler,,,,,system/app/FaceLock/FaceLock.apk
+hp,pioneer,,,,,
+htc,europe_magnids,,,,,system/system/app/FaceLock.apk
+htc,htc_acawhl,,,,,system/app/FaceLock/FaceLock.apk
+htc,htc_himaulatt,,,,,system/app/FaceLock/FaceLock.apk
+htc,htc_imeuhl,,,,,
+htc,htc_m8,,,,,
+htc,htc_m8whl,,,,,system/app/FaceLock/FaceLock.apk
+htc,htc_ocnwhl,,,,,system/app/FaceLock/FaceLock.apk
+htc,htc_pmeuhl,,,,,system/app/FaceLock/FaceLock.apk
+htc,htc_rtxspcs,,,,,
+huami,msm8909w,,,,,
+huawei,8425l,,,,,system/system/priv-app/HwSecurityServer/HwLocalFaceIdAuth.apk
+huawei,atlanta,,,,,
+huawei,generic_a15,,,,,
+huawei,huaweimate60,,vendor/lib64/libanc_faceid.so,,,
+huawei,hwana,,,,,system/app/HwSecurityServer/HwLocalFaceIdAuth.apk
+huawei,hwcun-u6582,,,,,
+huawei,miami,,,,,
+huawei,ohosqssi,,,,,system/system/priv-app/HwSecurityServer/HwLocalFaceIdAuth.apk
+huawei,p30,,,,,system/priv-app/FaceLock/FaceLock.apk; system/priv-app/FaceLockSettings/FaceLockSettings.apk
+huawei,sturgeon,,,,,
+ibasso,dx170,,,,,
+ibasso,dx320,,,,,
+ibasso,dx320max,,,,,
+iiif150,air1_ultra_pro,,,vendor/lib64/libstfaceunlockppl.so,,system/system/priv-app/Aiui_FaceLock/Aiui_FaceLock.apk
+iiif150,raptor,,,vendor/lib64/libstfaceunlockppl.so,,system/system/priv-app/Aiui_FaceLock/Aiui_FaceLock.apk
+iku,a25,,,,,system/system/app/TydFaceLock/TydFaceLock.apk; system/system/priv-app/FaceIdService/FaceIdService.apk
+iku,ix,,,,,
+impression,impad_p101,,,,,system/app/FaceLock/FaceLock.apk
+impression,impad_p104,,,,,system/app/FaceLock/FaceLock.apk
+infinix,infinix-x650,,,system/lib/libstfaceunlockppl.so,,system/app/FaceID/FaceID.apk
+infinix,infinix-x650c,,,system/system/app/FaceID/lib/arm64/libstfaceunlockppl.so; system/system/lib64/libstfaceunlockppl.so,,system/system/app/FaceID/FaceID.apk
+infinix,infinix-x650d,,,system/system/lib64/libstfaceunlockppl.so,,system/system/app/FaceID/FaceID.apk
+infinix,infinix-x6515,,,,,system_ext/app/FaceID/FaceID.apk
+infinix,infinix-x6525b,,,,,system_ext/app/FaceID/FaceID.apk
+infinix,infinix-x6528,,,,,system_ext/app/FaceID/FaceID.apk
+infinix,infinix-x6531,,,vendor/lib64/libstfaceunlockppl.so; vendor/lib/libstfaceunlockppl.so,,system_ext/app/FaceID/FaceID.apk
+infinix,infinix-x6531b,,,vendor/lib64/libstfaceunlockppl.so; vendor/lib/libstfaceunlockppl.so,,system_ext/app/FaceID/FaceID.apk
+infinix,infinix-x6532,,,vendor/lib/libstfaceunlockppl.so,,system_ext/app/FaceID/FaceID.apk
+infinix,infinix-x655f,,,system/system/lib64/libstfaceunlockppl.so,,system/system/app/FaceID/FaceID.apk; system/system/app/FaceidSub/FaceidSub.apk
+infinix,infinix-x657b,,,system_ext/app/FaceID/lib/arm/libstfaceunlockppl.so; system_ext/lib/libstfaceunlockppl.so,,system_ext/app/FaceID/FaceID.apk; system_ext/app/FaceidSub/FaceidSub.apk
+infinix,infinix-x657c,,,system/system/app/FaceID/lib/arm/libstfaceunlockppl.so; system/system/lib/libstfaceunlockppl.so,,system/system/app/FaceID/FaceID.apk; system/system/app/FaceidSub/FaceidSub.apk
+infinix,infinix-x662,,,system_ext/app/FaceID/lib/arm64/libstfaceunlockppl.so; system_ext/lib64/libstfaceunlockppl.so,,system_ext/app/FaceID/FaceID.apk; system_ext/app/FaceidSub/FaceidSub.apk
+infinix,infinix-x663c,,,,,system_ext/app/FaceID/FaceID.apk
+infinix,infinix-x663d,,,system_ext/app/FaceID/lib/arm64/libstfaceunlockppl.so; system_ext/lib64/libstfaceunlockppl.so,,system_ext/app/FaceID/FaceID.apk; system_ext/app/FaceidSub/FaceidSub.apk
+infinix,infinix-x665b,,,system_ext/app/FaceID/lib/arm64/libstfaceunlockppl.so; system_ext/lib64/libstfaceunlockppl.so,,system_ext/app/FaceID/FaceID.apk; system_ext/app/FaceidSub/FaceidSub.apk
+infinix,infinix-x666,,,,,system_ext/app/FaceID/FaceID.apk
+infinix,infinix-x666b,,,,,system_ext/app/FaceID/FaceID.apk
+infinix,infinix-x669d,,,,,system_ext/app/FaceID/FaceID.apk
+infinix,infinix-x670,,,,,system_ext/app/FaceID/FaceID.apk
+infinix,infinix-x6710,,,,,system_ext/app/FaceID/FaceID.apk
+infinix,infinix-x6711,,,vendor/lib64/libstfaceunlockppl.so; vendor/lib/libstfaceunlockppl.so,,system_ext/app/FaceID/FaceID.apk
+infinix,infinix-x6739,,,vendor/lib64/libstfaceunlockppl.so; vendor/lib/libstfaceunlockppl.so,,system_ext/app/FaceID/FaceID.apk
+infinix,infinix-x680d,,,system/system/app/FaceID/lib/arm/libstfaceunlockppl.so; system/system/lib/libstfaceunlockppl.so,,system/system/app/FaceID/FaceID.apk; system/system/app/FaceidSub/FaceidSub.apk
+infinix,infinix-x6812,,,system_ext/app/FaceID/lib/arm64/libstfaceunlockppl.so; system_ext/lib64/libstfaceunlockppl.so,,system_ext/app/FaceID/FaceID.apk; system_ext/app/FaceidSub/FaceidSub.apk
+infinix,infinix-x6815d,,,,,system_ext/app/FaceID/FaceID.apk
+infinix,infinix-x6816d,,,,,system_ext/app/FaceID/FaceID.apk; system_ext/app/FaceidSub/FaceidSub.apk
+infinix,infinix-x6820,,,,,system_ext/app/FaceID/FaceID.apk
+infinix,infinix-x6826,,,,,system_ext/app/FaceID/FaceID.apk
+infinix,infinix-x6827,,,,,system_ext/app/FaceID/FaceID.apk
+infinix,infinix-x682c,,,product/app/FaceID/lib/arm64/libstfaceunlockppl.so; product/lib64/libstfaceunlockppl.so,,product/app/FaceID/FaceID.apk; product/app/FaceidSub/FaceidSub.apk
+infinix,infinix-x689,,,system_ext/lib64/libstfaceunlockppl.so,,system_ext/app/FaceID/FaceID.apk; system_ext/app/FaceidSub/FaceidSub.apk
+infinix,infinix-x689b,,,system_ext/app/FaceID/lib/arm64/libstfaceunlockppl.so; system_ext/lib64/libstfaceunlockppl.so,,system_ext/app/FaceID/FaceID.apk; system_ext/app/FaceidSub/FaceidSub.apk
+infinix,infinix-x690,,,system/system/app/FaceID/lib/arm64/libstfaceunlockppl.so; system/system/lib64/libstfaceunlockppl.so,,system/system/app/FaceID/FaceID.apk; system/system/app/FaceidSub/FaceidSub.apk
+infinix,infinix-x690b,,,system/system/app/FaceID/lib/arm64/libstfaceunlockppl.so; system/system/lib64/libstfaceunlockppl.so,,system/system/app/FaceID/FaceID.apk; system/system/app/FaceidSub/FaceidSub.apk
+infinix,infinix-x695,,,system_ext/app/FaceID/lib/arm64/libstfaceunlockppl.so; system_ext/lib64/libstfaceunlockppl.so,,system_ext/app/FaceID/FaceID.apk; system_ext/app/FaceidSub/FaceidSub.apk
+infinix,infinix-x695c,,,system_ext/app/FaceID/lib/arm64/libstfaceunlockppl.so; system_ext/lib64/libstfaceunlockppl.so,,system_ext/app/FaceID/FaceID.apk; system_ext/app/FaceidSub/FaceidSub.apk
+infinix,infinix-x698,,,system_ext/app/FaceID/lib/arm64/libstfaceunlockppl.so; system_ext/lib64/libstfaceunlockppl.so,,system_ext/app/FaceID/FaceID.apk; system_ext/app/FaceidSub/FaceidSub.apk
+infinix,x601,,,,,
+intel,vm300,,,,,
+intex,aqua_freedom,,,,,
+intex,cloud_4g_star,,,,,
+intex,cloud_q11,,,,,system/app/FaceLock/FaceLock.apk
+intex,device,,,,,
+intex,intex_aqua_selfie,,,,,
+iplay_20,iplay_20,,,,,
+iqoo,2009,,vendor/lib64/libMegviiUnlock.so,,,
+iqoo,2017,,,,,
+iqoo,2018,,,,,
+iqoo,i1928,,vendor/lib64/libMegviiUnlock.so,,,
+iqoo,i2201,,,,,
+iqoo,i2212,,vendor/lib64/libanc_faceid.so,,,
+iqoo,i2220,,vendor/lib64/libanc_faceid.so,,,
+iqoo,i2401,,vendor/lib64/libanc_faceid.so,,,
+iqoo,kona,,vendor/lib64/libMegviiUnlock.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+irbis,sp493,,,,,
+itel,itel-a14,,,,,
+itel,itel-a16-plus,,,,,
+itel,itel-a662l,,,,,
+itel,itel-l5002,,,,,
+itel,itel-l5502,,,,,
+itel,itel-l5503,,,,,
+itel,itel-l6002p,,,,,
+itel,itel-l6003p,,,,,
+itel,itel-p10003l,,,,,
+itel,itel-p661n,,,vendor/lib64/libstfaceunlockppl.so; vendor/lib/libstfaceunlockppl.so,,system_ext/app/FaceID/FaceID.apk
+itel,itel-s665l,,,,,system_ext/app/FaceID/FaceID.apk
+itel,itel-w4003,,,,,
+itel,itel-w5504,,,,,
+itel,l6005,,,,,
+itel,w6002,,,,,
+jiaguwen,t3a,,,,,
+jinga,neon,,,,,
+jingpad,jingpad_c1,,,,,
+jio,f491h,,,,,
+jio,franklin,,,,,
+jio,jioospro,,,,,
+jio,ls1542qw,,,,,
+karbonn,k9_smart_plus,,,,,
+karbonn,karbonn_vue_1,,,,,
+karbonn,platinum_p9_pro,,,,,system/priv-app/FaceLockSetting/FaceLockSetting.apk
+kepler,ss8827,,,,,system/system/priv-app/OPFaceUnlock/OPFaceUnlock.apk
+kirin710,kirin710,,odm/lib64/libMegviiUnlock.so,,,system/system/app/HwSecurityServer/HwLocalFaceIdAuth.apk
+kirin970,kirin970,,odm/lib64/libMegviiUnlock.so,,,
+kodak,kodakektra,,,,,
+koobee,sl004t,,,,,
+kospet,prime,,,,,system/priv-app/HeilsFaceUnlock/HeilsFaceUnlock.apk
+kw06,kw06,,,,,
+kyocera,kyv47,,,,,
+kyocera,s2_sprout,,,,,system/system/app/FaceLock/FaceLock.apk
+lava,iris51,,,,,
+lava,le9810,,,system/priv-app/LavaFaceUnlockST/lib/arm/libstfaceunlock.so,,system/priv-app/LavaFaceUnlockST/LavaFaceUnlockST.apk
+lava,le9820,,,system/priv-app/LavaFaceUnlockST/lib/arm64/libstfaceunlock.so,,system/priv-app/LavaFaceUnlockST/LavaFaceUnlockST.apk
+lava,le9830,,,system/system/priv-app/InoFaceUnlock/lib/arm64/libstfaceunlock.so,,system/system/priv-app/InoFaceUnlock/InoFaceUnlock.apk
+lava,lf9810_2gb,,,system/system/priv-app/InoFaceUnlock/lib/arm64/libstfaceunlock.so,,system/system/priv-app/InoFaceUnlock/InoFaceUnlock.apk
+lava,ln9910,,,,,
+lava,lxx501,,,system/system/lib64/libstfaceunlock.so; system/system/lib/libstfaceunlock.so,,system/system/app/TFaceServiceApp/TFaceServiceApp.apk; system/system/priv-app/FaceUnlock/FaceUnlock.apk
+lava,lxx503,,,,vendor/lib64/libbstFaceUnlock.so; vendor/lib/libbstFaceUnlock.so,
+lava,lxx504,,,,vendor/lib64/libbstFaceUnlock.so; vendor/lib/libbstFaceUnlock.so,
+lava,lxx505,,,,,system/system/priv-app/Aiui_FaceLock/Aiui_FaceLock.apk
+lava,lxx518,,,,vendor/lib64/libbstFaceUnlock.so,
+lava,lzx407,,,,vendor/lib64/libbstFaceUnlock.so; vendor/lib/libbstFaceUnlock.so,
+lava,z51,,,,,
+lava,z82,,,,,system/system/app/FaceLock/FaceLock.apk
+leagoo,m10,,,,,
+leeco,le_s2,,,system/priv-app/APPLetvFaceRecognition/lib/arm64/libstfaceunlock.so,,system/priv-app/APPLetvFaceRecognition/APPLetvFaceRecognition.apk
+leeco,le_x6,,,system/priv-app/APPLetvFaceRecognition/lib/arm64/libstfaceunlock.so,,system/priv-app/APPLetvFaceRecognition/APPLetvFaceRecognition.apk
+leeco,le_x7,,,system/priv-app/APPLetvFaceRecognition/lib/arm64/libstfaceunlock.so,,system/priv-app/APPLetvFaceRecognition/APPLetvFaceRecognition.apk
+lemx,lemx,,,,,
+lenovo,701lv,,,,,system/app/FaceLock/FaceLock.apk
+lenovo,702lv,,,,,system/app/FaceLock/FaceLock.apk
+lenovo,7305f,,system/system/priv-app/MtkSystemUI/lib/arm/libMegviiUnlock.so,,,
+lenovo,7305i,,system/system/priv-app/MtkSystemUI/lib/arm/libMegviiUnlock.so,,,
+lenovo,7305x,,system/system/priv-app/MtkSystemUI/lib/arm/libMegviiUnlock.so,,,
+lenovo,7306f,,,,,
+lenovo,a10-70f,,,,,system/app/FaceLock/FaceLock.apk
+lenovo,a10-70l,,,,,system/app/FaceLock/FaceLock.apk
+lenovo,a1010a20,,,,,
+lenovo,a101lv,,,,,
+lenovo,a369i,,,,,
+lenovo,a6600a40,,,,,system/app/FaceLock/FaceLock.apk
+lenovo,achilles6_row_data,,,,,
+lenovo,achilles6_row_wifi,,,,,
+lenovo,ak57,,,,,
+lenovo,akita_row_call,,system/system/priv-app/MtkSettings/lib/arm64/libMegviiUnlock.so; system/system/priv-app/MtkSystemUI/lib/arm64/libMegviiUnlock.so,,,
+lenovo,akita_row_wifi,,,,,
+lenovo,amar_prc_wifi_com,,,,,
+lenovo,amar_row_lte,,,,,
+lenovo,amar_row_wifi,,,,,
+lenovo,anna_row_call,,system/system/priv-app/MtkSettings/lib/arm64/libMegviiUnlock.so; system/system/priv-app/MtkSystemUI/lib/arm64/libMegviiUnlock.so,,,
+lenovo,anna_row_wifi,,system/system/priv-app/MtkSettings/lib/arm64/libMegviiUnlock.so; system/system/priv-app/MtkSystemUI/lib/arm64/libMegviiUnlock.so,,,
+lenovo,brady,,,,,system/app/FaceLock/FaceLock.apk
+lenovo,cd-18781y,,,,,
+lenovo,cofud,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+lenovo,cream,,system/system/lib/libMegviiUnlock.so; system/system/lib64/libMegviiUnlock.so,,,
+lenovo,elf-8605l,,,,,
+lenovo,guamp,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+lenovo,halo,,,,,system/system/priv-app/UFaceService/UFaceService.apk
+lenovo,heart,,system/system/lib64/libMegviiUnlock.so; system/system/lib/libMegviiUnlock.so,,,
+lenovo,helios,,,,,
+lenovo,j606l,,,,,
+lenovo,j607f,,,,,system/system/priv-app/UFaceService/UFaceService.apk
+lenovo,j607z,,,,,
+lenovo,j706f,,,,,system/system/priv-app/UFaceService/UFaceService.apk
+lenovo,java,vendor/lib64/libarcsoft_faceid.so; vendor/lib/libarcsoft_faceid.so,,,,system/system/priv-app/FaceUnlockT610/FaceUnlockT610.apk
+lenovo,jd20,,system/system/lib/libMegviiUnlock.so; system/system/lib64/libMegviiUnlock.so,,,
+lenovo,jd2019,,system/system/lib64/libMegviiUnlock.so; system/system/lib/libMegviiUnlock.so,,,
+lenovo,k10a40,,,,,system/app/FaceLock/FaceLock.apk
+lenovo,k10e70,,,,,
+lenovo,k5,,,,,system/app/FaceLock/FaceLock.apk
+lenovo,k50a40,,,,,
+lenovo,k606f,,,,,
+lenovo,k9,,,,,system/app/FaceLock/FaceLock.apk
+lenovo,kama2,,system/system/lib64/libMegviiUnlock.so; system/system/lib/libMegviiUnlock.so,,,system/system/priv-app/FaceUnlockService/FaceUnlockService.apk
+lenovo,kraft-a6000,,,,,
+lenovo,kunlun,,,,,system/app/FaceLock/FaceLock.apk
+lenovo,kunlun2,,,,,system/system/app/FaceLock/FaceLock.apk
+lenovo,lenovo_a6_note,,,,,system/system/app/FaceLock/FaceLock.apk
+lenovo,moba,,,,,
+lenovo,p11_pro_plus,,,,,
+lenovo,p2a42,,,,,system/app/FaceLock/FaceLock.apk
+lenovo,p89990ja1,,,,,
+lenovo,pb-6505m,,system/system/lib64/libMegviiUnlock.so; system/system/lib/libMegviiUnlock.so,,,system/system/app/FaceLock/FaceLock.apk
+lenovo,pb1-750m,,,,,system/app/FaceLock/FaceLock.apk
+lenovo,pb2,,,,,system/app/FaceLock/FaceLock.apk
+lenovo,pb2-670m,,,,,system/app/FaceLock/FaceLock.apk
+lenovo,pb2-670m1,,,,,system/app/FaceLock/FaceLock.apk
+lenovo,q706f,,,,,
+lenovo,q706z,,,,,
+lenovo,s1la40,,,,,
+lenovo,sprout,,system/lib/libMegviiUnlock.so; system/lib64/libMegviiUnlock.so,,,
+lenovo,sprout_plus,,system/lib/libMegviiUnlock.so; system/lib64/libMegviiUnlock.so,,,
+lenovo,tb-7304f,,,,,
+lenovo,tb-7504f,,,,,system/app/FaceLock/FaceLock.apk
+lenovo,tb-8704v,,,,,
+lenovo,tb-8704x,,,,,
+lenovo,tb-9707f,,,,,
+lenovo,tb-x505f,,system/system/lib/libMegviiUnlock.so; system/system/lib64/libMegviiUnlock.so,,,system/system/app/FaceLock/FaceLock.apk
+lenovo,tb-x505l,,system/system/lib/libMegviiUnlock.so; system/system/lib64/libMegviiUnlock.so,,,system/system/app/FaceLock/FaceLock.apk
+lenovo,tb-x505x,,system/system/lib64/libMegviiUnlock.so; system/system/lib/libMegviiUnlock.so,,,
+lenovo,tb-x605fc,,system/system/lib64/libMegviiUnlock.so,,,system/system/app/FaceLock/FaceLock.apk
+lenovo,tb125fu,,,,,
+lenovo,tb132fu,,,,,
+lenovo,tb2-x30l,,,,,
+lenovo,tb3-730x,,,,,system/app/FaceLock/FaceLock.apk
+lenovo,tb3-850f,,,,,system/app/FaceLock/FaceLock.apk
+lenovo,tb3-850m,,,,,system/app/FaceLock/FaceLock.apk
+lenovo,tb3-x70f,,,,,system/app/FaceLock/FaceLock.apk
+lenovo,tb3-x70l,,,,,system/app/FaceLock/FaceLock.apk
+lenovo,tb301xu,,,,,
+lenovo,tb310fu,vendor/lib64/libarcsoft_faceid.so,,,,system/system/priv-app/FaceUnlock/FaceUnlock.apk
+lenovo,tb320fc,,,,,
+lenovo,tb321fu,,,,,
+lenovo,tb328xu,system/system/priv-app/LctFaceService/lib/arm64/libarcsoft_faceid.so,,,,system/system/priv-app/LctFaceService/LctFaceService.apk
+lenovo,tb330fu,,,,,
+lenovo,tb330xc,,,,,
+lenovo,tb330xu,,,,,
+lenovo,tb370fu,,,,,
+lenovo,tb371fc,,,,,
+lenovo,tb570fu,,,,,
+lenovo,vega,,system/system/priv-app/MtkSettings/lib/arm64/libMegviiUnlock.so; system/system/priv-app/MtkSystemUI/lib/arm64/libMegviiUnlock.so,,,
+lenovo,walnut,,,,,
+lenovo,x104f,,,,,
+lenovo,x104l,,,,,
+lenovo,x104x,,,,,
+lenovo,x306f,,system/system/lib64/libMegviiUnlock.so,,,
+lenovo,x306xa,,system/system/lib64/libMegviiUnlock.so,,,
+lenovo,x6c6f,system/system/system_ext/lib64/libarcsoft_faceid.so; system/system/system_ext/priv-app/MtkSystemUI/lib/arm64/libarcsoft_faceid.so,,,,
+lenovo,x6c6l,system/system/system_ext/lib64/libarcsoft_faceid.so; system/system/system_ext/priv-app/MtkSystemUI/lib/arm64/libarcsoft_faceid.so,,,,
+lenovo,x6c6x,system/system/system_ext/lib64/libarcsoft_faceid.so; system/system/system_ext/priv-app/MtkSystemUI/lib/arm64/libarcsoft_faceid.so,,,,
+lenovo,x705f,,,,,
+lenovo,x705l,,system/lib64/libMegviiUnlock.so,,,
+lenovo,yeti,,,,,
+lenovo,yt-x703x,,,,,
+lenovo,yt-x705f,,system/system/lib/libMegviiUnlock.so; system/system/lib64/libMegviiUnlock.so,,,system/system/app/FaceLock/FaceLock.apk
+lenovo,yt-x705l,,system/system/lib/libMegviiUnlock.so; system/system/lib64/libMegviiUnlock.so,,,system/system/app/FaceLock/FaceLock.apk
+lenovo,yt-x705x,,system/system/lib64/libMegviiUnlock.so; system/system/lib/libMegviiUnlock.so,,,system/system/app/FaceLock/FaceLock.apk
+lenovo,yt3,,,,,
+lenovo,yt3-850m,,,,,system/app/FaceLock/FaceLock.apk
+lenovo,yt3-x50l,,,,,system/app/FaceLock/FaceLock.apk
+lenovo,zap,,system/lib/libMegviiUnlock.so; system/lib64/libMegviiUnlock.so,,,
+lenovo,zelda,,,,,
+lenovo,zippo,,system/system/lib64/libMegviiUnlock.so; system/system/lib/libMegviiUnlock.so,,,
+lge,alpha,,,,,system/system/app/FaceLock/FaceLock.apk
+lge,alphalm,,,,,
+lge,alphaplus,,,,,
+lge,caymanlm,,,,,
+lge,caymanslm,,,,,
+lge,cf,,,,,system/app/FaceLock/FaceLock.apk
+lge,cf2,,,,,system/app/FaceLock/FaceLock.apk
+lge,elsa,,,,,system/app/FaceLock/FaceLock.apk
+lge,falcon,,,,,
+lge,flashlmdd,,,,,
+lge,g2,,,,,system/app/FaceLock/FaceLock.apk
+lge,g2m,,,,,system/app/FaceLock.apk
+lge,gf2,,,,,
+lge,h1,,,,,system/app/FaceLock/FaceLock.apk
+lge,jagnm,,,,,system/app/FaceLock/FaceLock.apk
+lge,joan,,,,,
+lge,judyln,,,,,
+lge,judyp,,,,,
+lge,judypn,,,,,
+lge,l-01k,,,,,
+lge,l-41a,,,,,
+lge,l-51a,,,,,
+lge,lucye,,,,,
+lge,mfh505glm,,,,,
+lge,mh2lm,,,,,
+lge,mh5lm,,,,,system/system/app/FaceLock/FaceLock.apk
+lge,mlv5,,,,,system/app/FaceLock/FaceLock.apk
+lge,phoenix_sprout,,,,,
+lge,rainbowlm,,,,,
+lge,t8lte,,,,,system/app/FaceLock/FaceLock.apk
+lge,tf10,,,,,
+lge,timelm,,,,,
+lge,w3voip,,,,,
+lge,w5c,,,,,
+lge,w7,,,,,system/app/FaceLock/FaceLock.apk
+lge,w7ds,,,,,system/app/FaceLock/FaceLock.apk
+lge,winglm,,,,,
+lge,x10,,,,,system/app/FaceLock/FaceLock.apk
+lge,x5,,,,,system/app/FaceLock.apk
+litbyleia,lpd-10w,,,,,
+logicom,logicom_lehop,,,,,
+lt,thething,,,,,
+lyf,ls-5013,,,,,system/app/FaceLock/FaceLock.apk
+m-horse,m1,,,system/lib/libstfaceunlock.so,,system/app/PrizeFaceUnlock/PrizeFaceUnlock.apk
+maxcom,msm8909_512,,,,,
+mbiphone,s10,,,,,
+mblu,mblu10,,,,,
+mediatek,mt2712_saic_eh32,,,,,
+meitu,vela,,,system/system/lib64/libstfaceunlockocl.so,,
+meizu,15,,,system/lib64/libstfaceunlock.so; system/lib64/libstfaceunlocksnpe.so,,system/priv-app/FaceRecognition/FaceRecognition.apk
+meizu,16s,,,system/system/lib64/libstfaceunlockocl.so,,system/system/priv-app/FaceRecognition/FaceRecognition.apk
+meizu,16x,,,system/lib64/libstfaceunlock.so; system/lib64/libstfaceunlocksnpe.so,,system/priv-app/FaceRecognition/FaceRecognition.apk
+meizu,a8,,,,,
+meizu,m15,,,system/lib64/libstfaceunlock.so; system/lib64/libstfaceunlocksnpe.so,,system/priv-app/FaceRecognition/FaceRecognition.apk
+meizu,m1822,,,system/lib64/libstfaceunlock.so; system/lib64/libstfaceunlocksnpe.so,,system/priv-app/FaceRecognition/FaceRecognition.apk
+meizu,m1852,,,system/lib64/libstfaceunlock.so; system/lib64/libstfaceunlocksnpe.so,,system/priv-app/FaceRecognition/FaceRecognition.apk
+meizu,m1e,,,,,
+meizu,m2,,,,,
+meizu,m2481,,,,,
+meizu,m2note,,,,,
+meizu,m3max,,,,,
+meizu,m5note,,,,,
+meizu,meizu16spro,,,system/system/lib64/libstfaceunlockocl.so; system/system/priv-app/FaceRecognition/lib/arm64/libstfaceunlockocl.so,,system/system/priv-app/FaceRecognition/FaceRecognition.apk
+meizu,meizu16t,,,system/system/lib64/libstfaceunlockocl.so,,system/system/priv-app/FaceRecognition/FaceRecognition.apk
+meizu,meizu16xs,,,system/system/lib64/libstfaceunlockocl.so,,system/system/priv-app/FaceRecognition/FaceRecognition.apk
+meizu,meizu17,,,system/system/lib64/libstfaceunlockocl.so; system/system/priv-app/FaceRecognition/lib/arm64/libstfaceunlockocl.so,,system/system/priv-app/FaceRecognition/FaceRecognition.apk
+meizu,meizu17pro,,,system/system/lib64/libstfaceunlockocl.so,,system/system/priv-app/FaceRecognition/FaceRecognition.apk
+meizu,meizu18,,,,,
+meizu,meizu18pro,,,system/system/lib64/libstfaceunlockocl.so; system/system/priv-app/FaceRecognition/lib/arm64/libstfaceunlockocl.so,,system/system/priv-app/FaceRecognition/FaceRecognition.apk
+meizu,meizu18s,,,system/system/lib64/libstfaceunlockocl.so; system/system/priv-app/FaceRecognition/lib/arm64/libstfaceunlockocl.so,,system/system/priv-app/FaceRecognition/FaceRecognition.apk
+meizu,meizu18spro,,,system/system/lib64/libstfaceunlockocl.so; system/system/priv-app/FaceRecognition/lib/arm64/libstfaceunlockocl.so,,system/system/priv-app/FaceRecognition/FaceRecognition.apk
+meizu,meizu18x,,,system/system/lib64/libstfaceunlockocl.so,,system/system/priv-app/FaceRecognition/FaceRecognition.apk
+meizu,meizu20,,,,,
+meizu,meizu20inf,,,,,
+meizu,meizu20pro,,,,,
+meizu,meizu21,,,,,
+meizu,meizu21note,,,,,
+meizu,meizu21pro,,,,,
+meizu,meizu_m5,,,,,
+meizu,meizuc9pro,,,,,
+meizu,meizum6t,,,,,
+meizu,meizunote16,,,,,
+meizu,meizunote16pro,,vendor/lib64/libanc_faceid.so,,,
+meizu,meizunote8,,,system/lib64/libstfaceunlock.so; system/lib64/libstfaceunlocksnpe.so,,system/priv-app/FaceRecognition/FaceRecognition.apk
+meizu,meizunote9,,,system/system/lib64/libstfaceunlockocl.so,,system/system/priv-app/FaceRecognition/FaceRecognition.apk
+meizu,meizuvenus,,vendor/lib64/libanc_faceid.so,,,
+meizu,mx4,,,,,
+meizu,note9,,,system/system/lib64/libstfaceunlockocl.so,,system/system/priv-app/FaceRecognition/FaceRecognition.apk
+meizu,pro6plus,,,system/lib64/libstfaceunlock.so; system/priv-app/FaceRecognition/lib/arm64/libstfaceunlock.so,,system/priv-app/FaceRecognition/FaceRecognition.apk
+meizu,pro7plus,,,system/lib64/libstfaceunlock.so,,system/priv-app/FaceRecognition/FaceRecognition.apk
+meizu,u10,,,,,
+meizu,u20,,,,,
+meizu,x8,,,system/lib64/libstfaceunlock.so; system/lib64/libstfaceunlocksnpe.so,,system/priv-app/FaceRecognition/FaceRecognition.apk
+metropcs,w5,,,,,system/app/FaceLock.apk
+mi,pissarroin,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; system/system/lib64/libstfaceunlockocl.so,,
+micromax,e6523,,,vendor/lib/libstfaceunlock.so,,
+micromax,e7533,,,,,system/system/priv-app/FaceUnlock/FaceUnlock.apk
+micromax,e7746,,,system/system/lib64/libstfaceunlock.so; system/system/lib/libstfaceunlock.so,,system/system/app/TFaceServiceApp/TFaceServiceApp.apk; system/system/priv-app/FaceUnlock/FaceUnlock.apk
+micromax,ione,,,,,
+micromax,n8305,,,,,
+micromax,p681,,,,,system/app/FaceLock/FaceLock.apk
+micromax,q4002,,,,,
+micromax,q409a,,,,,
+minix,byt_t_crv2,,,,,
+mito,mito_a37_z1plus,,,,,
+mobvoi,catfish,,,,,
+mobvoi,dace,,,,,
+mobvoi,ricefish,,,,,
+mobvoi,rover,,,,,
+mobvoi,rubyfish,,,,,
+moondrop,k6877v1_64_k419,,,,,system/system/priv-app/Aiui_FaceLock/Aiui_FaceLock.apk
+moondrop,md_ph_001,,,,,system/system/priv-app/Aiui_FaceLock/Aiui_FaceLock.apk
+motorola,addison,,,,,
+motorola,ahannah,,,,,system/app/FaceLock/FaceLock.apk
+motorola,aion,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,aito,,,,,product/priv-app/MotoFaceUnlock/MotoFaceUnlock.apk
+motorola,albus,,,,,system/app/FaceLock/FaceLock.apk
+motorola,ali,,system/priv-app/MotoFaceUnlock/lib/arm/libMegviiUnlock.so,,,system/priv-app/MotoFaceUnlock/MotoFaceUnlock.apk; system/priv-app/MotoFaceUnlockTA/MotoFaceUnlockTA.apk
+motorola,aljeter,,,,,system/app/FaceLock/FaceLock.apk
+motorola,arcfox,,,,,product/priv-app/MotoFaceUnlock/MotoFaceUnlock.apk
+motorola,astro,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,athene,,,,,system/app/FaceLock/FaceLock.apk
+motorola,austin,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,avatrn,,,,,product/priv-app/MotoFaceUnlock/MotoFaceUnlock.apk
+motorola,bali,,system/system/lib/libMegviiUnlock.so,,,system/system/priv-app/FaceUnlockService/FaceUnlockService.apk
+motorola,bangkk,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,bathena,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,beckham,,,,,system/system/priv-app/MotoFaceUnlock/MotoFaceUnlock.apk; system/system/priv-app/MotoFaceUnlockTA/MotoFaceUnlockTA.apk
+motorola,berlin,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,berlna,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,blackjack_64,,,,,
+motorola,borag,system/system/lib64/libarcsoft_faceid.so,,,,system/system/priv-app/FaceUnlockService/FaceUnlockService.apk
+motorola,borago,,,,,
+motorola,borneo,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,boston,,,,,product/priv-app/MotoFaceUnlock/MotoFaceUnlock.apk
+motorola,bronco,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,burton,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,cancun,,,,,
+motorola,cancunf,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,capri,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,caprip,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,cebu,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,cedric,,,,,system/app/FaceLock/FaceLock.apk
+motorola,channel,,,,,system/system/priv-app/MotoFaceUnlock/MotoFaceUnlock.apk; system/system/priv-app/MotoFaceUnlockTA/MotoFaceUnlockTA.apk
+motorola,chef,,,,,system/system/app/FaceLock/FaceLock.apk
+motorola,chef_sprout,,,,,system/system/product/app/FaceLock/FaceLock.apk
+motorola,clark,,,,,system/app/FaceLock/FaceLock.apk
+motorola,cofud,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,coful,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,condor_umtsds,,,,,
+motorola,corfu,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,corfur,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,ctwo,,,,,product/priv-app/MotoFaceUnlock/MotoFaceUnlock.apk
+motorola,cusco,,,,,product/priv-app/MotoFaceUnlock/MotoFaceUnlock.apk
+motorola,cuscoi,,,,,product/priv-app/MotoFaceUnlock/MotoFaceUnlock.apk
+motorola,cybert,,,,,
+motorola,cypfq,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,cypfr,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,cyprus,,,,,
+motorola,cyprus64,,,,,
+motorola,deen,,,,,system/system/app/FaceLock/FaceLock.apk
+motorola,deen_sprout,,,,,system/system/product/app/FaceLock/FaceLock.apk
+motorola,def,,,,,
+motorola,denver,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,denver_tmp,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,devon,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,devonf,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,devonn,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,doha,,system/system/priv-app/MotoFaceUnlock/lib/arm64/libMegviiUnlock.so,,,system/system/priv-app/MotoFaceUnlock/MotoFaceUnlock.apk
+motorola,dubai,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,ellis,product/priv-app/MotoFaceUnlockArcSoft/lib/arm/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,eqe,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,eqs,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,evert,,,,,system/system/priv-app/MotoFaceUnlock/MotoFaceUnlock.apk; system/system/priv-app/MotoFaceUnlockTA/MotoFaceUnlockTA.apk
+motorola,evolve,,,,,
+motorola,falcon_umts,,,,,system/app/FaceLock/FaceLock.apk
+motorola,falcon_umtsds,,,,,system/app/FaceLock/FaceLock.apk
+motorola,fiji,,,,,
+motorola,fogos,,,,,product/priv-app/MotoFaceUnlock/MotoFaceUnlock.apk
+motorola,foles,,system/system/priv-app/MotoFaceUnlock/lib/arm64/libMegviiUnlock.so,,,system/system/priv-app/MotoFaceUnlock/MotoFaceUnlock.apk
+motorola,genevn,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,ginna,,,,,
+motorola,gmp,,,,,
+motorola,gnevan,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,griffin,,,,,system/app/FaceLock/FaceLock.apk
+motorola,guam,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,guamna,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,guamp,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,hannah,,,,,system/app/FaceLock/FaceLock.apk
+motorola,hanoip,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,harpia,,,,,system/app/FaceLock/FaceLock.apk
+motorola,hawaiip,vendor/lib64/libarcsoft_faceid.so,,,,system/system/app/ApeFaceUnlock_p410/ApeFaceUnlock_p410.apk
+motorola,hawaiipl,vendor/lib64/libarcsoft_faceid.so,,,,system/system/app/ApeFaceUnlock_p410/ApeFaceUnlock_p410.apk
+motorola,hawao,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,hiphi,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,hiphic,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,ibiza,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,james,,,,,system/app/FaceLock/FaceLock.apk
+motorola,java,vendor/lib64/libarcsoft_faceid.so; vendor/lib/libarcsoft_faceid.so,,,,system/system/priv-app/FaceUnlockT610/FaceUnlockT610.apk
+motorola,jeter,,,,,system/app/FaceLock/FaceLock.apk
+motorola,kane,,system/system/lib/libMegviiUnlock.so; system/system/lib64/libMegviiUnlock.so,,,
+motorola,kane_sprout,,system/system/priv-app/MotoFaceUnlock/lib/arm64/libMegviiUnlock.so,,,system/system/priv-app/MotoFaceUnlock/MotoFaceUnlock.apk
+motorola,kansas,,,,,product/priv-app/MotoFaceUnlock/MotoFaceUnlock.apk
+motorola,kiev,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,kievv,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,kinzie,,,,,system/app/FaceLock/FaceLock.apk
+motorola,kyoto,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,lake,,system/system/priv-app/MotoFaceUnlock/lib/arm64/libMegviiUnlock.so,,,system/system/priv-app/MotoFaceUnlock/MotoFaceUnlock.apk
+motorola,leap,,,,,
+motorola,liber,,,,,
+motorola,lima,,,,,system/system/priv-app/MotoFaceUnlock/MotoFaceUnlock.apk; system/system/priv-app/MotoFaceUnlockTA/MotoFaceUnlockTA.apk
+motorola,lion,,,,,
+motorola,lisbon,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,lux_uds,,,,,system/app/FaceLock/FaceLock.apk
+motorola,lynkco,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,lyriq,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,m170,,,,,
+motorola,malmo,,,,,product/priv-app/MotoFaceUnlock/MotoFaceUnlock.apk
+motorola,malta_64,,,,,
+motorola,manaus,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,maui,,,,,
+motorola,merlin,,,,,system/app/FaceLock/FaceLock.apk
+motorola,messi,,,,,system/system/priv-app/MotoFaceUnlock/MotoFaceUnlock.apk; system/system/priv-app/MotoFaceUnlockTA/MotoFaceUnlockTA.apk
+motorola,miami,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,milan,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,milanf,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,minsk,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,montana,,,,,system/app/FaceLock/FaceLock.apk
+motorola,mototabg70,system/system/app/ArcsoftFaceService/lib/arm64/libarcsoft_faceid.so,,,,system/system/app/ArcsoftFaceService/ArcsoftFaceService.apk
+motorola,msi,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,nairo,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,namath,,,,,system/app/FaceLock/FaceLock.apk
+motorola,nash,,,,,system/system/app/FaceLock/FaceLock.apk
+motorola,nio,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,nora,,,,,system/app/FaceLock/FaceLock.apk
+motorola,nora_8917,,,,,system/app/FaceLock/FaceLock.apk
+motorola,ocean,,,,,system/system/priv-app/MotoFaceUnlock/MotoFaceUnlock.apk; system/system/priv-app/MotoFaceUnlockTA/MotoFaceUnlockTA.apk
+motorola,ocean_32,,,,,system/system/priv-app/MotoFaceUnlock/MotoFaceUnlock.apk; system/system/priv-app/MotoFaceUnlockTA/MotoFaceUnlockTA.apk
+motorola,odessa,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,olson,system/system/product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,system/system/product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,oneli,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,osprey_ud2,,,,,system/app/FaceLock/FaceLock.apk
+motorola,owens,,,,,system/app/FaceLock/FaceLock.apk
+motorola,p11_lte,system/system/app/ArcsoftFaceService/lib/arm64/libarcsoft_faceid.so,,,,system/system/app/ArcsoftFaceService/ArcsoftFaceService.apk
+motorola,panell_d,,,,,system/app/FaceLock/FaceLock.apk
+motorola,panell_dl,,,,,system/app/FaceLock/FaceLock.apk
+motorola,parker,,,,,system/system/priv-app/MotoFaceUnlock/MotoFaceUnlock.apk; system/system/priv-app/MotoFaceUnlockTA/MotoFaceUnlockTA.apk
+motorola,paros,,,,,product/priv-app/MotoFaceUnlock/MotoFaceUnlock.apk
+motorola,payton,,,,,system/system/app/FaceLock/FaceLock.apk
+motorola,payton_sprout,,,,,system/system/app/FaceLock/FaceLock.apk
+motorola,penang,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,penangf,vendor/lib64/libarcsoft_faceid.so,,,,
+motorola,perry,,,,,system/app/FaceLock/FaceLock.apk
+motorola,pettyl,,,,,
+motorola,pnangn,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,pokerp,,vendor/lib64/libMegviiUnlock.so; vendor/lib/libMegviiUnlock.so,,,system/system/priv-app/ApeFaceUnlock/ApeFaceUnlock.apk
+motorola,potter,,,,,system/app/FaceLock/FaceLock.apk
+motorola,pstar,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,racer,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,rav,,,,,
+motorola,rhannah,,,,,system/app/FaceLock/FaceLock.apk
+motorola,rhode,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,rhodec,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,rhodei,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,rhodep,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,river,,,,,system/system/priv-app/MotoFaceUnlock/MotoFaceUnlock.apk; system/system/priv-app/MotoFaceUnlockTA/MotoFaceUnlockTA.apk
+motorola,rjames,,,,,system/app/FaceLock/FaceLock.apk
+motorola,rjames_go,,,,,
+motorola,robusta,,,,,system/app/FaceLock/FaceLock.apk
+motorola,rtwo,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,saipan,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,sanders,,,,,system/app/FaceLock/FaceLock.apk
+motorola,scout,,,,,product/priv-app/MotoFaceUnlock/MotoFaceUnlock.apk
+motorola,smith,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,sofia,,,,,
+motorola,sofiap,,,,,
+motorola,sofiap_sprout,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,sofiar,,,,,
+motorola,surfna,,,,,system/system/app/FaceLock/FaceLock.apk
+motorola,surnia_uds,,,,,system/app/FaceLock/FaceLock.apk
+motorola,taido_row,,,,,system/app/FaceLock/FaceLock.apk
+motorola,taipei,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,tb8185p3_64,,,,,
+motorola,tb8789p1_64,,,,,
+motorola,tesla,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,tonga,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,troika,,,,,system/system/priv-app/MotoFaceUnlock/MotoFaceUnlock.apk; system/system/priv-app/MotoFaceUnlockTA/MotoFaceUnlockTA.apk
+motorola,troika_sprout,,system/system/priv-app/MotoFaceUnlock/lib/arm64/libMegviiUnlock.so,,,system/system/priv-app/MotoFaceUnlock/MotoFaceUnlock.apk
+motorola,tundra,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,vicky,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,victara,,,,,system/app/FaceLock/FaceLock.apk
+motorola,vienna,,,,,product/priv-app/MotoFaceUnlock/MotoFaceUnlock.apk
+motorola,watson,,,,,system/app/FaceLock/FaceLock.apk
+motorola,xpeng,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+motorola,zeekr,product/priv-app/MotoFaceUnlockArcSoft/lib/arm64/libarcsoft_faceid.so,,,,product/priv-app/MotoFaceUnlockArcSoft/MotoFaceUnlockArcSoft.apk
+msota,nobby_s500,,,,,
+mtk_alps,shift5.2,,,,,
+multilaser,ml-ti-ms40g,,,,,
+myfon,fs5722e,,,,,
+myfon,mypad_8,,,,,
+myphone,mynx1,,,,,
+nec,achilles6_row_wifi,,,,,
+nec,lavietab9qhd1,,,,,
+neffos,c7s,,,,,
+neffos,x20_pro,,,system/system/lib64/libstfaceunlock.so,,
+newland,nls-nft10,,,,,
+nextbit,ether,,,,,system/app/FaceLock/FaceLock.apk
+nokia,a1n_sprout,,,,,
+nokia,agt,,system/system/priv-app/HMDFaceService/lib/arm64/libanc_faceid.so,,,system/system/priv-app/HMDFaceService/HMDFaceService.apk
+nokia,agta,,system/system/app/HMDFaceService/lib/arm64/libanc_faceid.so,,,system/system/app/HMDFaceService/HMDFaceService.apk
+nokia,ant,,,,,
+nokia,antman,,,,,
+nokia,aop_sprout,,,,,system/system/priv-app/FaceUnlockService/FaceUnlockService.apk
+nokia,apo_sprout,,system/system/priv-app/HMDFaceService/lib/arm64/libanc_faceid.so,,,system/system/priv-app/HMDFaceService/HMDFaceService.apk
+nokia,arv_cus,,,,,
+nokia,avenger,,,,,
+nokia,b2n_sprout,,,,,
+nokia,beholder,,,,,system/system/priv-app/FaceUnlockService/FaceUnlockService.apk
+nokia,bgt_sprout,,,,,system/system/priv-app/WosFaceService2/WosFaceService2.apk
+nokia,c1n,,,,,
+nokia,cap_sprout,,,,,system/system/app/WosFaceService2/WosFaceService2.apk
+nokia,co2,,,,,
+nokia,cos,,,,,
+nokia,crystal,,,,,
+nokia,ctl_sprout,,,,,
+nokia,cyr,,,,,system/system/priv-app/HMDFaceService/HMDFaceService.apk
+nokia,daredevil,,,,,system/system/priv-app/WosFaceService2/WosFaceService2.apk
+nokia,ddv_sprout,,,,,system/system/priv-app/WosFaceService2/WosFaceService2.apk
+nokia,deadpool,,,,,system/system/priv-app/WosFaceService/WosFaceService.apk
+nokia,dm5,,,,,system/system/priv-app/HMDFaceService/HMDFaceService.apk
+nokia,dpl_sprout,,,,,system/system/priv-app/WosFaceService/WosFaceService.apk
+nokia,dragon,,,,,
+nokia,drd_sprout,,,,,system/system/priv-app/FaceService/FaceService.apk
+nokia,drg_sprout,,,,,
+nokia,drs_sprout,,,,,system/system/priv-app/FaceService/FaceService.apk
+nokia,drx,,,,,system/system/priv-app/FaceService/FaceService.apk
+nokia,dynamo,,,,,system/app/FaceLock/FaceLock.apk
+nokia,dynamo2,,,,,
+nokia,e2m,,,,,
+nokia,es2,,,,,
+nokia,essential2,,,,,system/system/app/FaceLock/FaceLock.apk
+nokia,evw,,,,,
+nokia,fcn_sprout,,,,,system/system/priv-app/HMDFaceService/HMDFaceService.apk
+nokia,frontier,,,,,
+nokia,frt,,,,,
+nokia,gmr,,,,,
+nokia,hpe,,,,,system/system/priv-app/HMDFaceService/HMDFaceService.apk
+nokia,ipa,,,,,
+nokia,irm_sprout,,,,,system/system/priv-app/WosFaceService/WosFaceService.apk
+nokia,ironman,,,,,system/system/priv-app/WosFaceService/WosFaceService.apk
+nokia,irs,,,,,
+nokia,mgka_sprout,,system/system/priv-app/HMDFaceService/lib/arm64/libanc_faceid.so,,,system/system/priv-app/HMDFaceService/HMDFaceService.apk
+nokia,nb1,,,,,system/system/app/FaceLock/FaceLock.apk
+nokia,nbl,,,,,
+nokia,ne1,,,,,system/app/FaceLock/FaceLock.apk
+nokia,nokia,,,,,
+nokia,nokia3310,,,,,
+nokia,nokia_2780,,,,,
+nokia,nokia_800_tough,,,,,
+nokia,nokia_8110_4g,,,,,
+nokia,onyx,,,,,
+nokia,pan_sprout,,,,,system/system/priv-app/WosFaceService/WosFaceService.apk
+nokia,panther,,,,,system/system/priv-app/WosFaceService/WosFaceService.apk
+nokia,pda,,,,,
+nokia,pgn,,system/system/priv-app/HMDFaceService/lib/arm64/libanc_faceid.so,,,system/system/priv-app/HMDFaceService/HMDFaceService.apk
+nokia,phr,,,,,system/system/priv-app/HMDFaceService/HMDFaceService.apk
+nokia,phr_sprout,,,,,system/system/priv-app/HMDFaceService/HMDFaceService.apk
+nokia,pl2_sprout,,,,,
+nokia,plate2,,,,,
+nokia,ple,,,,,system/app/FaceLock/FaceLock.apk
+nokia,pmc_cus,,,,,system/system/priv-app/WosFaceService/WosFaceService.apk
+nokia,pnx_sprout,,,,,
+nokia,qks_sprout,,system/system/priv-app/HMDFaceService/lib/arm64/libanc_faceid.so,,,system/system/priv-app/HMDFaceService/HMDFaceService.apk
+nokia,rav_vzw,,,,,product/priv-app/WosFaceService2/WosFaceService2.apk
+nokia,rdd,,,,,
+nokia,rku,,,,,
+nokia,rnn_sprout,,,,,system/system/priv-app/WosFaceService/WosFaceService.apk
+nokia,roga_sprout,,,,,system/system/priv-app/WosFaceService/WosFaceService.apk
+nokia,roo,,,,,
+nokia,roo_sprout,,,,,
+nokia,roon_sprout,,,,,
+nokia,scp_sprout,,,,,system/system/priv-app/HMDFaceService/HMDFaceService.apk
+nokia,sct_sprout,,,,,system/system/priv-app/HMDFaceService/HMDFaceService.apk
+nokia,scw_sprout,,system/system/priv-app/HMDFaceService/lib/arm64/libanc_faceid.so,,,system/system/priv-app/HMDFaceService/HMDFaceService.apk
+nokia,sdw,,,,,odm/spec-space/app/HMDFaceService/HMDFaceService.apk
+nokia,sentry,,,,,
+nokia,sfi,,system/system/priv-app/HMDFaceService/lib/arm64/libanc_faceid.so,,,system/system/priv-app/HMDFaceService/HMDFaceService.apk
+nokia,sld_sprout,,,,,system/system/priv-app/WosFaceService2/WosFaceService2.apk
+nokia,snt_sprout,,,,,system/system/priv-app/HMDFaceService/HMDFaceService.apk
+nokia,starlord,,,,,system/system/priv-app/WosFaceService2/WosFaceService2.apk
+nokia,stm,,,,,system/system/priv-app/HMDFaceService/HMDFaceService.apk
+nokia,sus,,,,,
+nokia,ta-1021,,,,,system/system/app/FaceLock/FaceLock.apk
+nokia,ta-1024,,,,,system/system/app/FaceLock/FaceLock.apk
+nokia,ttg_sprout,,system/system/priv-app/HMDFaceService/lib/arm64/libanc_faceid.so,,,system/system/priv-app/HMDFaceService/HMDFaceService.apk
+nokia,vsi,,,,,system/system/priv-app/HMDFaceService/HMDFaceService.apk
+nokia,wasp,,,,,
+nokia,wsp_sprout,,,,,
+nokia,wvr_sprout,,,,,system/system/priv-app/WosFaceService/WosFaceService.apk
+nokia,ydu,,,,,
+nomi,nomi_c070014l,,,,,
+nomu,s50_pro,,,,,system/priv-app/FreemeFaceServiceSimple/FreemeFaceServiceSimple.apk
+nook,st18c7bnn,,,,,
+nothing,asteroids,,,vendor/lib64/libstfaceunlockppl.so,,
+nothing,galaga,,,vendor/lib64/libstfaceunlockppl.so,,
+nothing,metroid,,,vendor/lib64/libstfaceunlockppl.so,,
+nothing,pacman,,,vendor/lib64/libstfaceunlockppl.so,,
+nothing,pacmanpro,,,vendor/lib64/libstfaceunlockppl.so,,
+nothing,pong,,,vendor/lib64/libstfaceunlockppl.so,,
+nothing,qssi,,,,,system/system/priv-app/FaceRecognition/FaceRecognition.apk
+nothing,spacewar,vendor/lib64/libarcsoft_faceid.so,,,,
+nothing,tetris,,,vendor/lib64/libstfaceunlockppl.so,,
+nubia,nx616j,,,,,
+nubia,nx617j,,,,,
+nubia,nx619j,,system/system/app/NubiaFaceId/lib/arm64/libMegviiUnlock.so,,,system/system/app/NubiaFaceId/NubiaFaceId.apk
+nubia,nx619j-eea,,system/system/app/cust_NubiaFaceId/lib/arm64/libMegviiUnlock.so,,,system/system/app/cust_NubiaFaceId/cust_NubiaFaceId.apk
+nubia,nx627j,,,,,
+nubia,nx627j-eea,,,,,
+nubia,nx629j,,system/system/app/cust_NubiaFaceId/lib/arm64/libMegviiUnlock.so,,,system/system/app/cust_NubiaFaceId/cust_NubiaFaceId.apk
+nubia,nx629j-eea,,system/system/app/cust_NubiaFaceId/lib/arm64/libMegviiUnlock.so,,,system/system/app/cust_NubiaFaceId/cust_NubiaFaceId.apk
+nubia,nx651j,,,,,system/system/app/NubiaFaceId/NubiaFaceId.apk
+nubia,nx651j-eea,,,,,system/system/app/NubiaFaceId/NubiaFaceId.apk
+nubia,nx659j,,,,,system/system/app/NubiaFaceId/NubiaFaceId.apk
+nubia,nx659j-eea,,,,,
+nubia,nx659j-un,,,,,system/system/app/NubiaFaceId/NubiaFaceId.apk
+nubia,nx666j,,,,,system/system/app/NubiaFaceId/NubiaFaceId.apk
+nubia,nx669j,,,,,system/system/app/NubiaFaceId/NubiaFaceId.apk
+nubia,nx669j-eea,,,,,system/system/app/NubiaFaceId/NubiaFaceId.apk
+nubia,nx669j-un,,,,,system/system/app/NubiaFaceId/NubiaFaceId.apk
+nubia,nx679j,,,,,system/system/app/NubiaFaceId/NubiaFaceId.apk
+nubia,nx679s,,,,,system/system/app/NubiaFaceId/NubiaFaceId.apk
+nubia,nx709j,,,,,system/system/app/NubiaFaceId/NubiaFaceId.apk
+nubia,nx709s,,,,,system/system/app/NubiaFaceId/NubiaFaceId.apk
+nubia,nx729j,,,,,system/system/app/NubiaFaceId/NubiaFaceId.apk
+nubia,nx769j,,,,,system/system/priv-app/FaceVerify_ZTE/FaceVerify_ZTE.apk
+nubia,nx789j,,,,,system/system/priv-app/FaceVerify_ZTE/FaceVerify_ZTE.apk
+nubia,nx907j,,,,,
+nubia,p745f01,,,,,system/system/priv-app/FaceVerify_ZTE/FaceVerify_ZTE.apk
+nubia,p875n02,,,,,system/system/priv-app/FaceVerify_ZTE/FaceVerify_ZTE.apk
+nubia,p898p02,,,,,system/system/priv-app/FaceVerify_ZTE/FaceVerify_ZTE.apk
+nubia,pq82a01,,,,,system/system/priv-app/FaceVerify_ZTE/FaceVerify_ZTE.apk
+nubia,pq82a02,,,,,system/system/priv-app/FaceVerify_ZTE/FaceVerify_ZTE.apk
+nubia,pq82a04,,,,,system/system/priv-app/FaceVerify_ZTE/FaceVerify_ZTE.apk
+nubia,pq83a01,,,,,system/system/priv-app/FaceVerify_ZTE/FaceVerify_ZTE.apk
+nubia,pq83p01,,,,,system/system/priv-app/FaceVerify_ZTE/FaceVerify_ZTE.apk
+nubia,tp1803,,,,,
+nvidia,darcy,,,,,
+nvidia,foster,,,,,
+nvidia,loki,,,,,
+nvidia,mdarcy,,,,,
+nvidia,roth,,,,,
+nvidia,shieldtablet,,,,,system/app/FaceLock/FaceLock.apk
+nvidia,sif,,,,,
+o1,s3,,,,,system/app/Faceunlock/Faceunlock.apk; system/vendor/operator/app/FaceLock/FaceLock.apk
+oculus,eureka,,,,,
+oculus,hollywood,,,,,
+oculus,monterey,,,,,
+oculus,pacific,,,,,
+oculus,panther,,,,,
+oculus,seacliff,,,,,
+oculus,starlet,,,,,
+olympic,olympic,,,,,system/system/app/FaceLock/FaceLock.apk
+omix,k85v1_64,,,vendor/lib64/libstfaceunlockppl.so,,system/system/priv-app/Aiui_FaceLock/Aiui_FaceLock.apk
+omix,x500,,,system/system/lib64/libstfaceunlock.so; system/system/lib/libstfaceunlock.so,,system/system/app/TFaceServiceApp/TFaceServiceApp.apk; system/system/priv-app/FaceUnlock/FaceUnlock.apk
+oneclick,x1,,,,,
+oneplus,a0001,,,,,system/app/FaceLock/FaceLock.apk
+oneplus,cebu,,,,,
+oneplus,dubai,,,,,
+oneplus,lahaina,,,odm/lib/libstfaceunlockocl.so,,
+oneplus,nord,,,vendor/lib64/libstfaceunlockocl.so,,system/system/priv-app/OPFaceUnlock/OPFaceUnlock.apk
+oneplus,oneplus2,,,,,system/app/FaceLock/FaceLock.apk
+oneplus,oneplus3,,,,,system/app/FaceLock/FaceLock.apk; system/priv-app/OPFaceUnlock/OPFaceUnlock.apk
+oneplus,oneplus3t,,,,,system/app/FaceLock/FaceLock.apk; system/priv-app/OPFaceUnlock/OPFaceUnlock.apk
+oneplus,oneplus5,,,,,system/system/priv-app/OPFaceUnlock/OPFaceUnlock.apk; system/system/product/app/FaceLock/FaceLock.apk
+oneplus,oneplus5t,,,,,system/system/priv-app/OPFaceUnlock/OPFaceUnlock.apk
+oneplus,oneplus6,,,,,system/system/priv-app/OPFaceUnlock/OPFaceUnlock.apk
+oneplus,oneplus6t,,,,,system/system/priv-app/OPFaceUnlock/OPFaceUnlock.apk
+oneplus,oneplus6tsingle,,,,,system/system/priv-app/OPFaceUnlock/OPFaceUnlock.apk
+oneplus,oneplus7,,,,,system/system/priv-app/OPFaceUnlock/OPFaceUnlock.apk
+oneplus,oneplus7_ch,,,,,system/system/priv-app/OPFaceUnlock/OPFaceUnlock.apk
+oneplus,oneplus7_eea,,,,,system/system/priv-app/OPFaceUnlock/OPFaceUnlock.apk
+oneplus,oneplus7pro,,,,,system/system/priv-app/OPFaceUnlock/OPFaceUnlock.apk
+oneplus,oneplus7pro_ch,,,,,system/system/priv-app/OPFaceUnlock/OPFaceUnlock.apk
+oneplus,oneplus7pro_eea,,,,,system/system/priv-app/OPFaceUnlock/OPFaceUnlock.apk
+oneplus,oneplus7pronr,,,,,system/system/priv-app/OPFaceUnlock/OPFaceUnlock.apk
+oneplus,oneplus7protmo,,,,,system/system/priv-app/OPFaceUnlock/OPFaceUnlock.apk
+oneplus,oneplus7t,,,,,system/system/priv-app/OPFaceUnlock/OPFaceUnlock.apk
+oneplus,oneplus7t_ch,,,,,system/system/priv-app/OPFaceUnlock/OPFaceUnlock.apk
+oneplus,oneplus7tpro,,,,,system/system/priv-app/OPFaceUnlock/OPFaceUnlock.apk
+oneplus,oneplus7tpro_ch,,,,,system/system/priv-app/OPFaceUnlock/OPFaceUnlock.apk
+oneplus,oneplus7tpronr,,,,,system/system/priv-app/OPFaceUnlock/OPFaceUnlock.apk
+oneplus,oneplus7ttmo,,,,,system/system/priv-app/OPFaceUnlock/OPFaceUnlock.apk
+oneplus,oneplus8,,,odm/lib64/libstfaceunlockocl.so,,my_product/non_overlay/priv-app/OPFaceUnlock/OPFaceUnlock.apk
+oneplus,oneplus8pro,,,odm/lib64/libstfaceunlockocl.so,,my_product/non_overlay/priv-app/OPFaceUnlock/OPFaceUnlock.apk
+oneplus,oneplus8t,,,odm/lib64/libstfaceunlockocl.so,,my_product/non_overlay/priv-app/OPFaceUnlock/OPFaceUnlock.apk
+oneplus,oneplus8tmo,,,vendor/lib64/libstfaceunlockocl.so,,system/system/priv-app/OPFaceUnlock/OPFaceUnlock.apk
+oneplus,oneplus8ttmo,,,odm/lib64/libstfaceunlockocl.so,,my_product/non_overlay/priv-app/OPFaceUnlock/OPFaceUnlock.apk
+oneplus,oneplus8visible,,,vendor/lib64/libstfaceunlockocl.so,,system/system/priv-app/OPFaceUnlock/OPFaceUnlock.apk
+oneplus,oneplus9,,,odm/lib64/libstfaceunlockocl.so,,my_product/non_overlay/priv-app/OPFaceUnlock/OPFaceUnlock.apk
+oneplus,oneplus9pro,,,odm/lib64/libstfaceunlockocl.so,,my_product/non_overlay/priv-app/OPFaceUnlock/OPFaceUnlock.apk
+oneplus,oneplus9protmo,,,odm/lib64/libstfaceunlockocl.so,,my_product/non_overlay/priv-app/OPFaceUnlock/OPFaceUnlock.apk
+oneplus,oneplus9r,,,odm/lib64/libstfaceunlockocl.so,,my_product/non_overlay/priv-app/OPFaceUnlock/OPFaceUnlock.apk
+oneplus,oneplus9tmo,,,odm/lib64/libstfaceunlockocl.so,,my_product/non_overlay/priv-app/OPFaceUnlock/OPFaceUnlock.apk
+oneplus,oneplusn10,,,vendor/lib64/libstfaceunlockocl.so,,system/system/priv-app/OPFaceUnlock/OPFaceUnlock.apk
+oneplus,oneplusn100,,,vendor/lib64/libstfaceunlockocl.so,,system/system/priv-app/OPFaceUnlock/OPFaceUnlock.apk
+oneplus,oneplusn100metro,,,vendor/lib64/libstfaceunlockocl.so,,system_ext/priv-app/OPFaceUnlock/OPFaceUnlock.apk
+oneplus,oneplusn100tmo,,,vendor/lib64/libstfaceunlockocl.so,,system_ext/priv-app/OPFaceUnlock/OPFaceUnlock.apk
+oneplus,oneplusn10telcel,,,vendor/lib64/libstfaceunlockocl.so,,system/system/priv-app/OPFaceUnlock/OPFaceUnlock.apk
+oneplus,oneplusn10tmo,,,vendor/lib64/libstfaceunlockocl.so,,system/system/priv-app/OPFaceUnlock/OPFaceUnlock.apk
+oneplus,oneplusn200,,,vendor/lib64/libstfaceunlockocl.so,,system_ext/priv-app/OPFaceUnlock/OPFaceUnlock.apk
+oneplus,oneplusn200tmo,,,vendor/lib64/libstfaceunlockocl.so,,system_ext/priv-app/OPFaceUnlock/OPFaceUnlock.apk
+oneplus,oneplusnordce,,,odm/lib64/libstfaceunlockocl.so,,my_product/non_overlay/priv-app/OPFaceUnlock/OPFaceUnlock.apk
+oneplus,oneplusx,,,,,system/app/FaceLock/FaceLock.apk
+oneplus,op5154l1,,,odm/lib/libstfaceunlockocl.so,,
+oneplus,op5155l1,,,odm/lib/libstfaceunlockocl.so,,
+oneplus,op5159l1,,,odm/lib64/libstfaceunlockppl.so,,
+oneplus,op515al1,,,odm/lib/libstfaceunlockppl.so,,
+oneplus,op515b,,,odm/lib/libstfaceunlockppl.so,,
+oneplus,op515bl1,,,odm/lib64/libstfaceunlockppl.so,,
+oneplus,op516el1,,,odm/lib64/libstfaceunlockocl.so,,
+oneplus,op516fl1,,,odm/lib64/libstfaceunlockocl.so,,
+oneplus,op535dl1,,,odm/lib64/libstfaceunlockocl.so,,
+oneplus,op5547l1,,,odm/lib64/libstfaceunlockppl.so,,
+oneplus,op5551l1,,,odm/lib64/libstfaceunlockocl.so,,
+oneplus,op5552l1,,,odm/lib64/libstfaceunlockocl.so,,
+oneplus,op555b,,,odm/lib/libstfaceunlockppl.so,,
+oneplus,op555bl1,,,odm/lib64/libstfaceunlockppl.so,,
+oneplus,op5565,,,odm/lib64/libstfaceunlockppl.so,,
+oneplus,op5566l1,,,odm/lib64/libstfaceunlockppl.so,,
+oneplus,op5567l1,,,odm/lib64/libstfaceunlockppl.so,,
+oneplus,op556fl1,,,odm/lib64/libstfaceunlockppl.so; odm/lib/libstfaceunlockppl.so,,
+oneplus,op557al1,,,odm/lib64/libstfaceunlockppl.so,,
+oneplus,op5911,,,odm/lib64/libstfaceunlockppl.so,,
+oneplus,op5913l1,,,odm/lib64/libstfaceunlockocl.so,,
+oneplus,op591bl1,,,odm/lib64/libstfaceunlockocl.so,,
+oneplus,op5927,,,odm/lib64/libstfaceunlockppl.so,,
+oneplus,op5929l1,,,odm/lib64/libstfaceunlockocl.so,,
+oneplus,op5943l1,,,odm/lib64/libstfaceunlockocl.so,,
+oneplus,op594dl1,,,odm/lib64/libstfaceunlockocl.so,,
+oneplus,op5953l1,,,odm/lib64/libstfaceunlockocl.so; odm/lib/libstfaceunlockocl.so,,
+oneplus,op5955l1,,,odm/lib64/libstfaceunlockppl.so,,
+oneplus,op5958l1,,,odm/lib64/libstfaceunlockocl.so; odm/lib/libstfaceunlockocl.so,,
+oneplus,op595bl1,,,odm/lib64/libstfaceunlockppl.so; odm/lib/libstfaceunlockppl.so,,
+oneplus,op595dl1,,,odm/lib64/libstfaceunlockocl.so,,
+oneplus,op5961l1,,,odm/lib64/libstfaceunlockocl.so,,
+oneplus,op5973l1,,,odm/lib64/libstfaceunlockocl.so,,
+oneplus,op59bcl1,,,odm/lib64/libstfaceunlockppl.so; odm/lib/libstfaceunlockppl.so,,
+oneplus,op5cf9l1,,,odm/lib64/libstfaceunlockocl.so,,
+oneplus,op5cfbl1,,,odm/lib64/libstfaceunlockocl_uff.so,,
+oneplus,op5d06l1,,,odm/lib64/libstfaceunlockocl_uff.so,,
+oneplus,op5d0dl1,,,odm/lib64/libstfaceunlockocl_uff.so,,
+oneplus,op5d2bl1,,,odm/lib64/libstfaceunlockocl_uff.so,,
+oneplus,op5d35l1,,,odm/lib64/libstfaceunlockocl.so,,
+oneplus,op5d3bl1,,,odm/lib64/libstfaceunlockocl_uff.so,,
+oneplus,op5d3fl1,,,odm/lib64/libstfaceunlockocl_uff.so,,
+oneplus,op5d49l1,,,odm/lib64/libstfaceunlockocl.so; odm/lib/libstfaceunlockocl.so,,
+oneplus,op5d55l1,,,odm/lib64/libstfaceunlockocl_uff.so,,
+oneplus,op5d77l1,,,odm/lib64/libstfaceunlockocl.so,,
+oneplus,op5da6l1,,,odm/lib64/libstfaceunlockppl.so; odm/lib/libstfaceunlockppl.so,,
+oneplus,op5daal1,,,odm/lib64/libstfaceunlockocl.so,,
+oneplus,op5e93l1,,,odm/lib64/libstfaceunlockocl_uff.so,,
+oneplus,op60ebl1,,,odm/lib64/libstfaceunlockocl_uff.so,,
+oneplus,op60edl1,,,odm/lib64/libstfaceunlockppl_uff.so,,
+oneplus,op60f5l1,,,odm/lib64/libstfaceunlockocl_uff.so,,
+oneplus,op60f9l1,,,odm/lib64/libstfaceunlockppl_uff.so,,
+oneplus,op612bl1,,,odm/lib64/libstfaceunlockocl_uff.so,,
+oneplus,op615al1,,,odm/lib64/libstfaceunlockppl_uff.so,,
+oneplus,op7pronrspr,,,,,system/system/priv-app/OPFaceUnlock/OPFaceUnlock.apk
+oneplus,opwwe231,,,,,
+oneplus,opwwe251,,,,,
+onn,100110603,,,,,
+onn,mid7015_mk_32,,,,,
+onn,mid8011,,,,,
+onn,sti6140d360,,,,,
+onyx,boox,,,,,
+onyx,leaf2_p,,,,,
+onyx,poke3,,,,,
+oplus,op516e,,,odm/lib64/libstfaceunlockocl.so,,
+oplus,op52d5,,,odm/lib64/libstfaceunlockocl.so,,
+oplus,op595b,,,odm/lib64/libstfaceunlockppl.so,,
+oplus,ossi,,,odm/lib64/libstfaceunlockocl_uff.so,,
+oplus,re54b4,,,odm/lib64/libstfaceunlockppl.so,,
+oppo,a1601,,,,,
+oppo,a1603,,,,,
+oppo,a33w,,,,,
+oppo,a37fw,,,,,
+oppo,a73t,,,system/lib/libstfaceunlock.so; system/lib/libstfaceunlockdnn.so; system/lib64/libstfaceunlock.so,,
+oppo,cph1609,,,,,
+oppo,cph1613,,,,,
+oppo,cph1707,,,,,
+oppo,cph1819,,,vendor/lib/libstfaceunlock.so; vendor/lib/libstfaceunlockdnn.so; vendor/lib/libstfaceunlockocl.so; vendor/lib64/libstfaceunlock.so,,
+oppo,cph1823,,,vendor/lib/libstfaceunlock.so; vendor/lib/libstfaceunlockdnn.so; vendor/lib/libstfaceunlockocl.so; vendor/lib64/libstfaceunlock.so,,
+oppo,cph1861,,,vendor/lib/libstfaceunlock.so; vendor/lib/libstfaceunlockdnn.so; vendor/lib/libstfaceunlockocl.so; vendor/lib64/libstfaceunlock.so,,
+oppo,cph1871,,,,,
+oppo,cph1877,,,vendor/lib/libstfaceunlock.so; vendor/lib/libstfaceunlocksnpe.so,,
+oppo,cph1879,,,vendor/lib/libstfaceunlockocl.so,,
+oppo,cph1893,,,vendor/lib/libstfaceunlock.so; vendor/lib/libstfaceunlocksnpe.so,,
+oppo,cph1909,,,vendor/lib/libstfaceunlockocl.so,,
+oppo,lito,,,odm/lib64/libstfaceunlockocl.so,,
+oppo,oneplus8,,,odm/lib/libstfaceunlockocl.so,,
+oppo,op46c3,,,vendor/lib/libstfaceunlockocl.so,,
+oppo,op47dd,,,,,
+oppo,op4845,,,vendor/lib/libstfaceunlockocl.so,,
+oppo,op4863,,,vendor/lib/libstfaceunlockocl.so; vendor/lib64/libstfaceunlockocl.so,,
+oppo,op486b,,,vendor/lib/libstfaceunlock.so; vendor/lib/libstfaceunlocksnpe.so,,
+oppo,op4883,,,vendor/lib/libstfaceunlockocl.so; vendor/lib64/libstfaceunlockocl.so,,
+oppo,op4a77,,,my_odm/lib/libstfaceunlockocl.so,,
+oppo,op4a79,,,vendor/lib/libstfaceunlockocl.so,,
+oppo,op4a7a,,,odm/lib64/libstfaceunlockocl.so,,
+oppo,op4aa7,,,vendor/lib/libstfaceunlockocl.so,,
+oppo,op4b65,,,vendor/lib/libstfaceunlockocl.so,,
+oppo,op4ba1,,,vendor/lib/libstfaceunlockocl.so,,
+oppo,op4ba1l1,,,my_odm/lib/libstfaceunlockocl.so,,
+oppo,op4ba2l1,,,my_odm/lib/libstfaceunlockocl.so,,
+oppo,op4ba5l1,,,vendor/lib/libstfaceunlockocl.so,,
+oppo,op4c4b,,,vendor/lib/libstfaceunlockocl.so; vendor/lib64/libstfaceunlockocl.so,,
+oppo,op4c73,,,vendor/lib/libstfaceunlockocl.so,,
+oppo,op4e75l1,,,odm/lib64/libstfaceunlockocl.so,,
+oppo,op4ec1,,,odm/lib64/libstfaceunlockocl.so,,
+oppo,op4efdl1,,,vendor/lib/libstfaceunlockocl.so,,
+oppo,op4f39l1,,,odm/lib64/libstfaceunlockocl.so,,
+oppo,op4f43l1,,,odm/lib64/libstfaceunlockppl.so,,
+oppo,op4f57l1,,,odm/lib/libstfaceunlockocl.so,,
+oppo,op5209l1,,,odm/lib64/libstfaceunlockocl.so,,
+oppo,op5217,,,odm/lib64/libstfaceunlockppl.so,,
+oppo,op5225,,,odm/lib64/libstfaceunlockocl.so,,
+oppo,op5226l1,,,odm/lib64/libstfaceunlockocl.so,,
+oppo,op5227,,,odm/lib64/libstfaceunlockocl.so,,
+oppo,op5245,,,odm/lib64/libstfaceunlockppl.so,,
+oppo,op524f,,,odm/lib64/libstfaceunlockocl.so,,
+oppo,op5267,,,odm/lib64/libstfaceunlockppl.so,,
+oppo,op5285,,,odm/lib64/libstfaceunlockocl.so,,
+oppo,op528bl1,,,odm/lib64/libstfaceunlockocl.so,,
+oppo,op528f,,,odm/lib64/libstfaceunlockppl.so,,
+oppo,op52d1l1,,,odm/lib64/libstfaceunlockocl.so,,
+oppo,op52f3l1,,,odm/lib64/libstfaceunlockppl.so,,
+oppo,op532fl1,,,odm/lib64/libstfaceunlockppl.so,,
+oppo,op5339l1,,,odm/lib64/libstfaceunlockppl.so,,
+oppo,op55f1l1,,,odm/lib64/libstfaceunlockocl.so,,
+oppo,op55f3l1,,,odm/lib64/libstfaceunlockocl.so,,
+oppo,op55ff,,,odm/lib64/libstfaceunlockocl.so,,
+oppo,op5601,,,odm/lib64/libstfaceunlockppl.so,,
+oppo,op5605,,,odm/lib64/libstfaceunlockppl.so; odm/lib/libstfaceunlockppl.so,,
+oppo,op5607l1,,,odm/lib64/libstfaceunlockppl.so,,
+oppo,op561f,,,odm/lib64/libstfaceunlockppl.so,,
+oppo,op5627,,,odm/lib64/libstfaceunlockocl.so,,
+oppo,op5647,,,odm/lib64/libstfaceunlockppl.so,,
+oppo,op564b,,,odm/lib64/libstfaceunlockocl.so,,
+oppo,op565fl1,,,odm/lib64/libstfaceunlockocl_uff.so,,
+oppo,op5660l1,,,odm/lib64/libstfaceunlockocl_uff.so,,
+oppo,op5661l1,,,odm/lib64/libstfaceunlockppl_uff.so,,
+oppo,op56bbl1,,,odm/lib64/libstfaceunlockocl.so,,
+oppo,op56cdl1,,,odm/lib64/libstfaceunlockppl.so; odm/lib/libstfaceunlockppl.so,,
+oppo,op56cfl1,,,odm/lib64/libstfaceunlockppl.so,,
+oppo,op56d3l1,,,odm/lib64/libstfaceunlockocl.so,,
+oppo,op56e1l1,,,odm/lib64/libstfaceunlockppl.so,,
+oppo,op56edl1,,,odm/lib64/libstfaceunlockocl.so,,
+oppo,op56f5,,,odm/lib64/libstfaceunlockppl.so,,
+oppo,op5705l1,,,odm/lib64/libstfaceunlockppl.so,,
+oppo,op573dl1,,,odm/lib64/libstfaceunlockppl.so,,
+oppo,op574fl1,,,odm/lib64/libstfaceunlockppl.so; odm/lib/libstfaceunlockppl.so,,
+oppo,op5759l1,,,odm/lib64/libstfaceunlockppl.so; odm/lib/libstfaceunlockppl.so,,
+oppo,op5989,,,odm/lib64/libstfaceunlockppl.so; odm/lib/libstfaceunlockppl.so,,
+oppo,op59f7,,,odm/lib64/libstfaceunlockppl.so; odm/lib/libstfaceunlockppl.so,,
+oppo,op59fb,,,odm/lib64/libstfaceunlockppl.so; odm/lib/libstfaceunlockppl.so,,
+oppo,op5a29l1,,,odm/lib64/libstfaceunlockppl.so; odm/lib64/libstfaceunlockppl_uff.so,,
+oppo,op5a2bl1,,,odm/lib64/libstfaceunlockppl_uff.so,,
+oppo,op5a41l1,,,odm/lib64/libstfaceunlockppl_uff.so,,
+oppo,op5d72l1,,,odm/lib64/libstfaceunlockppl.so; odm/lib/libstfaceunlockppl.so,,
+oppo,op5da8l1,,,odm/lib64/libstfaceunlockocl.so,,
+oppo,op5dc1l1,,,odm/lib64/libstfaceunlockocl_uff.so,,
+oppo,op5dcbl1,,,odm/lib64/libstfaceunlockppl_uff.so,,
+oppo,op5dcdl1,,,odm/lib64/libstfaceunlockppl_uff.so,,
+oppo,op5dd3l1,,,odm/lib64/libstfaceunlockocl_uff.so,,
+oppo,op5dd7l1,,,odm/lib64/libstfaceunlockppl_uff.so,,
+oppo,op5df3,,,odm/lib64/libstfaceunlockppl_uff.so,,
+oppo,op5e07l1,,,odm/lib64/libstfaceunlockppl_uff.so,,
+oppo,opd4a1l1,,,odm/lib64/libstfaceunlockppl.so,,
+oppo,ossi,,,odm/lib64/libstfaceunlockppl.so,,
+oppo,pbcm10,,,vendor/lib/libstfaceunlock.so; vendor/lib/libstfaceunlocksnpe.so,,
+oppo,rmx1801,,,vendor/lib/libstfaceunlockocl.so,,
+oppo,rmx1803,,,vendor/lib/libstfaceunlock.so; vendor/lib/libstfaceunlocksnpe.so,,system/system/app/FaceLock/FaceLock.apk
+oppo,rmx1805,,,vendor/lib/libstfaceunlock.so; vendor/lib/libstfaceunlockocl.so; vendor/lib/libstfaceunlocksnpe.so,,system/system/app/FaceLock/FaceLock.apk
+oppo,rmx2061,,,vendor/lib/libstfaceunlockocl.so,,
+ora,rlk8321_tb_rc_m,,,,,
+orange-orange-orange,neva_jet,,,,,system/system/app/FaceLock/FaceLock.apk; system/system/priv-app/faceverify_express_MFV90/faceverify_express_MFV90.apk
+orbic,rc500l,,,,,system/app/FaceLock/FaceLock.apk
+osom,ingot,,,,,
+oukitel,c12,,,,,system/priv-app/FaceUnlock/FaceUnlock.apk
+oukitel,c13_pro,,,,,system/system/priv-app/FaceUnlock/FaceUnlock.apk
+oukitel,c17_pro,,,,,system/system/priv-app/FaceUnlock/FaceUnlock.apk
+oukitel,rt6,,,vendor/lib64/libstfaceunlock.so; vendor/lib/libstfaceunlock.so,,
+palm,pepito,,system/lib64/libMegviiUnlock.so; system/priv-app/SystemUI/lib/arm64/libMegviiUnlock.so,,,
+panasonic,eluga_x1,,,,,system/priv-app/Cyee_FaceLock/Cyee_FaceLock.apk
+panasonic,eluga_z1,,vendor/lib/libMegviiUnlock.so,,,system/priv-app/Cyee_FaceLock/Cyee_FaceLock.apk
+panasonic,fz-a3,,,,,
+panasonic,fz-n1evf,,,,,
+panasonic,fz-s1,,,,,
+pico,msm8998,,,,,
+pico,picoa7h10,,,,,
+pico,picoa7q10,,,,,
+pico,picoa8110,,,,,
+planet,cosmo_communicator,,,,,
+planet,gemini_4g,,,,,
+playstation,bengal_515,,,,,
+poco,angelicain,,,system/system/app/MiuiBiometric/lib/arm/libstfaceunlockppl.so; system/system/lib/libstfaceunlockppl.so,,
+poco,ares,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; system/system/lib64/libstfaceunlockocl.so,,
+poco,aresin,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; system/system/lib64/libstfaceunlockocl.so,,
+poco,bhima,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; system/system/lib64/libstfaceunlockocl.so,,
+poco,blue,,,,,
+poco,camellia,,,,,
+poco,camellian,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; system/system/lib64/libstfaceunlockocl.so,,
+poco,chopin,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; system/system/lib64/libstfaceunlockocl.so,,
+poco,citrus,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockppl.so; system/system/lib64/libstfaceunlockppl.so,,
+poco,duchamp,,,,,
+poco,earth,,,system/system/lib64/libstfaceunlockppl.so,,
+poco,emerald,,,,,
+poco,eos,,,,,
+poco,evergreen,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockppl.so; system/system/lib64/libstfaceunlockppl.so,,
+poco,fleur,,,,,
+poco,frost,,,,,
+poco,gram,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; system/system/lib64/libstfaceunlockocl.so,,
+poco,ingres,,,,,
+poco,karna,,,system/system/lib64/libstfaceunlockocl.so,,
+poco,light,,,,,
+poco,marble,,,,,
+poco,mihal,,,system/system/lib64/libstfaceunlockocl.so,,
+poco,missi,,,system/system/lib64/libstfaceunlockocl.so,,
+poco,mondrian,,,,,
+poco,moonstone,,,,,
+poco,onyx,,,,,
+poco,peridot,,,,,
+poco,phoenixin,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; system/system/lib64/libstfaceunlockocl.so,,
+poco,shiva,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; system/system/lib64/libstfaceunlockocl.so,,
+poco,vermeer,,,,,
+poco,xaga,,,,,
+polestar,ihu_emulator,,,,,
+prestigio,cf80a5l,,,,,
+prestigio,tl49b4l,,,,,
+qcom,msm8909,,,,,
+qcom,msm8974,,,,,
+qcom,ow20w3,,,,,
+qcom,unknown,,,,,
+qin,s9863a1h10,,,,,
+qin,sp9820e_1h10,,,,,
+qin,sp9832e_1h10_go,,,,,
+qmobile,q_infinity_d,,,,,
+qmobile,qmobile_i9i,,,,,system/app/FaceLock/FaceLock.apk
+qmobile,smart,,,,,system/app/FaceLock/FaceLock.apk
+qti,alioth,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; system/system/lib64/libstfaceunlockocl.so,,
+qti,atoll,,,odm/lib64/libstfaceunlockocl.so,,
+qti,bengal,,,,,system/system/priv-app/HwSecurityServer/HwLocalFaceIdAuth.apk
+qti,bengal_32go,,,,,
+qti,bengal_515,,,,,
+qti,citrus,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockppl.so; system/system/lib64/libstfaceunlockppl.so,,
+qti,cupid,,,,,
+qti,diting,,,system/system/lib64/libstfaceunlockocl.so,,
+qti,doom,,,,,system/system/priv-app/UFaceService/UFaceService.apk
+qti,haydn,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; system/system/lib64/libstfaceunlockocl.so,,
+qti,ingres,,,,,
+qti,kalama,,,,,
+qti,kona,,,odm/lib64/libstfaceunlockocl.so,,
+qti,lahaina,,,,,
+qti,lemon,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; system/system/lib64/libstfaceunlockocl.so,,
+qti,lisa,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; system/system/lib64/libstfaceunlockocl.so,,
+qti,lmi,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; system/system/lib64/libstfaceunlockocl.so,,
+qti,lms,,,,,system/system/app/FaceLock/FaceLock.apk
+qti,missi,,,,,
+qti,mojito,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockppl.so; system/system/lib64/libstfaceunlockppl.so,,
+qti,monaco_go,,,,,
+qti,msmnile,,,,,
+qti,nabu,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; system/system/lib64/libstfaceunlockocl.so,,
+qti,nx679j,,,,,system/system/app/NubiaFaceId/NubiaFaceId.apk
+qti,nx679j-eea,,,,,system/system/app/NubiaFaceId/NubiaFaceId.apk
+qti,nx679j-un,,,,,system/system/app/NubiaFaceId/NubiaFaceId.apk
+qti,nx679s,,,,,system/system/app/NubiaFaceId/NubiaFaceId.apk
+qti,nx709j,,,,,system/system/app/NubiaFaceId/NubiaFaceId.apk
+qti,nx709j-un,,,,,system/system/app/NubiaFaceId/NubiaFaceId.apk
+qti,nx709s,,,,,system/system/app/NubiaFaceId/NubiaFaceId.apk
+qti,odin,,,system/system/lib64/libstfaceunlockocl.so,,
+qti,oneplus9,,,odm/lib64/libstfaceunlockocl.so,,
+qti,oneplus9pro,,,,,my_product/non_overlay/priv-app/OPFaceUnlock/OPFaceUnlock.apk
+qti,op5154,,,odm/lib/libstfaceunlockocl.so,,
+qti,op5155,,,odm/lib/libstfaceunlockocl.so,,
+qti,op5155l1,,,odm/lib/libstfaceunlockocl.so,,
+qti,oww231,,,,,
+qti,p89990ja1,,,,,system/system/priv-app/UFaceService/UFaceService.apk
+qti,phoenix,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; system/system/lib64/libstfaceunlockocl.so,,
+qti,punisher,,,,,
+qti,qssi,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; system/system/lib64/libstfaceunlockocl.so,,
+qti,renoir,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; system/system/lib64/libstfaceunlockocl.so,,
+qti,sc138,,,,,
+qti,sdm660_64,,,,,
+qti,sm6150,,,,,
+qti,sweetin,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; system/system/lib64/libstfaceunlockocl.so,,
+qti,thor,,,system/system/lib64/libstfaceunlockocl.so,,
+qti,tomcat,,,,,
+qti,trinket,,,,,
+qti,vayu,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; system/system/lib64/libstfaceunlockocl.so,,
+qti,veux,,,,,
+qti,zeus,,,,,
+qti,ziyi,,,system/system/lib64/libstfaceunlockocl.so,,
+qti,zizhan,,,system/system/lib64/libstfaceunlockocl.so,,
+qualcomm,ss80x_64,,,,,
+r50a,r50a,,,,,
+radxa,radxacm5,,,,,
+rakuten,c330,,vendor/lib64/libMegviiUnlock.so; vendor/lib/libMegviiUnlock.so,,,system/system/priv-app/ApeFaceUnlock/ApeFaceUnlock.apk
+razer,aura,,,,,
+razer,bolt,,,,,
+razer,cheryl,,,,,
+razer,cheryl_ckh,,,,,
+razer,linus,,,,,
+razer,pearlyn,,,,,
+razer,razer-edge-wifi,,,,,
+razer,rz45-0460,,,,,
+rc088,rc088,,,,,
+realme,op4679,,,vendor/lib/libstfaceunlock.so; vendor/lib/libstfaceunlocksnpe.so,,
+realme,ossi,,,odm/lib64/libstfaceunlockppl.so,,
+realme,re513cl1,,,odm/lib64/libstfaceunlockppl.so,,
+realme,re5465,,,odm/lib64/libstfaceunlockocl.so,,
+realme,re5473,,,odm/lib64/libstfaceunlockocl.so,,
+realme,re547d,,,odm/lib64/libstfaceunlockocl.so,,
+realme,re547f,,,odm/lib64/libstfaceunlockocl.so; odm/lib/libstfaceunlockocl.so,,
+realme,re549c,,,,,
+realme,re54abl1,,,odm/lib64/libstfaceunlockocl.so,,
+realme,re54b4l1,,,odm/lib/libstfaceunlockppl.so,,
+realme,re54bfl1,,,odm/lib64/libstfaceunlockocl.so,,
+realme,re54cbl1,,,odm/lib64/libstfaceunlockocl.so; odm/lib/libstfaceunlockocl.so,,
+realme,re54d1,,,,,
+realme,re54e4l1,,,odm/lib64/libstfaceunlockocl.so,,
+realme,re54f2l1,,,odm/lib64/libstfaceunlockppl.so,,
+realme,re584b,,,odm/lib64/libstfaceunlockppl.so,,
+realme,re5854,,,odm/lib64/libstfaceunlockppl.so,,
+realme,re585f,,,odm/lib64/libstfaceunlockocl.so,,
+realme,re5860,,,odm/lib64/libstfaceunlockocl.so,,
+realme,re5865,,,odm/lib64/libstfaceunlockppl.so,,
+realme,re5869,,,odm/lib64/libstfaceunlockppl.so,,
+realme,re588bl1,,,odm/lib64/libstfaceunlockocl.so; odm/lib64/libstfaceunlockppl.so; odm/lib/libstfaceunlockppl.so,,
+realme,re588dl1,,,odm/lib64/libstfaceunlockppl.so,,
+realme,re58a0l1,,,odm/lib64/libstfaceunlockppl.so,,
+realme,re58a5l1,,,odm/lib64/libstfaceunlockppl.so,,
+realme,re58b2l1,,,odm/lib64/libstfaceunlockocl.so,,
+realme,re58b6l1,,,odm/lib64/libstfaceunlockppl.so; odm/lib/libstfaceunlockppl.so,,
+realme,re58b8l1,,,odm/lib64/libstfaceunlockppl.so; odm/lib/libstfaceunlockppl.so,,
+realme,re58c2,,,,,
+realme,re58d1l1,,,odm/lib64/libstfaceunlockocl.so,,
+realme,re5c33,,,odm/lib64/libstfaceunlockocl.so,,
+realme,re5c37,,,odm/lib64/libstfaceunlockocl.so,,
+realme,re5c39l1,,,odm/lib64/libstfaceunlockocl.so,,
+realme,re5c3b,,,odm/lib64/libstfaceunlockocl.so; odm/lib/libstfaceunlockocl.so,,
+realme,re5c46l1,,,odm/lib64/libstfaceunlockocl.so,,
+realme,re5c4fl1,,,odm/lib64/libstfaceunlockocl.so,,
+realme,re5c6cl1,,,odm/lib64/libstfaceunlockppl.so,,
+realme,re5c6el1,,,odm/lib64/libstfaceunlockppl.so; odm/lib/libstfaceunlockppl.so,,
+realme,re5c7cl1,,,odm/lib64/libstfaceunlockppl.so,,
+realme,re5c82l1,,,odm/lib64/libstfaceunlockocl.so; odm/lib/libstfaceunlockocl.so,,
+realme,re5c84l1,,,odm/lib64/libstfaceunlockocl.so; odm/lib/libstfaceunlockocl.so,,
+realme,re5c91l1,,,vendor/lib64/libstfaceunlockocl.so; vendor/lib/libstfaceunlockocl.so,,
+realme,re5c9al1,,,odm/lib64/libstfaceunlockppl.so,,
+realme,re5ca6l1,,,odm/lib64/libstfaceunlockocl_uff.so,,
+realme,re6018l1,,,odm/lib64/libstfaceunlockocl_uff.so,,
+realme,re602cl1,,,odm/lib64/libstfaceunlockocl_uff.so,,
+realme,re605fl1,,,odm/lib64/libstfaceunlockocl_uff.so,,
+realme,re606fl1,,,odm/lib64/libstfaceunlockocl_uff.so,,
+realme,re6079l1,,,odm/lib64/libstfaceunlockocl_uff.so,,
+realme,re879al1,,,odm/lib64/libstfaceunlockocl.so,,
+realme,re879el1,,,odm/lib64/libstfaceunlockppl.so,,
+realme,re8ddcl1,,,odm/lib64/libstfaceunlockppl.so,,
+realme,red8acl1,,,odm/lib64/libstfaceunlockocl.so; odm/lib/libstfaceunlockocl.so,,
+realme,red8bel1,,,odm/lib64/libstfaceunlockppl.so,,
+realme,red8c1l1,,,odm/lib64/libstfaceunlockocl.so,,
+realme,rmp2102,,,system/system/app/SenseTimeFaceService/lib/arm64/libstfaceunlockppl.so,,system/system/app/SenseTimeFaceService/SenseTimeFaceService.apk
+realme,rmx1821,,,vendor/lib/libstfaceunlockocl.so,,
+realme,rmx1823,,,vendor/lib/libstfaceunlockocl.so; vendor/lib64/libstfaceunlockocl.so,,system/system/app/FaceLock/FaceLock.apk
+realme,rmx1831,,,vendor/lib64/libstfaceunlock.so; vendor/lib/libstfaceunlockdnn.so; vendor/lib/libstfaceunlockocl.so; vendor/lib/libstfaceunlock.so,,
+realme,rmx1851,,,vendor/euclid/odm/lib/libstfaceunlockocl.so,,
+realme,rmx1851cn,,,vendor/lib/libstfaceunlock.so; vendor/lib/libstfaceunlocksnpe.so,,
+realme,rmx1901,,,vendor/lib/libstfaceunlockocl.so,,
+realme,rmx1911,,,vendor/lib/libstfaceunlockocl.so,,
+realme,rmx1919,,,vendor/lib/libstfaceunlockocl.so,,
+realme,rmx1921,,,vendor/euclid/odm/lib/libstfaceunlockocl.so,,
+realme,rmx1927,,,vendor/lib/libstfaceunlockocl.so,,
+realme,rmx1931,,,vendor/lib/libstfaceunlockocl.so,,
+realme,rmx1931cn,,,vendor/lib/libstfaceunlockocl.so,,
+realme,rmx1941,,,vendor/lib/libstfaceunlockocl.so,,
+realme,rmx1971,,,vendor/lib/libstfaceunlockocl.so,,
+realme,rmx1971cn,,,vendor/lib/libstfaceunlock.so; vendor/lib/libstfaceunlocksnpe.so,,
+realme,rmx1991cn,,,vendor/lib/libstfaceunlockocl.so,,
+realme,rmx1992,,,vendor/euclid/odm/lib/libstfaceunlockocl.so,,
+realme,rmx1993,,,vendor/euclid/odm/lib/libstfaceunlockocl.so,,
+realme,rmx2001,,,vendor/lib/libstfaceunlockocl.so,,
+realme,rmx2020,,,odm/lib/libstfaceunlockppl.so,,
+realme,rmx2050,,,odm/lib/libstfaceunlockocl.so,,
+realme,rmx2051cn,,,vendor/lib/libstfaceunlockocl.so,,
+realme,rmx2061,,,vendor/lib/libstfaceunlockocl.so,,
+realme,rmx2076l1,,,vendor/lib/libstfaceunlockocl.so,,
+realme,rmx2081l1,,,vendor/lib/libstfaceunlockocl.so,,
+realme,rmx2121l1,,,vendor/lib/libstfaceunlockocl.so,,
+realme,rmx2151l1,,,vendor/lib/libstfaceunlockocl.so,,
+realme,rmx2170,,,vendor/lib/libstfaceunlockocl.so,,
+realme,rmx2176l1,,,vendor/lib/libstfaceunlockocl.so,,
+realme,rmx2185,,,vendor/lib/libstfaceunlockocl.so,,
+realme,rmx2189,,,odm/lib/libstfaceunlockppl.so,,
+realme,rmx2202,,,odm/lib/libstfaceunlockocl.so,,
+realme,rmx2202cn,,,odm/lib64/libstfaceunlockocl.so; odm/lib/libstfaceunlockocl.so,,
+realme,rmx3031l1,,,odm/lib64/libstfaceunlockppl.so,,
+realme,rmx3061,,,vendor/lib/libstfaceunlockocl.so,,
+realme,rmx3081l1,,,odm/lib64/libstfaceunlockocl.so,,
+realme,rmx3085l1,,,odm/lib64/libstfaceunlockppl.so,,
+realme,rmx3171,,,vendor/lib/libstfaceunlockocl.so,,
+realme,rmx3360l1,,,odm/lib/libstfaceunlockocl.so,,
+realme,sdm710,,,vendor/euclid/odm/lib/libstfaceunlockocl.so,,
+realme,x2,,system/system/lib64/libMegviiUnlock.so,,,system/system/app/FaceUnlockService-res/FaceUnlockService-res.apk; system/system/priv-app/FaceUnlockService/FaceUnlockService.apk
+realtek,kylin32,,,,,
+red,hydrogenone,,,,,system/system/app/FaceLock/FaceLock.apk
+redmi,aether,,,,,
+redmi,air,,,,,
+redmi,alioth,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; system/system/lib64/libstfaceunlockocl.so,,
+redmi,amethyst,,,,,
+redmi,angelica,,,system/system/app/MiuiBiometric/lib/arm/libstfaceunlockppl.so; system/system/lib/libstfaceunlockppl.so,,
+redmi,angelican,,,system/system/app/MiuiBiometric/lib/arm/libstfaceunlockppl.so; system/system/lib/libstfaceunlockppl.so,,
+redmi,apollo,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; system/system/lib64/libstfaceunlockocl.so,,
+redmi,ares,,,,,
+redmi,atom,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; system/system/lib64/libstfaceunlockocl.so,,
+redmi,begonia,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; system/system/lib64/libstfaceunlockocl.so,,
+redmi,begoniain,,,system/system/lib64/libstfaceunlockocl.so,,
+redmi,beryl,,,,,
+redmi,biloba,,,,,
+redmi,bomb,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; system/system/lib64/libstfaceunlockocl.so,,
+redmi,breeze,,,,,
+redmi,camellia,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; system/system/lib64/libstfaceunlockocl.so,,
+redmi,cannon,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; system/system/lib64/libstfaceunlockocl.so,,
+redmi,cannong,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; system/system/lib64/libstfaceunlockocl.so,,
+redmi,cattail,,,system/system/app/MiuiBiometric/lib/arm/libstfaceunlockppl.so; system/system/lib/libstfaceunlockppl.so,,
+redmi,cezanne,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; system/system/lib64/libstfaceunlockocl.so,,
+redmi,chopin,,,,,
+redmi,chopinin,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; system/system/lib64/libstfaceunlockocl.so,,
+redmi,corot,,,,,
+redmi,curtana,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; system/system/lib64/libstfaceunlockocl.so,,
+redmi,dali,,,,,
+redmi,dandelion,,,system/system/lib/libstfaceunlockppl.so,,
+redmi,diting,,,,,
+redmi,dizi,,,,,
+redmi,duchamp,,,,,
+redmi,earth,,,,,
+redmi,emerald,,,,,
+redmi,evergo,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockppl.so; system/system/lib64/libstfaceunlockppl.so,,
+redmi,excalibur,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; system/system/lib64/libstfaceunlockocl.so,,
+redmi,fire,,,,,
+redmi,flame,,,,,
+redmi,flare,,,,,
+redmi,fog,,,,,
+redmi,galahad,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockppl.so; system/system/lib64/libstfaceunlockppl.so,,
+redmi,gale,,,,,
+redmi,garnet,,,,,
+redmi,gauguin,,,system/system/lib64/libstfaceunlockocl.so,,
+redmi,gold,,,,,
+redmi,ingres,,,,,
+redmi,joyeuse,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; system/system/lib64/libstfaceunlockocl.so,,
+redmi,klein,,,,,
+redmi,lemon,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; system/system/lib64/libstfaceunlockocl.so,,
+redmi,light,,,,,
+redmi,lmi,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; system/system/lib64/libstfaceunlockocl.so,,
+redmi,maltose,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; system/system/lib64/libstfaceunlockocl.so,,
+redmi,manet,,,,,
+redmi,marble,,,,,
+redmi,matisse,,,,,
+redmi,merlinnfc,,,system/system/lib64/libstfaceunlockppl.so,,
+redmi,mihal,,,system/system/lib64/libstfaceunlockppl.so,,
+redmi,miro,,,,,
+redmi,mivendor,,,,,
+redmi,mojito,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockppl.so; system/system/lib64/libstfaceunlockppl.so,,
+redmi,mondrian,,,,,
+redmi,moon,,,,,
+redmi,munch,,,,,
+redmi,obsidian,,,,,
+redmi,ocean,,,,,
+redmi,olivewood,,,system/system/app/MiuiBiometric/lib/arm/libstfaceunlockppl.so; system/system/lib/libstfaceunlockppl.so,,
+redmi,onyx,,,,,
+redmi,opal,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockppl.so; system/system/lib64/libstfaceunlockppl.so,,
+redmi,pearl,,,,,
+redmi,peridot,,,,,
+redmi,phoenix,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; system/system/lib64/libstfaceunlockocl.so,,
+redmi,picasso,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; system/system/lib64/libstfaceunlockocl.so,,
+redmi,pissarro,,,,,
+redmi,pond,,,,,
+redmi,qssi,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockppl.so; system/system/lib64/libstfaceunlockppl.so,,
+redmi,rango,,,,,
+redmi,redwood,,,,,
+redmi,rembrandt,,,system/system/lib64/libstfaceunlockocl.so,,
+redmi,river,,,,,
+redmi,rodin,,,,,
+redmi,rosemary,,,,,
+redmi,rothko,,,,,
+redmi,ruan,,,,,
+redmi,rubens,,,,,
+redmi,ruby,,,,,
+redmi,sapphire,,,,,
+redmi,sapphiren,,,,,
+redmi,serenity,,,,,
+redmi,sky,,,,,
+redmi,snow,,,,,
+redmi,socrates,,,,,
+redmi,spark,,,,,
+redmi,spes,,,,,
+redmi,sunstone,,,,,
+redmi,sweet,,,,,
+redmi,sweetin,,,,,
+redmi,tapas,,,,,
+redmi,topaz,,,,,
+redmi,turner,,,,,
+redmi,vermeer,,,,,
+redmi,veux,,,,,
+redmi,vida,,,,,
+redmi,viva,,,,,
+redmi,water,,,,,
+redmi,xaga,,,,,
+redmi,xig02,,,,,
+redmi,xun,,,,,
+redmi,zircon,,,,,
+redmi,zorn,,,,,
+reliance,rc501l,,,,,
+rockchip,px30_evb,,,,,
+rockchip,rk312x,,,,,
+rockchip,rk3368,,,,,
+rockchip,rk3399_android10,,,,,
+rockchip,rk3399_mid,,,,,
+rockchip,rk3566_r,,,,,
+rockchip,rk3568_firefly_aioj,,,,,
+rockchip,youngfeel,,,,,
+rocktek,yyj,,,,,
+rokid,station,,,,,
+samsung,a01core,,,,,
+samsung,a01q,vendor/lib/libarcsoft_faceid.so,,,,system/system/priv-app/FaceService/FaceService.apk
+samsung,a02q,vendor/lib/libarcsoft_faceid.so,,,,
+samsung,a03,vendor/lib64/libarcsoft_faceid.so,,,,
+samsung,a05s,,,,,
+samsung,a10,,,,,system/system/priv-app/BioFaceService/BioFaceService.apk; system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,a10e,,,,,system/system/priv-app/BioFaceService/BioFaceService.apk; system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,a10s,,,,,system/system/priv-app/BioFaceService/BioFaceService.apk; system/system/priv-app/FaceService/FaceService.apk
+samsung,a12,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,a13x,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,a14,,,,,system/system/priv-app/FaceService/FaceService.apk
+samsung,a14m,,,,vendor/lib64/libbstFaceUnlock.so,
+samsung,a14x,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,a14xm,,,,,
+samsung,a15,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,a16x,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,a20,,,,,system/system/priv-app/BioFaceService/BioFaceService.apk; system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,a20e,,,,,system/system/priv-app/BioFaceService/BioFaceService.apk; system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,a20s,,,,,system/system/priv-app/BioFaceService/BioFaceService.apk; system/system/priv-app/FaceService/FaceService.apk
+samsung,a21s,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,a22x,,,,,
+samsung,a24,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,a25x,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,a26x,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,a30s,,,,,system/system/priv-app/BioFaceService/BioFaceService.apk; system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,a31,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,a32x,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,a34x,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,a35x,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,a36xq,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,a3core,,,,,
+samsung,a3xelte,,,,,
+samsung,a3y17lte,,,,,system/priv-app/FaceService/FaceService.apk; system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,a40,,,,,system/system/priv-app/BioFaceService/BioFaceService.apk; system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,a42xq,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,a50,,,,,system/system/priv-app/BioFaceService/BioFaceService.apk; system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,a50s,,,,,system/system/priv-app/BioFaceService/BioFaceService.apk; system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,a51,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,a51x,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,a52q,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,a52sxq,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,a54x,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,a55x,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,a5xelte,,,,,system/priv-app/FaceService/FaceService.apk; system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,a5y17lte,,,,,system/priv-app/FaceService/FaceService.apk; system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,a60q,,,,,system/system/priv-app/BioFaceService/BioFaceService.apk; system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,a6lte,,,,,system/system/priv-app/BioFaceService/BioFaceService.apk; system/system/priv-app/FaceService/FaceService.apk
+samsung,a6plte,,,,,system/priv-app/BioFaceService/BioFaceService.apk; system/priv-app/FaceService/FaceService.apk
+samsung,a70q,,,,,system/system/priv-app/BioFaceService/BioFaceService.apk; system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,a70s,,,,,system/system/priv-app/BioFaceService/BioFaceService.apk; system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,a71,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,a72q,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,a7y18ve,,,,,system/system/priv-app/BioFaceService/BioFaceService.apk; system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,a8sqltechn,,,,,system/system/priv-app/BioFaceService/BioFaceService.apk; system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,a8xelteskt,,,,,system/priv-app/FaceService/FaceService.apk; system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,a9y18qlte,,,,,
+samsung,b2q,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,b5q,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,b6q,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,beyond0,,,,,system/system/priv-app/BioFaceService/BioFaceService.apk; system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,beyond0q,,,,,system/system/priv-app/BioFaceService/BioFaceService.apk; system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,beyond1q,,,,,system/system/priv-app/BioFaceService/BioFaceService.apk; system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,beyond2,,,,,system/system/priv-app/BioFaceService/BioFaceService.apk; system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,beyondx,,,,,system/system/priv-app/BioFaceService/BioFaceService.apk; system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,beyondxq,,,,,system/system/priv-app/BioFaceService/BioFaceService.apk; system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,bloomq,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,c2s,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,c7ltechn,,,,,system/priv-app/FaceService/FaceService.apk
+samsung,c7proltechn,,,,,system/priv-app/FaceService/FaceService.apk; system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,coreprimevelte,,,,,
+samsung,crownlte,,,,,system/system/priv-app/BioFaceService/BioFaceService.apk; system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,crownqltesq,,,,,system/priv-app/BioFaceService/BioFaceService.apk; system/priv-app/FaceService/FaceService.apk; system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,d1,,,,,system/system/priv-app/BioFaceService/BioFaceService.apk; system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,d1q,,,,,system/system/priv-app/BioFaceService/BioFaceService.apk; system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,d1x,,,,,system/system/priv-app/BioFaceService/BioFaceService.apk; system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,d2q,,,,,system/system/priv-app/BioFaceService/BioFaceService.apk; system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,d2s,,,,,system/system/priv-app/BioFaceService/BioFaceService.apk; system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,d2x,,,,,system/system/priv-app/BioFaceService/BioFaceService.apk; system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,d2xq,,,,,system/system/priv-app/BioFaceService/BioFaceService.apk; system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,dm1q,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,dm2q,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,dm3q,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,dream2qltesq,,,,,
+samsung,dreamlte,,,,,system/priv-app/BioFaceService/BioFaceService.apk; system/priv-app/FaceService/FaceService.apk; system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,e1q,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,e1s,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,e2q,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,e2s,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,e3q,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,essi,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,f22,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,f62,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,fresh7bl,,,,,
+samsung,freshbl,,,,,
+samsung,freshbs,,,,,
+samsung,freshul,,,,,
+samsung,goyavewifi,,,,,
+samsung,gracelte,,,,,system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,gracerlte,,,,,system/priv-app/FaceService/FaceService.apk; system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,grandpplte,,,,,
+samsung,greatlte,,,,,system/priv-app/BioFaceService/BioFaceService.apk; system/priv-app/FaceService/FaceService.apk; system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,greatqltechn,,,,,system/priv-app/BioFaceService/BioFaceService.apk; system/priv-app/FaceService/FaceService.apk; system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,greatqltecs,,,,,system/priv-app/BioFaceService/BioFaceService.apk; system/priv-app/FaceService/FaceService.apk; system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,gta2slte,,,,,system/priv-app/FaceService/FaceService.apk
+samsung,gta2xllte,,,,,system/system/priv-app/BioFaceService/BioFaceService.apk; system/system/priv-app/FaceService/FaceService.apk
+samsung,gta3xl,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,gta3xlwifi,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,gta4l,,,,,system/system/priv-app/FaceService/FaceService.apk
+samsung,gta4s,,,,,system/system/priv-app/BioFaceService/BioFaceService.apk; system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,gta4xlswifi,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,gta4xlvewifi,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,gta4xlwifi,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,gta7lite,vendor/lib64/libarcsoft_faceid.so,,,,
+samsung,gta7litewifi,vendor/lib64/libarcsoft_faceid.so,,,,
+samsung,gta8wifi,vendor/lib64/libarcsoft_faceid.so,,,,
+samsung,gta9p,,,,,
+samsung,gta9pwifi,,,,,
+samsung,gtaxllte,,,,,system/priv-app/FaceService/FaceService.apk; system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,gto,,,,,system/system/priv-app/FaceService/FaceService.apk
+samsung,gtowifi,,,,,system/system/priv-app/FaceService/FaceService.apk
+samsung,gts28vewifi,,,,,system/priv-app/FaceService/FaceService.apk; system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,gts3lwifi,,,,,system/priv-app/FaceService/FaceService.apk; system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,gts4llte,,,,,system/system/priv-app/BioFaceService/BioFaceService.apk; system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,gts4lvwifi,,,,,system/system/priv-app/BioFaceService/BioFaceService.apk; system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,gts4lwifi,,,,,system/system/priv-app/BioFaceService/BioFaceService.apk; system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,gts6lwifi,,,,,system/system/priv-app/BioFaceService/BioFaceService.apk; system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,gts7fewifi,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,gts9,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,gts9fep,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,gts9p,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,gts9u,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,gts9wifi,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,gvlteatt,,,,,
+samsung,ha3g,,,,,
+samsung,hero2lte,,,,,system/priv-app/FaceService/FaceService.apk; system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,hero2qlteue,,,,,system/priv-app/FaceService/FaceService.apk; system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,herolte,,,,,system/priv-app/FaceService/FaceService.apk; system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,heroqltespr,,,,,system/priv-app/FaceService/FaceService.apk; system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,hlteatt,,,,,system/app/FaceLock.apk
+samsung,j1x3g,,,,,
+samsung,j2corelte,,,,,
+samsung,j2y18lte,,,,,
+samsung,j3xlte,,,,,
+samsung,j3xproltechn,,,,,
+samsung,j3y17lte,,,,,system/priv-app/FaceService/FaceService.apk
+samsung,j4corelte,,,,,
+samsung,j4lte,,,,,system/priv-app/FaceService/FaceService.apk
+samsung,j4primelte,,,,,system/priv-app/BioFaceService/BioFaceService.apk; system/priv-app/FaceService/FaceService.apk
+samsung,j4primeltekx,,,,,system/system/priv-app/BioFaceService/BioFaceService.apk; system/system/priv-app/FaceService/FaceService.apk
+samsung,j5xnlte,,,,,system/priv-app/FaceService/FaceService.apk
+samsung,j5y17lte,,,,,system/priv-app/FaceService/FaceService.apk
+samsung,j6lte,,,,,system/system/priv-app/BioFaceService/BioFaceService.apk; system/system/priv-app/FaceService/FaceService.apk
+samsung,j6primelte,,,,,system/system/priv-app/BioFaceService/BioFaceService.apk; system/system/priv-app/FaceService/FaceService.apk
+samsung,j7popeltetmo,,,,,
+samsung,j7toplteskt,,,,,system/system/priv-app/BioFaceService/BioFaceService.apk; system/system/priv-app/FaceService/FaceService.apk
+samsung,j7velte,,,,,system/priv-app/FaceService/FaceService.apk
+samsung,j7y17lte,,,,,system/priv-app/FaceService/FaceService.apk
+samsung,jackpotlte,,,,,system/priv-app/BioFaceService/BioFaceService.apk; system/priv-app/FaceService/FaceService.apk; system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,jackpotveltedcm,,,,,system/system/priv-app/BioFaceService/BioFaceService.apk; system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,jactivelte,,,,,system/app/FaceLock/FaceLock.apk
+samsung,jflte,,,,,system/app/FaceLock/FaceLock.apk
+samsung,jfltecan,,,,,system/app/FaceLock/FaceLock.apk
+samsung,jfltespr,,,,,system/app/FaceLock/FaceLock.apk
+samsung,jfvelte,,,,,system/app/FaceLock/FaceLock.apk
+samsung,kellyltechn,,,,,system/priv-app/BioFaceService/BioFaceService.apk; system/priv-app/FaceService/FaceService.apk; system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,klteattactive,,,,,
+samsung,kmini3g,,,,,system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,kyleopen,,,,,
+samsung,lt02wifi,,,,,
+samsung,m0,,,,,system/app/FaceLock.apk
+samsung,m01q,vendor/lib/libarcsoft_faceid.so,,,,system/system/priv-app/FaceService/FaceService.apk
+samsung,m10lte,,,,,system/system/priv-app/BioFaceService/BioFaceService.apk; system/system/priv-app/FaceService/FaceService.apk
+samsung,m11q,vendor/lib/libarcsoft_faceid.so,,,,system/system/priv-app/FaceService/FaceService.apk
+samsung,m14x,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,m20lte,,,,,system/system/priv-app/BioFaceService/BioFaceService.apk; system/system/priv-app/FaceService/FaceService.apk
+samsung,m21,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,m30lte,,,,,system/system/priv-app/BioFaceService/BioFaceService.apk; system/system/priv-app/FaceService/FaceService.apk
+samsung,m30s,,,,,
+samsung,m31,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,m32,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,m34x,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,m40,,,,,system/system/priv-app/BioFaceService/BioFaceService.apk; system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,m44x,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,m51,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,m52xq,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,m54x,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,m55xq,,,,,
+samsung,m56x,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,m62,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,noblelte,,,,,system/priv-app/FaceService/FaceService.apk; system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,o1q,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,o1s,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,o5prolte,,,,,
+samsung,on5xelte,,,,,system/priv-app/FaceService/FaceService.apk
+samsung,on7xelte,,,,,system/priv-app/FaceService/FaceService.apk
+samsung,on7xreflte,,,,,system/priv-app/BioFaceService/BioFaceService.apk; system/priv-app/FaceService/FaceService.apk
+samsung,p3q,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,p3s,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,p3s_fix,,,,,system/system/priv-app/FaceService/FaceService.apk
+samsung,p4noterf,,,,,system/app/FaceLock.apk
+samsung,pa1q,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,pa2q,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,pa3q,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,phoenix,system/lib64/libarcsoft_faceid.so,,,,system/priv-app/WosFaceService/WosFaceService.apk
+samsung,projectxul,,,,,
+samsung,q2q,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,q5q,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,q6q,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,qssi,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,r11q,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,r11s,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,r12s,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,r1q,,,,,system/system/priv-app/FaceService/FaceService.apk
+samsung,r3q,,,,,system/system/priv-app/BioFaceService/BioFaceService.apk; system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,r5q,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,r7,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,r8q,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,r8s,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,r9q,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,r9s,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,sc-02h,,,,,system/priv-app/FaceService/FaceService.apk; system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,star2lte,,,,,system/system/priv-app/BioFaceService/BioFaceService.apk; system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,star2qltechn,,,,,system/system/priv-app/BioFaceService/BioFaceService.apk; system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,star2qltecs,,,,,system/priv-app/BioFaceService/BioFaceService.apk; system/priv-app/FaceService/FaceService.apk; system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,starlte,,,,,system/system/priv-app/BioFaceService/BioFaceService.apk; system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,starqltechn,,,,,system/system/priv-app/BioFaceService/BioFaceService.apk; system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,starqlteue,,,,,system/priv-app/BioFaceService/BioFaceService.apk; system/priv-app/FaceService/FaceService.apk; system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,t2q,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,t2s,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,t2s_fix,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,v4q,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,vivaltods5m,,,,,
+samsung,winner,,,,,system/system/priv-app/BioFaceService/BioFaceService.apk; system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,x1s,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,xcover4lte,,,,,system/priv-app/FaceService/FaceService.apk
+samsung,xcover4s,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,xcover5,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,xcoverpro,,,,,system/system/priv-app/FaceService/FaceService.apk
+samsung,y2s,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,z3s,,,,,system/system/priv-app/FaceService/FaceService.apk; system/system/priv-app/smartfaceservice/smartfaceservice.apk
+samsung,zenlte,,,,,
+samsung,zenlteatt,,,,,
+samsung,zeroflte,,,,,system/priv-app/FaceService/FaceService.apk; system/priv-app/smartfaceservice/smartfaceservice.apk
+sceptre,gangbyeon,,,,,
+sceptre,kanda,,,,,
+schok,sv55216,,,,,
+secure_phone,x2,,,,,
+sharp,hd1,,system/system/lib/libMegviiUnlock.so,,,
+sharp,hh6_sprout,,,,,system/system/app/FaceLock/FaceLock.apk
+sharp,sat,,,,,system/system/app/FaceLock/FaceLock.apk
+sharp,sindang,,,,,
+sharp,sttm21vapp,,,,,
+shift,axolotl,,,,,
+shift,shift5_3,,,,,
+shift,shift6m,,,,,
+shift4,shift4,,,,,
+shift4.2,shift4.2,,,,,
+shift5,shift5,,,,,system/app/FaceLock.apk
+shift5.1,shift5.1,,,,,
+simbans,picassotab_9,,,,,
+sky,ef71k,,,,,
+sky,platinum_c4,,,,,
+skyworth,skywortha3,,,,,
+smartisan,darwin,,,,,system/system/priv-app/FaceRecognition/FaceRecognition.apk
+smartisan,delta,,system/system/priv-app/FaceRecognition/lib/arm64/libMegviiUnlock.so,,,system/system/priv-app/FaceRecognition/FaceRecognition.apk
+smartisan,ocean,,system/priv-app/FaceRecognition/lib/arm64/libMegviiUnlock.so,,,system/priv-app/FaceRecognition/FaceRecognition.apk
+smartisan,oxford,,system/lib64/libMegviiUnlock.so; system/priv-app/FaceRecognition/lib/arm64/libMegviiUnlock.so,,,system/priv-app/FaceRecognition/FaceRecognition.apk
+smartisan,trident,,system/system/priv-app/FaceRecognition/lib/arm64/libMegviiUnlock.so,,,system/system/priv-app/FaceRecognition/FaceRecognition.apk
+smartron,rimo02a,,,,,system/app/FaceLock/FaceLock.apk
+sonim,xp8800,,,,,system/system/app/FaceLock/FaceLock.apk
+sonim,xp9900,,vendor/lib64/libMegviiUnlock.so; vendor/lib/libMegviiUnlock.so,,,system/system/priv-app/ApeFaceUnlock_R_P800/ApeFaceUnlock_R_P800.apk
+sony,akari_dsds,,,,,system/system/app/FaceLock/FaceLock.apk
+sony,akatsuki,,,,,system/system/app/FaceLock/FaceLock.apk
+sony,akatsuki_dsds,,,,,system/system/app/FaceLock/FaceLock.apk
+sony,apollo,,,,,system/system/app/FaceLock/FaceLock.apk
+sony,apollo_dsds,,,,,system/system/app/FaceLock/FaceLock.apk
+sony,aurora_dsds,,,,,system/system/app/FaceLock/FaceLock.apk
+sony,blanc_windy,,,,,system/app/FaceLock/FaceLock.apk
+sony,bright_windy,,,,,system/app/FaceLock/FaceLock.apk
+sony,d5503,,,,,system/app/FaceLock/FaceLock.apk
+sony,d6503,,,,,system/app/FaceLock/FaceLock.apk
+sony,discovery,,,,,system/system/app/FaceLock/FaceLock.apk
+sony,dora,,,,,system/app/FaceLock/FaceLock.apk
+sony,dragon,,,,,system/system/app/FaceLock/FaceLock.apk
+sony,h8166,,,,,system/system/product/app/FaceLock/FaceLock.apk
+sony,h8266,,,,,system/system/product/app/FaceLock/FaceLock.apk
+sony,h8324,,,,,system/system/product/app/FaceLock/FaceLock.apk
+sony,h8416,,,,,system/system/product/app/FaceLock/FaceLock.apk
+sony,h9436,,,,,system/system/product/app/FaceLock/FaceLock.apk
+sony,houou,,,,,system/system/app/FaceLock/FaceLock.apk
+sony,i3123,,,,,system/system/product/app/FaceLock/FaceLock.apk
+sony,i4113,,,,,system/system/product/app/FaceLock/FaceLock.apk
+sony,i4213,,,,,system/system/product/app/FaceLock/FaceLock.apk
+sony,j8010,,,,,system/system/app/FaceLock/FaceLock.apk
+sony,j8110,,,,,system/system/app/FaceLock/FaceLock.apk
+sony,j8210,,,,,system/system/app/FaceLock/FaceLock.apk
+sony,j9110,,,,,system/system/product/app/FaceLock/FaceLock.apk
+sony,j9210,,,,,system/system/product/app/FaceLock/FaceLock.apk
+sony,keyaki_dsds,,,,,system/app/FaceLock/FaceLock.apk
+sony,kirin,,,,,system/system/app/FaceLock/FaceLock.apk
+sony,kirin_dsds,,,,,system/system/app/FaceLock/FaceLock.apk
+sony,lilac,,,,,system/app/FaceLock/FaceLock.apk
+sony,maple,,,,,system/app/FaceLock/FaceLock.apk
+sony,maple_dsds,,,,,system/app/FaceLock/FaceLock.apk
+sony,mermaid,,,,,system/system/app/FaceLock/FaceLock.apk
+sony,mermaid_dsds,,,,,system/system/app/FaceLock/FaceLock.apk
+sony,pdx206,,,,,product/app/FaceLock/FaceLock.apk
+sony,pdx215,,,,,
+sony,pdx217,,,,,
+sony,pdx223,,,,,
+sony,pdx224,,,,,
+sony,pdx234,,,,,
+sony,pdx237,,,,,
+sony,pdx245,,,,,
+sony,pdx246,,,,,
+sony,pdx256,,,,,
+sony,pioneer,,,,,system/system/app/FaceLock/FaceLock.apk
+sony,poplar_dsds,,,,,system/app/FaceLock/FaceLock.apk
+sony,qssi,,,,,product/app/FaceLock/FaceLock.apk
+sony,sumire,,,,,system/app/FaceLock/FaceLock.apk
+sony,voyager_dsds,,,,,system/system/app/FaceLock/FaceLock.apk
+sony,xq-at51,,,,,product/app/FaceLock/FaceLock.apk
+sony,xq-au51,,,,,product/app/FaceLock/FaceLock.apk
+sonyaudio,icx1293,,,,,
+sonyaudio,icx1295,,,,,
+spc,l62,,,,,system/app/FaceLock/FaceLock.apk
+specta,rc331,,,,,
+sprd,sl8541e_1h10,,,,,system/priv-app/HeilsFaceUnlock/HeilsFaceUnlock.apk
+sprd,sp7731e_1h10,,,,,
+sprd,ums512_1h10,,,,,
+sprd,uws6137_1h10_64b,,,,,
+sprd,v800,,vendor/lib/libMegviiUnlock.so; vendor/lib64/libMegviiUnlock.so,,,system/system/app/FaceLock/FaceLock.apk; system/system/priv-app/ApeFaceUnlock/ApeFaceUnlock.apk
+stream,dv8555-altice,,,,,
+stream,everest,,,,,system/priv-app/FaceUnlock/FaceUnlock.apk
+sunmi,v2,,,,,
+supersonic,kanda,,,,,
+surface,duo,,,,,
+surface,duo2,,,,,
+surface,duo_emulator,,,,,
+surface,eos_emulator,,,,,
+surface,ssi_sdk_x86_64,,,,,
+symphony,e90,,,,,
+symphony,g100,,,,,
+symphony,i15,,,,,
+symphony,i72,,,,,
+symphony,v128,,,,,
+symphony,v141,,,,,
+symphony,v145,,,,,
+symphony,v47,,,,,
+symphony,v99,,,,,
+symphony,z28,,vendor/lib/libMegviiUnlock.so,,,system/system/priv-app/FaceUnlock/FaceUnlock.apk
+symphony,z60_plus,,,,,
+t-mobile,bethpage,,,,vendor/lib64/libbstFaceUnlock.so; vendor/lib/libbstFaceUnlock.so,system/system/priv-app/FaceService/FaceService.apk
+tcl,a3a_8_4g,,,,,
+tcl,austin,,,,,system/system/priv-app/TctFaceUnlockService/TctFaceUnlockService.apk; system/system/priv-app/TctFaceUnlock/TctFaceUnlock.apk
+tcl,beyondtv4,,,,,
+tcl,chicago,,,,,system/system/priv-app/TctFaceUnlockService/TctFaceUnlockService.apk; system/system/priv-app/TctFaceUnlock/TctFaceUnlock.apk
+tcl,curie,,,,,
+tcl,faraday,,,,,
+tcl,feijao,,,,,system/app/FaceLock/FaceLock.apk
+tcl,tb8765ap1_bsp,,system/system/lib/libMegviiUnlock.so; system/system/priv-app/MtkSystemUI/lib/arm/libMegviiUnlock.so,,,
+tcl,tokyo_tf,,,,,
+tcl,u3a_10_wifi,,,,,
+techpad,s6,,,,,
+teclast,m40_eea,,,,,
+teclast,p20s_eea,,,,,
+teclast,p80x_g5k1,,,,,
+teclast,t30,,,,,
+teclast,t60ai,,,,,system/system/app/AwFaceIdDemo/AwFaceIdDemo.apk
+tecno,full-64,,,system_ext/app/FaceID/lib/arm64/libstfaceunlockppl.so; system_ext/lib64/libstfaceunlockppl.so,,system_ext/app/FaceID/FaceID.apk; system_ext/app/FaceidSub/FaceidSub.apk
+tecno,full-64-armv82,,,,,
+tecno,tecno-ac8,,,system_ext/app/FaceID/lib/arm64/libstfaceunlockppl.so; system_ext/lib64/libstfaceunlockppl.so,,system_ext/app/FaceID/FaceID.apk; system_ext/app/FaceidSub/FaceidSub.apk
+tecno,tecno-bb4k,,,system/system/lib/libstfaceunlockppl.so,,system/system/app/FaceID/FaceID.apk
+tecno,tecno-bf7n,,,,,system_ext/app/FaceID/FaceID.apk
+tecno,tecno-cc9,,,system/system/lib64/libstfaceunlockppl.so,,system/system/app/FaceID/FaceID.apk
+tecno,tecno-cd6,,,system/system/app/FaceID/lib/arm64/libstfaceunlockppl.so; system/system/lib64/libstfaceunlockppl.so,,system/system/app/FaceID/FaceID.apk; system/system/app/FaceidSub/FaceidSub.apk
+tecno,tecno-cg6,,,,,
+tecno,tecno-ck8n,,,vendor/lib64/libstfaceunlockppl.so; vendor/lib/libstfaceunlockppl.so,,system_ext/app/FaceID/FaceID.apk
+tecno,tecno-ck8nb,,,vendor/lib64/libstfaceunlockppl.so; vendor/lib/libstfaceunlockppl.so,,system_ext/app/FaceID/FaceID.apk
+tecno,tecno-kb8,,,,,
+tecno,tecno-kc2,,,system/system/app/FaceID/lib/arm64/libstfaceunlockppl.so; system/system/lib64/libstfaceunlockppl.so,,system/system/app/FaceID/FaceID.apk
+tecno,tecno-kc3,,,system/system/app/FaceID/lib/arm64/libstfaceunlockppl.so; system/system/lib64/libstfaceunlockppl.so,,system/system/app/FaceID/FaceID.apk
+tecno,tecno-ki5n,,,,,system_ext/app/FaceID/FaceID.apk
+tecno,tecno-ki7,,,,,system_ext/app/FaceID/FaceID.apk
+tecno,tecno-kj5,,,vendor/lib64/libstfaceunlockppl.so; vendor/lib/libstfaceunlockppl.so,,system_ext/app/FaceID/FaceID.apk
+tecno,tecno-lb8,,,system/system/lib/libstfaceunlockppl.so,,system/system/app/FaceID/FaceID.apk
+tecno,tecno-lb8a,,,system/system/app/FaceID/lib/arm64/libstfaceunlockppl.so; system/system/lib64/libstfaceunlockppl.so,,system/system/app/FaceID/FaceID.apk
+tecno,tecno-lc6,,,,,system/system/app/FaceID/FaceID.apk
+tecno,tecno-lc6a,,,,,system/system/app/FaceID/FaceID.apk
+tecno,tecno-le6,,,system_ext/lib64/libstfaceunlockppl.so,,system_ext/app/FaceID/FaceID.apk; system_ext/app/FaceidSub/FaceidSub.apk
+tecno,tecno-le7,,,system_ext/app/FaceID/lib/arm64/libstfaceunlockppl.so; system_ext/lib64/libstfaceunlockppl.so,,system_ext/app/FaceID/FaceID.apk; system_ext/app/FaceidSub/FaceidSub.apk
+tecno,tecno-le8,,,system_ext/app/FaceID/lib/arm64/libstfaceunlockppl.so; system_ext/lib64/libstfaceunlockppl.so,,system_ext/app/FaceID/FaceID.apk; system_ext/app/FaceidSub/FaceidSub.apk
+tecno,tecno-lh8n,,,vendor/lib64/libstfaceunlockppl.so; vendor/lib/libstfaceunlockppl.so,,system_ext/app/FaceID/FaceID.apk
+telkom,dv8219,,,,,
+teracube,teracube_2e,,,,,
+teracube,teracube_one,,,,,system/system/app/FaceLock/FaceLock.apk
+texet,tm-5584,,,,,
+things,msm8x53_som,,,,,
+things,mt8167s_som,,,,,
+tianyi1hao2022,ares,,,,,
+TRUE,4gwifi,,,,,
+ulefone,armor_10_5g,,,system/system/lib64/libstfaceunlock.so; system/system/lib/libstfaceunlock.so,,system/system/app/TFaceServiceApp/TFaceServiceApp.apk; system/system/priv-app/FaceUnlock/FaceUnlock.apk
+ulefone,armor_6e,,,,,system/system/priv-app/FaceUnlock/FaceUnlock.apk
+ulefone,armor_7,,,system/system/lib/libstfaceunlock.so; system/system/lib64/libstfaceunlock.so,,system/system/app/TFaceServiceApp/TFaceServiceApp.apk; system/system/priv-app/FaceUnlock/FaceUnlock.apk
+ulefone,note_15,,,vendor/lib/libstfaceunlock.so,,
+ulefone,power_6,,,,,system/system/priv-app/FaceUnlock/FaceUnlock.apk
+ulefone,power_armor_13,,,system/system/lib64/libstfaceunlock.so; system/system/lib/libstfaceunlock.so,,system/system/app/TFaceServiceApp/TFaceServiceApp.apk; system/system/priv-app/FaceUnlock/FaceUnlock.apk
+ulefone,ulefone_s11,,,system/system/app/TFaceServiceApp/lib/arm/libstfaceunlock.so; vendor/lib/libstfaceunlock.so,,system/system/app/TFaceServiceApp/TFaceServiceApp.apk; system/system/priv-app/FaceUnlock/FaceUnlock.apk
+umidigi,a13,,,,,
+umidigi,a13_pro,,,,,
+umidigi,a13s,,,,,
+umidigi,a5_pro,,,,,system/system/priv-app/FaceUnlock/FaceUnlock.apk
+umidigi,a7_eea,,,,,system/system/priv-app/FaceUnlock/FaceUnlock.apk
+umidigi,a7_pro,,,,,system/system/priv-app/FaceUnlock/FaceUnlock.apk
+umidigi,a7s,,,,,system/system/priv-app/FaceUnlock/FaceUnlock.apk
+umidigi,a9_pro,,,,,system/system/priv-app/FaceUnlock/FaceUnlock.apk
+umidigi,bison,,,,,system/system/priv-app/FaceUnlock/FaceUnlock.apk
+umidigi,bison_pro,,,vendor/lib64/libstfaceunlock.so; vendor/lib/libstfaceunlock.so,,
+umidigi,bison_x10s_nfc,,,,,
+umidigi,f1,,,,,system/system/app/FaceLock/FaceLock.apk; system/system/priv-app/FaceUnlock/FaceUnlock.apk
+umidigi,f2,,,,,system/system/priv-app/FaceUnlock/FaceUnlock.apk
+umidigi,one_max,,,,,system/system/app/FaceLock/FaceLock.apk; system/system/priv-app/FaceUnlock/FaceUnlock.apk
+umidigi,s3_pro,,,,,system/system/app/FaceLock/FaceLock.apk; system/system/priv-app/FaceUnlock/FaceUnlock.apk
+umidigi,umidigi_x,,,,,system/system/priv-app/FaceUnlock/FaceUnlock.apk
+umidigi,z2_pro,,,,,system/app/FaceLock/FaceLock.apk; system/priv-app/FaceUnlock/FaceUnlock.apk
+umx,u2-plus-te-vr,,,,,
+umx,u2vr,,,,,system/app/FaceLock/FaceLock.apk
+umx,u3ar,,,,,
+umx,u683cl,,,,,
+umx,u693cl,,,,,
+umx,u696cl,,,,,
+unihertz,atom_l,,,,,product/priv-app/FaceUnlockAddOn/FaceUnlockAddOn.apk; product/priv-app/FaceUnlock/FaceUnlock.apk
+unihertz,jelly2,,,,,product/priv-app/FaceUnlockAddOn/FaceUnlockAddOn.apk; product/priv-app/FaceUnlock/FaceUnlock.apk
+unihertz,jelly_max,,,vendor/lib64/libstfaceunlock.so,,
+unihertz,jelly_star,,,vendor/lib64/libstfaceunlock.so; vendor/lib/libstfaceunlock.so,,
+unihertz,luna,,,vendor/lib64/libstfaceunlock.so; vendor/lib/libstfaceunlock.so,,
+unihertz,titan,,,,,system/system/app/FaceLock/FaceLock.apk; system/system/priv-app/FaceUnlock/FaceUnlock.apk
+unisoc,ums512_1h10,,,,,
+unknown,aop,,,,,
+unknown,b2n,,,,,
+unknown,danube,,,,,
+unknown,flame,,,,,system/app/FaceLock/FaceLock.apk
+unknown,generic_a15,,,,,
+unknown,generic_a53,,odm/lib64/libMegviiUnlock.so,,,
+unknown,nb1_bsp,,,,,
+unknown,pnx,,,,,
+unknown,unknown,,,,,
+unknown-1,unknown,,,,,system/app/FaceLock/FaceLock.apk
+unkown,fih_sdm845,,,,,
+unkown,sat_bsp,,,,,
+ursus,ns370,,,,,
+verizon,jfltevzw,,,,,system/app/FaceLock/FaceLock.apk
+verizon,zeroltevzw,,,,,system/priv-app/FaceService/FaceService.apk; system/priv-app/smartfaceservice/smartfaceservice.apk
+vertex,grip,,,,,
+vestel,pardus,,,system/system/lib/libstfaceunlock.so; system/system/lib64/libstfaceunlock.so,,system/system/app/TFaceServiceApp/TFaceServiceApp.apk; system/system/priv-app/FaceUnlock/FaceUnlock.apk
+visible,wtvis01,,,,vendor/lib64/libbstFaceUnlock.so; vendor/lib/libbstFaceUnlock.so,system/system/priv-app/FaceService/FaceService.apk
+vivo,1723,,system/system/lib64/libMegviiUnlock.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,1725,,system/system/lib64/libMegviiUnlock.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,1726,,system/lib/libMegviiUnlock.so; system/lib64/libMegviiUnlock.so,,,system/app/FaceUnlock/FaceUnlock.apk
+vivo,1727,,system/system/lib64/libMegviiUnlock.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,1802,,system/lib/libMegviiUnlock.so; system/lib64/libMegviiUnlock.so,,,system/app/FaceUnlock/FaceUnlock.apk
+vivo,1806,,system/system/lib64/libMegviiUnlock.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,1808,,system/lib/libMegviiUnlock.so; system/lib64/libMegviiUnlock.so,,,system/app/FaceUnlock/FaceUnlock.apk
+vivo,1812,,system/lib/libMegviiUnlock.so; system/lib64/libMegviiUnlock.so,,,system/app/FaceUnlock/FaceUnlock.apk
+vivo,1815,,system/lib/libMegviiUnlock.so; system/lib64/libMegviiUnlock.so,,,system/app/FaceUnlock/FaceUnlock.apk
+vivo,1818,,system/system/lib64/libMegviiUnlock.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,1819,,,,,
+vivo,1820,,system/lib/libMegviiUnlock.so; system/lib64/libMegviiUnlock.so,,,system/app/FaceUnlock/FaceUnlock.apk
+vivo,1902,,,system/system/lib64/libstfaceunlockppl.so,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,1907,,,system/system/lib64/libstfaceunlockppl.so,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,1915,,,system/system/lib64/libstfaceunlockppl.so,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,1916,,,system/system/lib64/libstfaceunlockocl.so,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,1919,,system/system/lib64/libMegviiUnlock.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,1920n,,,system/system/lib64/libstfaceunlockocl.so,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,2006,,vendor/lib64/libMegviiUnlock.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,2023,,,,,
+vivo,2025,,vendor/lib64/libMegviiUnlock.so,,,
+vivo,2030,,vendor/lib64/libMegviiUnlock.so,,,
+vivo,2034,,vendor/lib64/libMegviiUnlock.so,,,
+vivo,2036,,vendor/lib64/libMegviiUnlock.so,,,
+vivo,2037,,vendor/lib64/libMegviiUnlock.so,,,
+vivo,2040,,vendor/lib64/libMegviiUnlock.so,,,
+vivo,2041,,,,,
+vivo,2045,,vendor/lib64/libMegviiUnlock.so,,,
+vivo,2046,,,,,
+vivo,2047,,vendor/lib64/libMegviiUnlock.so,,,
+vivo,2050,,,,,
+vivo,2114,,,,,
+vivo,2120,,,,,
+vivo,2124,,vendor/lib64/libMegviiUnlock.so,,,
+vivo,2130,,,,,
+vivo,2132,,,,,
+vivo,2141,,,,,
+vivo,atoll,,vendor/lib64/libMegviiUnlock.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,dpd2221,,vendor/lib64/libanc_faceid.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,erdv9630,,vendor/lib64/libMegviiUnlock.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,k65v1_64_bsp,,vendor/lib64/libMegviiUnlock.so,,,
+vivo,k6853v1_64_6360,,vendor/lib64/libMegviiUnlock.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,msm8937_64,,system/app/IRLedTest/lib/arm64/libMegviiUnlock.so; system/lib64/libMegviiUnlock.so; system/lib/libMegviiUnlock.so,,,system/app/FaceUnlock/FaceUnlock.apk
+vivo,msmnile,,,vendor/lib64/libstfaceunlockocl.so,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd1522a,,,,,
+vivo,pd1718,,,system/lib/libstfaceunlock.so; system/lib/libstfaceunlockdnn.so,,system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd1730bf_ex,,system/system/lib64/libMegviiUnlock.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd1732cf_ex,,system/lib/libMegviiUnlock.so; system/lib64/libMegviiUnlock.so,,,system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd1801,,system/system/lib64/libMegviiUnlock.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd1814f_ex,,system/system/app/IRLedTest/lib/arm64/libMegviiUnlock.so; system/system/lib64/libMegviiUnlock.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd1818c,,system/app/IRLedTest/lib/arm64/libMegviiUnlock.so; system/lib64/libMegviiUnlock.so; system/lib/libMegviiUnlock.so,,,system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd1831f_ex,,,,,
+vivo,pd1832,,system/system/lib64/libMegviiUnlock.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd1836,,,,,
+vivo,pd1901bf_ex,,,system/system/lib64/libstfaceunlockppl.so,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd1901df_ex,,,system/system/lib64/libstfaceunlockppl.so,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd1911,,system/system/lib64/libMegviiUnlock.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd1911f_ex,,system/system/lib64/libMegviiUnlock.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd1916,,system/system/lib64/libMegviiUnlock.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd1921,,system/system/lib64/libMegviiUnlock.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd1924,,,system/system/lib64/libstfaceunlockocl.so,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd1931f_ex,,,system/system/lib64/libstfaceunlockocl.so,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd1938,,,system/system/lib64/libstfaceunlockocl.so,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd1955,,vendor/lib64/libMegviiUnlock.so,,,
+vivo,pd2024,,,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd2046,,vendor/lib64/libMegviiUnlock.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd2047,,vendor/lib64/libMegviiUnlock.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd2049,,,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd2068,,vendor/lib64/libMegviiUnlock.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd2073,,vendor/lib64/libMegviiUnlock.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd2092,,vendor/lib64/libMegviiUnlock.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd2102,,vendor/lib64/libMegviiUnlock.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd2106,,vendor/lib64/libMegviiUnlock.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd2111,,vendor/lib64/libMegviiUnlock.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd2118,,vendor/lib64/libMegviiUnlock.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd2121,,vendor/lib64/libMegviiUnlock.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd2130,,vendor/lib64/libMegviiUnlock.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd2131,,,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd2133,,vendor/lib64/libMegviiUnlock.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd2134,,vendor/lib64/libMegviiUnlock.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd2140,,vendor/lib64/libMegviiUnlock.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd2141,,vendor/lib64/libMegviiUnlock.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd2145,,vendor/lib64/libMegviiUnlock.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd2148,,vendor/lib64/libMegviiUnlock.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd2154,,vendor/lib64/libMegviiUnlock.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd2158,,vendor/lib64/libMegviiUnlock.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd2162,,vendor/lib64/libMegviiUnlock.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd2163,,vendor/lib64/libMegviiUnlock.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd2164,,vendor/lib64/libMegviiUnlock.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd2165,,vendor/lib64/libMegviiUnlock.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd2166,,vendor/lib64/libMegviiUnlock.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd2168,,vendor/lib64/libMegviiUnlock.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd2170,,vendor/lib64/libanc_faceid.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd2178,,vendor/lib64/libMegviiUnlock.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd2185,,vendor/lib64/libMegviiUnlock.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd2186,,vendor/lib64/libMegviiUnlock.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd2199,,vendor/lib64/libMegviiUnlock.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd2217,,vendor/lib64/libanc_faceid.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd2227,,vendor/lib64/libanc_faceid.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd2229,,vendor/lib64/libanc_faceid.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd2230,,vendor/lib64/libanc_faceid.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd2231,,vendor/lib64/libanc_faceid.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd2243,,vendor/lib64/libanc_faceid.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd2254,,vendor/lib64/libanc_faceid.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd2272,,vendor/lib64/libanc_faceid.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,pd2307,,vendor/lib64/libanc_faceid.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,sdm845,,,,,
+vivo,trinket,,vendor/lib64/libMegviiUnlock.so,,,system/system/app/FaceUnlock/FaceUnlock.apk
+vivo,v2144,,vendor/lib64/libMegviiUnlock.so,,,
+vivo,v2145,,vendor/lib64/libMegviiUnlock.so,,,
+vivo,v2158,,,,,
+vivo,v2204,,vendor/lib64/libMegviiUnlock.so,,,
+vivo,v2218,,vendor/lib64/libanc_faceid.so,,,
+vivo,v2219,,vendor/lib64/libanc_faceid.so,,,
+vivo,v2250,,,,,
+vivo,v2254,,,,,
+vivo,v2308,,vendor/lib64/libanc_faceid.so,,,
+vivo,v2309,,vendor/lib64/libanc_faceid.so,,,
+vizio,xr6m10,,,,,
+vizio,xr6p10,,,,,
+vocal,v1,,,,,
+volla,algiz,,,,,system/system/app/LMOFaceUnlock/LMOFaceUnlock.apk
+volla,mimameid,,,,,system/system/app/LMOFaceUnlock/LMOFaceUnlock.apk
+volla,mimir,,,,,system/system/app/LMOFaceUnlock/LMOFaceUnlock.apk
+volla,vidofnir,,,,,system/system/app/LMOFaceUnlock/LMOFaceUnlock.apk
+volla,yggdrasil,,,,,
+volla,yggdrasilx,,,,,
+vortex,v3,,,,,
+voto,voto_v2,,,,,
+vsmart,casuarina,,,,,system/system/priv-app/VinFaceID/VinFaceID.apk
+vsmart,clover,,,,,system/system/app/FaceLock/FaceLock.apk
+vsmart,fivestar,,,,,
+vsmart,jacaranda,,,,,system/system/priv-app/VinFaceID/VinFaceID.apk
+vsmart,jacarandapro,,,,,system/system/priv-app/VinFaceID/VinFaceID.apk
+vsmart,juniper,,,,,system/system/priv-app/VinFaceID/VinFaceID.apk
+vsmart,pq4001,,,,,system/app/FaceLock/FaceLock.apk
+vsmart,pq4002,,,,,system/system/app/FaceLock/FaceLock.apk
+vsmart,pq6001,,,,,system/system/app/FaceLock/FaceLock.apk
+vsmart,pq6002,,,,,system/system/app/FaceLock/FaceLock.apk
+vsmart,rice,,,,,
+vsmart,v220a,,,,,
+vsmart,v620a,,,,,system/system/priv-app/VinFaceID/VinFaceID.apk
+vsmart,willowpro,,,,,
+walton,primo_d9,,,,,
+walton,primo_e10,,,,,
+walton,primo_gh7i,,,,,
+walton,primo_h8,,,,,system/app/FaceLock/FaceLock.apk
+walton,primo_nf4,,,,,
+walton,primo_nh4,,,,,
+walton,primo_r6_max,,,,,
+walton,primo_rx6,,,,,
+walton,primo_s7,,vendor/lib/libMegviiUnlock.so; vendor/lib64/libMegviiUnlock.so,,,system/system/app/FaceLock/FaceLock.apk; system/system/priv-app/ApeFaceUnlock/ApeFaceUnlock.apk
+we,f1,,,,,
+we,we_r4,,,,,
+wiite,c7s,,,,,
+wiko,u307as,,,,,
+wiko,v12bnlite,,,,,system/app/FaceLock/FaceLock.apk
+wiko,v2806,,,,,system/app/FaceLock/FaceLock.apk
+wiko,w-k200,,,,,
+wiko,w-p861,,vendor/lib64/libMegviiUnlock.so,,,system/system/priv-app/ApeFaceUnlock_p861/ApeFaceUnlock_p861.apk
+wiko,w_k400,,,,,
+wileyfox,marmite,,,,,system/app/FaceLock/FaceLock.apk
+windows,windows_x86_64,,,,,
+winmax,tiger_x10,,,,,
+xiaolajiao,d59b,,,,,system/system/priv-app/FreemeFaceService/FreemeFaceService.apk
+xiaomi,agate,,,,,
+xiaomi,agatein,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; system/system/lib64/libstfaceunlockocl.so,,
+xiaomi,aquaman,,,,,
+xiaomi,aries,,,,,
+xiaomi,aristotle,,,,,
+xiaomi,aurora,,,,,
+xiaomi,axolotl,,,,,
+xiaomi,axolotlaxie,,,,,
+xiaomi,axolotlte,,,,,
+xiaomi,babylon,,,,,
+xiaomi,baiji,,,,,
+xiaomi,beryllium,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockoclqcom.so; system/system/lib64/libstfaceunlockoclqcom.so; vendor/lib/libstfaceunlockoclqcom.so,,
+xiaomi,bixi,,,,,
+xiaomi,cancro,,,,,
+xiaomi,cappu,,,,,
+xiaomi,capricorn,,,,,
+xiaomi,cas,,,,,
+xiaomi,cepheus,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; system/system/lib64/libstfaceunlockocl.so,,
+xiaomi,cereus,,,system/lib/libstfaceunlockppl.so,,
+xiaomi,cetus,,,,,
+xiaomi,chenfeng,,,,,
+xiaomi,clover,,,,,
+xiaomi,corot,,,,,
+xiaomi,courbet,,,,,
+xiaomi,crux,,,system/system/lib64/libstfaceunlockocl.so,,
+xiaomi,cupid,,,,,
+xiaomi,dada,,,,,
+xiaomi,daisy_sprout,,,,,
+xiaomi,dangalfhd,,,,,
+xiaomi,dangaluhd,,,,,
+xiaomi,davinci,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; system/system/lib64/libstfaceunlockocl.so,,
+xiaomi,davinciin,,,system/system/lib64/libstfaceunlockocl.so,,
+xiaomi,degas,,,,,
+xiaomi,dijun,,,,,
+xiaomi,dipper,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockoclqcom.so; system/system/lib64/libstfaceunlockoclqcom.so; vendor/lib/libstfaceunlockoclqcom.so,,
+xiaomi,diting,,,,,
+xiaomi,elish,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; system/system/lib64/libstfaceunlockocl.so,,
+xiaomi,enuma,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; system/system/lib64/libstfaceunlockocl.so,,
+xiaomi,equuleus,,,system/system/lib64/libstfaceunlockoclqcom.so; vendor/lib/libstfaceunlockoclqcom.so,,
+xiaomi,fuxi,,,,,
+xiaomi,generic,,,,,
+xiaomi,ginkgo,,,system/system/lib64/libstfaceunlockppl.so,,
+xiaomi,goku,,,,,
+xiaomi,grus,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; system/system/lib64/libstfaceunlockocl.so,,
+xiaomi,haotian,,,,,
+xiaomi,haydn,,,,,
+xiaomi,haydnin,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; system/system/lib64/libstfaceunlockocl.so,,
+xiaomi,houji,,,,,
+xiaomi,ido,,,,,
+xiaomi,ishtar,,,,,
+xiaomi,jasmine_sprout,,,,,
+xiaomi,jason,,system/app/MiuiBiometric/lib/arm64/libMegviiUnlock.so; system/lib64/libMegviiUnlock.so,,,
+xiaomi,jaws,,,,,
+xiaomi,jobs,,,,,
+xiaomi,land,,,,,
+xiaomi,laurel_sprout,,,system/system/lib64/libstfaceunlockocl.so; system/system/lib/libstfaceunlockocl.so,,system/system/priv-app/WosFaceService/WosFaceService.apk
+xiaomi,laurus,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockppl.so; system/system/lib64/libstfaceunlockocl.so; system/system/lib64/libstfaceunlockppl.so; system/system/lib/libstfaceunlockocl.so,,
+xiaomi,lavender,,,,,
+xiaomi,lisa,,,,,
+xiaomi,lithium,,,,,
+xiaomi,liuqin,,,,,
+xiaomi,magnolia,,,,,
+xiaomi,marble,,,,,
+xiaomi,markw,,,,,
+xiaomi,mayfly,,,,,
+xiaomi,meri,,,,,
+xiaomi,mgvi_64_armv82,,,,,
+xiaomi,mi_lx04,,,,,
+xiaomi,mido,,,,,
+xiaomi,mihal,,,,,
+xiaomi,mivendor,,,,,
+xiaomi,mulan,,,,,
+xiaomi,muyu,,,,,
+xiaomi,nabu,,,,,
+xiaomi,nikel,,,,,
+xiaomi,nino,,,,,
+xiaomi,nitrogen,,,system/system/lib64/libstfaceunlockppl.so,,
+xiaomi,nuwa,,,,,
+xiaomi,odin,,,,,
+xiaomi,olive,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockppl.so; system/system/lib64/libstfaceunlockppl.so,,
+xiaomi,olivelite,,,system/system/app/MiuiBiometric/lib/arm/libstfaceunlockppl.so; system/system/lib/libstfaceunlockppl.so,,
+xiaomi,onc,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; system/system/lib64/libstfaceunlockocl.so,,
+xiaomi,once,,,,,
+xiaomi,oneday,,,,,
+xiaomi,pipa,,,,,
+xiaomi,pissarro,,,,,
+xiaomi,plato,,,,,
+xiaomi,psyche,,,,,
+xiaomi,pyxis,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; system/system/lib64/libstfaceunlockocl.so,,
+xiaomi,raphael,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; system/system/lib64/libstfaceunlockocl.so,,
+xiaomi,raphaelin,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; system/system/lib64/libstfaceunlockocl.so,,
+xiaomi,renoir,,,,,
+xiaomi,riva,,,,,
+xiaomi,rolex,,,,,
+xiaomi,rosy,,,,,
+xiaomi,rothko,,,,,
+xiaomi,ruyi,,,,,
+xiaomi,santoni,,,,,
+xiaomi,sheng,,,,,
+xiaomi,shennong,,,,,
+xiaomi,song,,,,,
+xiaomi,soul,,,,,
+xiaomi,star,,,,,
+xiaomi,taoyao,,,,,
+xiaomi,taurus,,,,,
+xiaomi,thor,,,,,
+xiaomi,thyme,,,,,
+xiaomi,tiare,,,,,
+xiaomi,tiffany,,,,,
+xiaomi,tissot_sprout,,,,,system/system/app/FaceLock/FaceLock.apk
+xiaomi,toco,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; system/system/lib64/libstfaceunlockocl.so,,
+xiaomi,tucana,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; system/system/lib64/libstfaceunlockocl.so,,
+xiaomi,tulip,,,system/app/MiuiBiometric/lib/arm64/libstfaceunlockppl.so; system/lib64/libstfaceunlockppl.so,,
+xiaomi,twilight,,,,,
+xiaomi,ugg,,,,,
+xiaomi,ugglite,,,,,
+xiaomi,uke,,,,,
+xiaomi,umi,,,,,
+xiaomi,unicorn,,,,,
+xiaomi,ursa,,,system/lib64/libstfaceunlockoclqcom.so; vendor/lib/libstfaceunlockoclqcom.so,,
+xiaomi,vangogh,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockocl.so; system/system/lib64/libstfaceunlockocl.so,,
+xiaomi,vayu,,,,,
+xiaomi,venus,,,,,
+xiaomi,vili,,,,,
+xiaomi,vince,,,,,
+xiaomi,violet,,,system/system/lib64/libstfaceunlockocl.so,,
+xiaomi,virgo,,,,,
+xiaomi,warm,,,,,
+xiaomi,watchmen,,,,,
+xiaomi,whyred,,system/app/MiuiBiometric/lib/arm64/libMegviiUnlock.so; system/lib64/libMegviiUnlock.so,,,
+xiaomi,willow,,,system/system/app/MiuiBiometric/lib/arm64/libstfaceunlockppl.so; system/system/lib64/libstfaceunlockppl.so,,
+xiaomi,xig04,,,,,
+xiaomi,xuanyuan,,,,,
+xiaomi,ysl,,system/app/MiuiBiometric/lib/arm/libMegviiUnlock.so; system/lib/libMegviiUnlock.so,,,
+xiaomi,yudi,,,,,
+xiaomi,yuechu,,,,,
+xiaomi,zeus,,,,,
+xiaomi,zijin,,,,,
+xiaomi,ziyi,,,,,
+xiaomi,zizhan,,,,,
+xiaomimijia,babel,,,,,
+xming,generic,,,,,
+yandex,amber,,,,,
+yd,et669_64_bsp,,,,,
+yekani,t3a_trend,,,,,system/app/FaceLock/FaceLock.apk
+yu,yu5014,,,,,system/app/FaceLock/FaceLock.apk; system/priv-app/FaceUnlock/FaceUnlock.apk
+yu,yureka,,,,,system/app/FaceLock/FaceLock.apk
+yuho,yuho_y1_pro,,,,,
+yuho,yuho_y1_star,,,system/lib/libstfaceunlock.so,,system/app/FaceLock/FaceLock.apk; system/app/TFaceServiceApp/TFaceServiceApp.apk
+yuho,yuho_y1_stars,,,,,system/app/FaceLock/FaceLock.apk
+zebra,atlas,,,,,
+zebra,helios,,,,,
+zen,admire_shine,,,,,
+ziox,astra_curve_pro,,,,,
+zte,ailsa_ii,,,,,system/app/FaceLock/FaceLock.apk
+zte,fujisan,,,,,system/app/FaceLock/FaceLock.apk
+zte,jerry,,,,,system/app/FaceLock/FaceLock.apk
+zte,k87,,,,,
+zte,lol,,,,,system/app/FaceLock/FaceLock.apk
+zte,msm8909w,,,,,
+zte,p633f08,,,,,system/system/priv-app/FaceVerify_ZTE/FaceVerify_ZTE.apk
+zte,p633s05,,,,,system/system/priv-app/FaceVerify_ZTE/FaceVerify_ZTE.apk
+zte,p725a02,,,,,system/system/priv-app/FaceVerify_ZTE/FaceVerify_ZTE.apk
+zte,p725a12,,,,,system/system/priv-app/faceverify_express_MFV90/faceverify_express_MFV90.apk
+zte,p731f20,,,,,
+zte,p731f30,,,,,
+zte,p845a02,,,,,system/system/priv-app/faceverify_MFV90/faceverify_MFV90.apk
+zte,p855a01,,,system/system/lib64/libstfaceunlockppl.so; system/system/priv-app/FaceVerify_ZTE/lib/arm64/libstfaceunlockppl.so,,system/system/priv-app/FaceVerify_ZTE/FaceVerify_ZTE.apk
+zte,p855a02,,,,,system/system/priv-app/faceverify_express_MFV90/faceverify_express_MFV90.apk
+zte,p855a03_na,,,,,system/system/priv-app/faceverify_express_MFV90/faceverify_express_MFV90.apk
+zte,p855a21,,,,,system/system/app/FaceLock/FaceLock.apk; system/system/priv-app/faceverify_express_MFV90/faceverify_express_MFV90.apk
+zte,p870a02,,,,,system/system/priv-app/FaceVerify_ZTE/FaceVerify_ZTE.apk
+zte,p875a02,,,,,system/system/priv-app/FaceVerify_ZTE/FaceVerify_ZTE.apk
+zte,p875a12,,,,,system/system/priv-app/FaceVerify_ZTE/FaceVerify_ZTE.apk
+zte,p898a01,,,,,system/system/priv-app/FaceVerify_ZTE/FaceVerify_ZTE.apk
+zte,p898f01,,,,,system/system/priv-app/FaceVerify_ZTE/FaceVerify_ZTE.apk
+zte,p932f20,,,,,
+zte,p963f01d,,,,,system/system/app/FaceLock/FaceLock.apk; system/system/priv-app/faceverify_STOCK20/faceverify_STOCK20.apk
+zte,p963f02,,,,,system/system/app/FaceLock/FaceLock.apk; system/system/priv-app/faceverify_STOCK20/faceverify_STOCK20.apk
+zte,p963f30p,,,,,
+zte,z5151,,,,,system/app/FaceLock/FaceLock.apk; system/priv-app/faceverify_st_stockplus/faceverify_st_stockplus.apk
+zte,z6201,,,,,system/system/priv-app/faceverify_express_STOCK20_lib32/faceverify_express_STOCK20_lib32.apk
+zte,z6530,,,,,system/system/app/FaceLock/FaceLock.apk; system/system/priv-app/faceverify_STOCK20/faceverify_STOCK20.apk
+zte,zte_blade_v0820,,,,,
+zuk,z2_plus,,,,,
+zuk,z2_plus_hw,,,,,

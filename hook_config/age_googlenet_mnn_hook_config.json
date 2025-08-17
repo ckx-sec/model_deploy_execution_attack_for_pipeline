@@ -77,13 +77,13 @@
         "address": "0x2358",
         "original_branch_instruction": "b.ne",
         "branch_target": "0x24cc",
-        "instruction": "cmp w2,#0x7",
+        "instruction": "cmp w2,#0x5",
         "registers": [
             {
                 "register": "w2"
             },
             {
-                "register": "0x7"
+                "register": "0x5"
             }
         ],
         "original_branch_address": "0x24b4",
@@ -101,7 +101,7 @@
                 "register": "s1"
             },
             {
-                "register": "0x3f333333"
+                "register": "0x3f000000"
             }
         ],
         "original_branch_address": "0x24c8",

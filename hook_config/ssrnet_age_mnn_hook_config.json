@@ -9,7 +9,7 @@
                 "register": "s1"
             },
             {
-                "register": "0x41900000"
+                "register": "0x42480000"
             }
         ],
         "original_branch_address": "0x1ff0",
@@ -26,7 +26,7 @@
                 "register": "s1"
             },
             {
-                "register": "0x420c0000"
+                "register": "0x425c0000"
             }
         ],
         "original_branch_address": "0x2004",

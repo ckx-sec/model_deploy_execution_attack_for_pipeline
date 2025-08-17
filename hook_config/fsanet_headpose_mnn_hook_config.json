@@ -9,7 +9,7 @@
                 "register": "s8"
             }, 
             {
-                "register": "0x41200000"
+                "register": "0x40a00000"
             }
         ], 
         "original_branch_address": "0x2358"
@@ -24,7 +24,7 @@
                 "register": "s9"
             }, 
             {
-                "register": "0x41200000"
+                "register": "0x40a00000"
             }
         ], 
         "original_branch_address": "0x2424"
@@ -39,7 +39,7 @@
                 "register": "s10"
             }, 
             {
-                "register": "0x41200000"
+                "register": "0x40a00000"
             }
         ], 
         "original_branch_address": "0x243c"

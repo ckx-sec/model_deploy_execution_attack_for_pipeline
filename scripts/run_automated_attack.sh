@@ -50,6 +50,17 @@ EXECUTABLE_NAME=$(basename "$EXECUTABLE")
 # Add third-party library paths to LD_LIBRARY_PATH to ensure executables can find them.
 export LD_LIBRARY_PATH=$BASE_DIR/third_party/mnn/lib:$BASE_DIR/third_party/ncnn/lib:$BASE_DIR/third_party/onnxruntime/lib:$BASE_DIR/third_party/pplnn/lib:$BASE_DIR/third_party/tnn/lib:$LD_LIBRARY_PATH
 
+# --- Python Virtual Environment Activation ---
+# The user-specified virtual environment path.
+VENV_PATH="$BASE_DIR/scripts/.venv/bin/activate"
+if [ -f "$VENV_PATH" ]; then
+    echo "Activating Python virtual environment from: $VENV_PATH"
+    source "$VENV_PATH"
+else
+    echo "Warning: Python virtual environment not found at '$VENV_PATH'."
+    echo "Proceeding with the system's default Python interpreter."
+fi
+
 # --- Dynamic Configuration ---
 
 # 1. Determine paths based on executable name
@@ -234,8 +245,8 @@ while IFS= read -r image_path || [[ -n "$image_path" ]]; do
         --image "$image_path"
         --output-dir "$specific_output_dir"
         --iterations 200
-        --learning-rate 40.0
-        --l-inf-norm 30.0
+        --learning-rate 2.0
+        --l-inf-norm 16.0
         --lr-decay-rate 0.97
         --lr-decay-steps 50
         --population-size 200

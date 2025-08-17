@@ -34,134 +34,6 @@
         "attack_mode": "invert"
     },
     {
-        "address": "0x3040",
-        "original_branch_instruction": "b.ge",
-        "branch_target": "0x30b4",
-        "instruction": "cmp w1,w0",
-        "registers": [
-            {
-                "register": "w1"
-            },
-            {
-                "register": "w0"
-            }
-        ],
-        "original_branch_address": "0x3044",
-        "set_id": "HFGetFaceAttributeResult"
-    },
-    {
-        "address": "0x30bc",
-        "original_branch_instruction": "b.ge",
-        "branch_target": "0x3180",
-        "instruction": "cmp w1,w0",
-        "registers": [
-            {
-                "register": "w1"
-            },
-            {
-                "register": "w0"
-            }
-        ],
-        "original_branch_address": "0x30c0",
-        "set_id": "HFGetFaceAttributeResult"
-    },
-    {
-        "address": "0x3108",
-        "original_branch_instruction": "b.le",
-        "branch_target": "0x3180",
-        "instruction": "cmp w0,#0x2",
-        "registers": [
-            {
-                "register": "w0"
-            },
-            {
-                "register": "0x2"
-            }
-        ],
-        "original_branch_address": "0x310c",
-        "set_id": "HFGetFaceAttributeResult"
-    },
-    {
-        "address": "0x3124",
-        "original_branch_instruction": "b.gt",
-        "branch_target": "0x3180",
-        "instruction": "cmp w0,#0x5",
-        "registers": [
-            {
-                "register": "w0"
-            },
-            {
-                "register": "0x5"
-            }
-        ],
-        "original_branch_address": "0x3128",
-        "set_id": "HFGetFaceAttributeResult"
-    },
-    {
-        "address": "0x3188",
-        "original_branch_instruction": "b.ge",
-        "branch_target": "0x324c",
-        "instruction": "cmp w1,w0",
-        "registers": [
-            {
-                "register": "w1"
-            },
-            {
-                "register": "w0"
-            }
-        ],
-        "original_branch_address": "0x318c",
-        "set_id": "HFGetFaceAttributeResult"
-    },
-    {
-        "address": "0x31d4",
-        "original_branch_instruction": "b.lt",
-        "branch_target": "0x324c",
-        "instruction": "cmp w0,#0x0",
-        "registers": [
-            {
-                "register": "w0"
-            },
-            {
-                "register": "0x0"
-            }
-        ],
-        "original_branch_address": "0x31d8",
-        "set_id": "HFGetFaceAttributeResult"
-    },
-    {
-        "address": "0x31f0",
-        "original_branch_instruction": "b.gt",
-        "branch_target": "0x324c",
-        "instruction": "cmp w0,#0x6",
-        "registers": [
-            {
-                "register": "w0"
-            },
-            {
-                "register": "0x6"
-            }
-        ],
-        "original_branch_address": "0x31f4",
-        "set_id": "HFGetFaceAttributeResult"
-    },
-    {
-        "address": "0x3254",
-        "original_branch_instruction": "b.ge",
-        "branch_target": "0x3418",
-        "instruction": "cmp w1,w0",
-        "registers": [
-            {
-                "register": "w1"
-            },
-            {
-                "register": "w0"
-            }
-        ],
-        "original_branch_address": "0x3258",
-        "set_id": "HFGetFaceAttributeResult"
-    },
-    {
         "address": "0x327c",
         "original_branch_instruction": "b.mi",
         "branch_target": "0x3288",
@@ -177,22 +49,6 @@
         "original_branch_address": "0x3280",
         "set_id": "HFGetFaceAttributeResult",
         "attack_mode": "invert"
-    },
-    {
-        "address": "0x32ac",
-        "original_branch_instruction": "b.ge",
-        "branch_target": "0x32d8",
-        "instruction": "cmp w1,w0",
-        "registers": [
-            {
-                "register": "w1"
-            },
-            {
-                "register": "w0"
-            }
-        ],
-        "original_branch_address": "0x32b0",
-        "set_id": "HFGetFaceAttributeResult"
     },
     {
         "address": "0x3598",
@@ -227,22 +83,6 @@
         "original_branch_address": "0x3644",
         "set_id": "HFGetFaceAttributeResult",
         "attack_mode": "invert"
-    },
-    {
-        "address": "0x3670",
-        "original_branch_instruction": "b.ge",
-        "branch_target": "0x369c",
-        "instruction": "cmp w1,w0",
-        "registers": [
-            {
-                "register": "w1"
-            },
-            {
-                "register": "w0"
-            }
-        ],
-        "original_branch_address": "0x3674",
-        "set_id": "HFGetFaceAttributeResult"
     },
     {
         "address": "0x3808",

@@ -1,0 +1,88 @@
+Brand,Adopted SDK,Device Model Count
+8849,SenseTime SDK,2
+alps,SenseTime SDK,5
+alps,Face++ SDK,2
+asus,Face++ SDK,31
+blackshark,SenseTime SDK,6
+blackshark,Face++ SDK,3
+blackview,SenseTime SDK,2
+blu,SenseTime SDK,3
+blu,Face++ SDK,1
+camfone,SenseTime SDK,3
+clearcellular,SenseTime SDK,3
+cubot,SenseTime SDK,2
+daria,Biometric SensorTech SDK,1
+deutschetelekom,Biometric SensorTech SDK,6
+digma,SenseTime SDK,1
+doogee,SenseTime SDK,3
+fairphone,Face++ SDK,2
+general_luxe,SenseTime SDK,1
+gigaset,Biometric SensorTech SDK,2
+gigaset,SenseTime SDK,1
+gm,SenseTime SDK,1
+google,Face++ SDK,1
+google,SenseTime SDK,1
+hisense,SenseTime SDK,2
+hmd,Face++ SDK,5
+huawei,Face++ SDK,1
+iiif150,SenseTime SDK,2
+infinix,SenseTime SDK,24
+iqoo,Face++ SDK,6
+itel,SenseTime SDK,1
+kirin710,Face++ SDK,1
+kirin970,Face++ SDK,1
+lava,SenseTime SDK,5
+lava,Biometric SensorTech SDK,4
+leeco,SenseTime SDK,3
+lenovo,Face++ SDK,27
+lenovo,Arcsoft SDK,8
+m-horse,SenseTime SDK,1
+meitu,SenseTime SDK,1
+meizu,SenseTime SDK,21
+meizu,Face++ SDK,2
+mi,SenseTime SDK,1
+micromax,SenseTime SDK,2
+motorola,Arcsoft SDK,82
+motorola,Face++ SDK,9
+neffos,SenseTime SDK,1
+nokia,Face++ SDK,9
+nothing,SenseTime SDK,7
+nothing,Arcsoft SDK,1
+nubia,Face++ SDK,4
+omix,SenseTime SDK,2
+oneplus,SenseTime SDK,76
+oplus,SenseTime SDK,5
+oppo,SenseTime SDK,93
+oukitel,SenseTime SDK,1
+palm,Face++ SDK,1
+panasonic,Face++ SDK,1
+poco,SenseTime SDK,15
+qti,SenseTime SDK,24
+rakuten,Face++ SDK,1
+realme,SenseTime SDK,93
+realme,Face++ SDK,1
+redmi,SenseTime SDK,33
+samsung,Arcsoft SDK,9
+samsung,Biometric SensorTech SDK,1
+sharp,Face++ SDK,1
+smartisan,Face++ SDK,4
+sonim,Face++ SDK,1
+sprd,Face++ SDK,1
+symphony,Face++ SDK,1
+t-mobile,Biometric SensorTech SDK,1
+tcl,Face++ SDK,1
+tecno,SenseTime SDK,16
+ulefone,SenseTime SDK,5
+umidigi,SenseTime SDK,1
+unihertz,SenseTime SDK,3
+unknown,Face++ SDK,1
+vestel,SenseTime SDK,1
+visible,Biometric SensorTech SDK,1
+vivo,Face++ SDK,86
+vivo,SenseTime SDK,12
+walton,Face++ SDK,1
+wiko,Face++ SDK,1
+xiaomi,SenseTime SDK,30
+xiaomi,Face++ SDK,3
+yuho,SenseTime SDK,1
+zte,SenseTime SDK,1

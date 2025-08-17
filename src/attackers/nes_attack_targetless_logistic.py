@@ -282,14 +282,16 @@ def _calculate_loss_for_one_pair(values, pair_index, attack_mode, branch_instruc
             print(f"  - Pair #{pair_index} (Mode: {attack_mode.upper()}) Values (v1, v2): ({v1:.4f}, {v2:.4f})")
 
         if attack_mode == 'invert':
-            # Invert `v1 > v2` or `v1 >= v2` => Goal: `v1 <= v2` or `v1 < v2`. Penalize `v1 > v2`.
+            # Invert `v1 > v2` or `v1 >= v2` => Goal: `v1 <= v2` or `v1 < v2`.
             if branch_instruction in ["b.gt", "b.hi", "b.ge", "b.hs", "b.cs"]:
-                pair_loss = np.maximum(0, (v1 - v2) + margin)
-                if verbose: formula = f"max(0, {v1:.4f} - {v2:.4f} + {margin})"
-            # Invert `v1 < v2` or `v1 <= v2` => Goal: `v1 >= v2` or `v1 > v2`. Penalize `v1 < v2`.
+                # Logistic loss for v1 <= v2 (equivalent to v2 >= v1)
+                pair_loss = np.log(1 + np.exp(v1 - v2))
+                if verbose: formula = f"log(1 + exp({v1:.4f} - {v2:.4f}))"
+            # Invert `v1 < v2` or `v1 <= v2` => Goal: `v1 >= v2` or `v1 > v2`.
             elif branch_instruction in ["b.lt", "b.lo", "b.cc", "b.mi", "b.le", "b.ls"]:
-                pair_loss = np.maximum(0, (v2 - v1) + margin)
-                if verbose: formula = f"max(0, {v2:.4f} - {v1:.4f} + {margin})"
+                # Logistic loss for v1 >= v2
+                pair_loss = np.log(1 + np.exp(v2 - v1))
+                if verbose: formula = f"log(1 + exp({v2:.4f} - {v1:.4f}))"
             elif branch_instruction == "b.eq":
                 # Goal: v1 != v2. Encourage |v1-v2| to be large.
                 pair_loss = np.maximum(0, margin - np.abs(v1 - v2)) ** 2
@@ -302,14 +304,16 @@ def _calculate_loss_for_one_pair(values, pair_index, attack_mode, branch_instruc
                 if verbose: print(f"Warning: Unsupported branch instruction '{branch_instruction}' for pair #{pair_index} at {address}. Skipping.")
                 return 0.0
         else:  # attack_mode == 'satisfy'
-            # Satisfy `v1 > v2` or `v1 >= v2`. Penalize `v1 <= v2`.
+            # Satisfy `v1 > v2` or `v1 >= v2`.
             if branch_instruction in ["b.gt", "b.hi", "b.ge", "b.hs", "b.cs"]:
-                pair_loss = np.maximum(0, (v2 - v1) + margin)
-                if verbose: formula = f"max(0, {v2:.4f} - {v1:.4f} + {margin})"
-            # Satisfy `v1 < v2` or `v1 <= v2`. Penalize `v1 >= v2`.
+                # Logistic loss for v1 > v2
+                pair_loss = np.log(1 + np.exp(v2 - v1))
+                if verbose: formula = f"log(1 + exp({v2:.4f} - {v1:.4f}))"
+            # Satisfy `v1 < v2` or `v1 <= v2`.
             elif branch_instruction in ["b.lt", "b.lo", "b.cc", "b.mi", "b.le", "b.ls"]:
-                pair_loss = np.maximum(0, (v1 - v2) + margin)
-                if verbose: formula = f"max(0, {v1:.4f} - {v2:.4f} + {margin})"
+                # Logistic loss for v1 < v2 (equivalent to v2 > v1)
+                pair_loss = np.log(1 + np.exp(v1 - v2))
+                if verbose: formula = f"log(1 + exp({v1:.4f} - {v2:.4f}))"
             elif branch_instruction == "b.eq":
                 # Goal: v1 == v2.
                 pair_loss = (v1 - v2) ** 2
