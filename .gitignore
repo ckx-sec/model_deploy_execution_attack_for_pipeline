@@ -1,6 +1,6 @@
 # macOS specific files
 .DS_Store
-./sdk_coverage_reports/
+sdk_coverage_reports/
 filter_hook_config.py
 # If you have other OS specific files, you can add them here.
 # For example, for Windows:
