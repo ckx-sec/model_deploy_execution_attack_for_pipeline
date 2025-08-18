@@ -46,15 +46,15 @@
         "pairs_to_process": [
             {
                 "pair_index": 5,
-                "attack_mode": "invert"
+                "attack_mode": "satisfy"
             },
             {
                 "pair_index": 6,
-                "attack_mode": "satisfy"
+                "attack_mode": "invert"
             },
             {
                 "pair_index": 7,
-                "attack_mode": "satisfy"
+                "attack_mode": "invert"
             }
             
         ]
